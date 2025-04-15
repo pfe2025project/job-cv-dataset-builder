@@ -13,3 +13,11 @@ Ce dépôt a pour but de :
 - Nettoyer, prétraiter et structurer les données pour l'entraînement d’un modèle de **matching NLP**
 
 ---
+
+## 📂 Structure des données
+
+Les **CVs** et les **offres d’emploi** collectés sont stockés dans les dossiers **scraping/cvs/** et **scraping/offers/**, organisés par domaine (ex. frontend/, backend/, data_science/, etc.).
+
+L’annotation automatique (labellisation) est gérée par un script situé dans le dossier **annotation/**.
+
+Le dataset final labellisé sera sauvegardé dans le dossier **data/**, prêt pour l'entraînement du modèle.
