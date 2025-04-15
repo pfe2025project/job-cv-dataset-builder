@@ -21,3 +21,16 @@ Les **CVs** et les **offres d’emploi** collectés sont stockés dans les dossi
 L’annotation automatique (labellisation) est gérée par un script situé dans le dossier **annotation/**.
 
 Le dataset final labellisé sera sauvegardé dans le dossier **data/**, prêt pour l'entraînement du modèle.
+
+---
+## Génération de CV
+
+---
+## Génération d'Offres
+
+---
+## Annotation
+
+Ici le lien vers `annotation/docs.md`
+
+---
