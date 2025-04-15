@@ -40,6 +40,20 @@ Pour chaque offre :
 
 Les CVs sont assignés **aléatoirement** depuis ces dossiers pour garantir de la variabilité.
 
+## 📝 Processus d'annotation
+
+Une fois les CVs sélectionnés pour chaque offre, le processus d'annotation commence. L'annotation consiste à évaluer la correspondance entre l'offre d'emploi et les CVs sélectionnés. Pour chaque CV, un score ou un niveau est attribué, représentant la pertinence du CV par rapport à l'offre d'emploi.
+
+### 🎯 Attribution du score / niveau
+
+- **Score élevé** : Le CV est fortement pertinent pour l'offre d'emploi.
+- **Score moyen** : Le CV est partiellement pertinent, mais manque de certaines compétences clés.
+- **Score faible** : Le CV est peu pertinent pour l'offre, avec peu de correspondance en termes de compétences ou d'expérience.
+
+Cette évaluation sera utilisée pour entraîner un modèle de matching automatique capable de classer les CVs en fonction de leur pertinence pour une offre d'emploi donnée.
+
+
+
 ---
 
 ## 🧰 Scripts
