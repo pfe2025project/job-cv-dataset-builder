@@ -31,7 +31,7 @@ Le dataset final labellisé sera sauvegardé dans le dossier **data/**, prêt po
 ---
 ## Annotation
 
-Ici le lien vers [annotation/docs.md](./annotation/docs.md)
+Guide ==> [annotation/docs.md](./annotation/docs.md)
 
 
 ---
