@@ -55,16 +55,15 @@ Cette évaluation sera utilisée pour entraîner un modèle de matching automati
 
 
 ---
+## 🤖 Évaluation automatique via LLM
 
-## 🧰 Scripts
+Pour automatiser l’annotation, nous avons utilisé le modèle DeepSeek accessible via la plateforme OpenRouter.
+Ce modèle joue le rôle d’un expert RH virtuel et attribue un score de pertinence entre 0 et 1 à chaque couple offre/CV, sur la base de leur compatibilité sémantique.
 
-Les scripts liés à cette tâche seront disponibles dans le dossier :
+L’appel à l’API se fait à partir d’un script disponible dans le fichier :
 
+[annotate_data.ipynb](annotate_data.ipynb)
 
-annotation/
-├── assign_cv_to_offers.py
-├── utils.py
-└── ...
-
+Ce notebook effectue la lecture des fichiers CV et offres, génère les prompts, envoie les requêtes au modèle via OpenRouter, puis enregistre les scores obtenus.
 
 ---
