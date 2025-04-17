@@ -1,0 +1,73 @@
+Title: SR Machine Learning OPS Specialist
+        Company: BJ's Wholesale Club
+        Location: Marlborough, Middlesex County
+        
+        Description:
+        Join our team of more than 34,000 team members, supporting our members and communities in our Club Support Center, 235+ clubs and eight distribution centers. BJ’s Wholesale Club offers a collaborative and inclusive environment where all team members can learn, grow and be their authentic selves. Together, we’re committed to providing outstanding service and convenience to our members, helping them save on the products and services they need for their families and homes.
+The Benefits of working at BJ’s
+•        BJ’s pays weekly
+•        Eligible for free BJ's Inner Circle and Supplemental membership(s)*
+•        Generous time off programs to support busy lifestyles*
+o Vacation, Personal, Holiday, Sick, Bereavement Leave, Jury Duty
+•        Benefit plans for your changing needs*
+o Three medical plans**, Health Savings  Account (HSA), two dental plans, vision plan, flexible spending ​
+•        401(k) plan with company match (must be at least 18 years old)
+*eligibility requirements vary by position
+**medical plans vary by location
+Join a team of more than 25,000 team members, comprised of our Club Support Center and over 250 clubs and 7 distribution centers in 17 states. We’re committed to delivering value and convenience to our Members, helping them save every day on everything they need for their family and home. BJ’s Wholesale Club offers a collaborative, team-oriented environment where all team members can learn, grow, and excel.
+Who You Are:
+You are a highly skilled and experienced Machine Learning Operations (ML Ops) professional with a strong background in machine learning, software engineering, and operations. You excel at optimizing the deployment, monitoring, and performance of machine learning models in production environments. Your expertise ensures that our machine learning models are deployed efficiently and maintained effectively, driving business growth and enhancing customer experiences.
+What the Role Is:
+As an ML Ops Specialist, you will be responsible for managing and scaling our machine learning models, ensuring they are production-ready and continuously optimized. You will design and maintain robust ML infrastructure, implement CI/CD pipelines for model deployment, and monitor model performance to provide actionable insights. Your role will involve close collaboration with data scientists, engineers, and IT teams to integrate ML models into production systems seamlessly.
+Key Responsibilities:
+Model Deployment and Management:
+Develop and implement scalable ML deployment strategies, ensuring models are production-ready.
+Automate the deployment process of machine learning models using CI/CD pipelines.
+Monitor the performance of models in production and optimize them for performance and accuracy.
+Manage the lifecycle of machine learning models, including versioning, testing, and rollback strategies.
+Infrastructure and Tools:
+Design and maintain robust ML infrastructure, including data pipelines, model serving infrastructure, and monitoring tools.
+Implement and manage ML platforms and tools to support the end-to-end ML workflow.
+Ensure the infrastructure can handle large-scale data processing and model training workloads.
+Collaboration and Communication:
+Work closely with data scientists, engineers, and IT teams to ensure seamless integration of ML models into production systems.
+Collaborate with cross-functional teams to understand business requirements and translate them into ML solutions.
+Provide technical guidance and support to team members on ML Ops best practices.
+Monitoring and Optimization:
+Implement monitoring and alerting systems to track the performance and health of ML models.
+Continuously optimize models and infrastructure for performance, cost, and scalability.
+Analyze and resolve production issues related to ML models and pipelines.
+Security and Compliance:
+Ensure compliance with data privacy and security regulations in all ML operations.
+Implement security best practices in ML model deployment and data handling.
+Maintain documentation and SOPs for ML Ops processes and procedures.
+Job Requirements:
+Educational Background:
+Bachelor's or Master's degree in Computer Science, Data Science, Engineering, or a related field.
+Professional Experience:
+Minimum of 3-5 years of experience in machine learning, software engineering, or ML Ops.
+Technical Expertise:
+Strong understanding of machine learning concepts, algorithms, and model lifecycle.
+Proficiency in programming languages such as Python, Java, or Scala.
+Experience with ML frameworks and libraries like TensorFlow, PyTorch, or scikit-learn.
+Hands-on experience with ML Ops tools and platforms such as MLflow, Kubeflow, or TFX.
+Familiarity with cloud platforms (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes).
+Data Management:
+Strong knowledge of data processing and ETL pipelines.
+CI/CD and Automation:
+Experience with CI/CD pipelines, automation tools, and practices.
+Monitoring and Performance:
+Proficiency in monitoring tools and performance optimization techniques.
+Soft Skills:
+Problem-Solving:
+Strong analytical and problem-solving skills.
+Communication:
+Excellent verbal and written communication skills.
+Team Collaboration:
+Ability to work collaboratively in a cross-functional team environment.
+Adaptability:
+Ability to adapt to new technologies and rapidly changing environments.
+Detail-Oriented:
+Attention to detail and a commitment to delivering high-quality solutions.
+In accordance with the Pay Transparency requirements, the following represents a good faith estimate of the compensation range for this position. At BJ’s Wholesale Club, we carefully consider a wide range of non-discriminatory factors when determining salary. Actual salaries will vary depending on factors including but not limited to location, education, experience, and qualifications. The pay range for this position is starting from $95,500.00.
+        

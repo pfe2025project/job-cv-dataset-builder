@@ -1,0 +1,41 @@
+Title: Database Designer
+        Company: Piper Companies
+        Location: Norfolk, Norfolk City
+        
+        Description:
+        Zachary Piper Solutions
+is currently seeking a
+Database Designer
+to support a Navy program on-site in
+Norfolk, VA
+. The
+Database Designer
+should be excited to work on a team focused on solving technical problems and ready to take on solo challenges should the need arise. The role involves building software and database solutions using SQL, PL/SQL, MVC, and Blazor, supported by a back-end Oracle Enterprise RDBMS.
+This job opens for applications on 4/8/25. Applications for this job will be accepted for at least 30 days from the posting date.
+Responsibilities for the Database Designer
+include:
+Subject Matter Expertise in SQL, PL/SQL, MVC, and Blazor to build software and database solutions supported by a back-end Oracle Enterprise RDBMS
+Support current programming languages (i.e., C#, JQuery, Javascript, JSON, Python) and propose new technologies based upon industry trends
+Support conversion of existing data elements to conform to customer Database Design Description (DBDD) and Entity Relation Diagrams (ERDs) to ensure complete and accurate data fills of product
+Support maintenance, security, and documentation of existing and newly developed software code
+Support testing, verification, and validation of data products and data management applications
+Develop of Plan of Action and Milestones (POAM) and related documentation to support Fleet requirements and related IO capabilities
+Utilize Azure DevOps to manage Kanban boards, repositories, testing, and pipelines in two-week sprints
+Qualifications for the Database Designer
+include:
+•5+ years demonstrated experience in the field of software development with preferred prior performance in Oracle Relational Database Management System (RDBMS) development and SQL development/maintenance
+2+ years demonstrated experience in the field of software development with specific prior performance in MS .NET Application development/maintenance
+2+ years demonstrated experience in the field of software development with specific prior performance eXtensable Markup Language (XML) including the use of XML schemas and eXtensible (XSLT) Stylesheet Language (XSLT) to support parsing and import of external data products to an Oracle Relational Database Management System (RDBMS)
+Must possess DOD 8570 CSWF certification: Security+ CE
+Must be able to attain a MS .NET Framework certification within 6 Months
+•Must be eligible to work in the United States and obtain and maintain an
+Active U.S Government TS/SCI
+Compensation for the Database Designer
+include:
+•Salary Range: $140,000 - $165,000 *depending on experience*
+•Comprehensive Benefits: Cigna Medical, Dental, Vision, 401k, PTO, Sick Leave if required by law, and Holidays
+Keywords:
+Database Designer, Zachary Piper Solutions, SQL, PL/SQL, MVC, Blazor, Oracle Enterprise RDBMS, C#, JQuery, Javascript, JSON, Python, Database Design Description (DBDD), Entity Relation Diagrams (ERDs), Software maintenance, Data validation, POAM, Azure DevOps, Kanban boards, Security+ CE, MS .NET Framework certification, Top Secret Clearance
+#LI-FR1
+#LI-ONSITE
+        

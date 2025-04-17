@@ -1,0 +1,29 @@
+Title: Ethereum Developer Remote US(Blockchain-DeFi)
+        Company: Turnblock.io
+        Location: Los Angeles, Los Angeles County
+        
+        Description:
+        Job DescriptionJob Description
+Our client is on crypto’s cutting edge technology, and we’re looking for the right engineers to join them. This is a
+remote
+position for any US candidate.
+Our client's Blockchain Distribution Network (
+BDN
+) allows DeFi (Decentralized Finance) traders to make better trades by being better connected. The key difference is that in the decentralized world of DeFi, you need to be connected to
+everyone
+.
+We’re looking for the right people to join us in building the missing piece in DeFi infrastructure.
+Responsibilities
+As a member of an agile engineering team, you will help design, implement, test and deploy new features in very short cycles to an always-on critical-path infrastructure.
+Requirements
+Qualifications
+5+ years of development experience
+Experience developing Ethereum solutions
+Experience running ETH nodes
+Experience working with Ethereum transactions
+Golang experience – big advantage
+Experience in a Linux working environment
+Creative, independent, and hardworking
+Team player with great interpersonal communication skills
+Great compensation package.If you think you fit the role please apply to join the blockchain journey.
+        

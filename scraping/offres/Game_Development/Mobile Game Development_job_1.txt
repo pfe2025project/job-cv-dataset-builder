@@ -1,0 +1,28 @@
+Title: Mobile Game Developer - Talent Pool
+        Company: side
+        Location: US
+        
+        Description:
+        Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video game industry, with over 40 studios in 15 countries worldwide and offices across North America, Europe, South America, and Asia.
+Our industry-leading services include codev, art production, localization, audio production, quality assurance, localization QA, player support, community management, and datasets.
+Help us bring stories to the world. Join Side's global team of passionate gamers and contribute to top-notch game development. Discover opportunities in Asia, North America, South America, Europe, and beyond.
+Experience our side of life! For more information, visit www.side.inc
+About This Opportunity:
+Please note, this listing is not for an immediate open position but for our
+Talent Pool for Co-Development Roles
+. By applying, you are expressing interest in being considered for future project-based opportunities that align with your skills and experience.
+These opportunities are contingent on
+client needs and project availability
+. As projects are initiated or client proposals are developed, we will review candidates from this pool and contact those who most closely align with the requirements of the specific or prospective co-development opportunity.
+How We Keep You Engaged:
+We believe in maintaining strong relationships with our talent pool. As part of this community, you’ll receive regular updates, industry insights, and will be kept informed of upcoming opportunities. We will also check in to confirm your availability and interest.
+Our hiring teams will carefully vet and select top candidates who best meet project needs, ensuring that you are matched with the right opportunity when it becomes available.
+Next Steps:
+If you are passionate about contributing to cutting-edge projects and want to be considered for future co-development opportunities, we encourage you to apply to this listing. While there may not be an immediate opening, your application ensures that you will be part of our ongoing talent review for upcoming roles.
+Requirements
+Experience shipping a mobile game at the professional level
+Experience with a variety of programming languages including C#
+Unity experience
+Benefits
+N/A
+        

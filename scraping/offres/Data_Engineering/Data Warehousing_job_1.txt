@@ -1,0 +1,13 @@
+Title: Data Warehousing
+        Company: Associates Systems
+        Location: Dallas, Texas
+        
+        Description:
+        At Associates Systems we are in need of an experienced DataWarehouse Lead Developer with AzureSynaps experience for immediate placement.
+The right candidate would have the following skills:
+7-8 years of relational database (SQL, PL/SQL) experience in complex enterprise environment.
+•    7+ years of data warehouse experience using Power BI
+•    5+ years of experience in any ETL designing tool.
+•    AzureSynapse cloud experience
+C2C and W2 options available
+        

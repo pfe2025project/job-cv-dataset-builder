@@ -1,0 +1,39 @@
+Title: Python Software Developer
+        Company: ASM Research, An Accenture Federal Services Company
+        Location: Fort George G Meade, Anne Arundel County
+        
+        Description:
+        - Transition the functionality of the PostGIS database and the functionality of the Jupyter Notebook based on customer direction.
+- Develop prototypes answering new questions as well as providing better answers to existing questions based on customer direction.
+- Develop a series of user facing query forms to leverage stored data to enable analysts to answer geospatial questions.
+- Provide development support to analytic front ends to verify conformity and performance to proposed GUI designs.
+- Provide operational maintenance and support for Customized/Do It Yourself analytics.
+- Provide subject matter expertise for metric generation, usage, and applications.
+Minimum Qualifications
+Bachelor's degree plus 5-years of relevant experience or Master's degree plus 3-years of relevant experience. An Associate's degree plus 7-years of relevant experience or high school diploma/GED plus 9-years of relevant experience may be considered for individuals with in-depth experience that is clearly related to the position
+Computer Science (CS) degree or related field
+TS/SCI clearance with FS polygraph
+Other Job Specific Skills
+- Strong Python skills using PySpark, developing software in Red Hat Linux (versions 3 - 5+).
+- Experience with Jupyter Notebooks.
+- Experience with Machine Learning.
+- Experience with GHOSTMACHINE analytic development.
+- Familiarity with Query Time Analytics and DX.
+- Familiarity with Redshift.
+- Familiarity with Pandas.
+- Familiarity with PostgreSQL.
+- Strong problem solving, logic, and analytic skills.
+Compensation Ranges
+Compensation ranges for ASM Research positions vary depending on multiple factors; including but not limited to, location, skill set, level of education, certifications, client requirements, contract-specific affordability, government clearance and investigation level, and years of experience. The compensation displayed for this role is a general guideline based on these factors and is unique to each role. Monetary compensation is one component of ASM's overall compensation and benefits package for employees.
+EEO Requirements
+It is the policy of ASM that an individual's race, color, religion, sex, disability, age, sexual orientation or national origin are not and will not be considered in any personnel or management decisions. We affirm our commitment to these fundamental policies.
+All recruiting, hiring, training, and promoting for all job classifications is done without regard to race, color, religion, sex, disability, or age. All decisions on employment are made to abide by the principle of equal employment.
+Physical Requirements
+The physical requirements described in "Knowledge, Skills and Abilities" above are representative of those which must be met by an employee to successfully perform the primary functions of this job. (For example, "light office duties' or "lifting up to 50 pounds" or "some travel" required.) Reasonable accommodations may be made to enable individuals with qualifying disabilities, who are otherwise qualified, to perform the primary functions.
+Disclaimer
+The preceding job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job.
+$115k - $124k
+EEO Requirements
+It is the policy of ASM that an individual's race, color, religion, sex, disability, age, gender identity, veteran status, sexual orientation or national origin are not and will not be considered in any personnel or management decisions. We affirm our commitment to these fundamental policies.
+All recruiting, hiring, training, and promoting for all job classifications is done without regard to race, color, religion, sex, veteran status, disability, gender identity, or age. All decisions on employment are made to abide by the principle of equal employment.
+        

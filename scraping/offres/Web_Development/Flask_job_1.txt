@@ -1,0 +1,19 @@
+Title: Python and Flask Developers with DevOps
+        Company: CapB InfoteK
+        Location: Charlotte, Mecklenburg County
+        
+        Description:
+        For one of our ongoing project we are looking for Python Flask developers with DevOps Knowledge.
+Experience designing, building and testing enterprise python applications
+Advanced knowledge of full stack technologies including Flask, React, Javascript, RestfulAPIs.
+Experience in Python, Flask, Sqlalchemy/ Postgres, and should have knowledge of object-relational mapping (ORM)
+Strong understanding of engineering best practices requirement gathering and analysis, design and develop secure and scalable code with unit tests, and documentation
+Very strong implementing Test Driven Development, Domain Driven Design and clean code principles.
+Strong command of SQL (MySQL/ PostgreSQL) for creating reports.
+Understanding of relational and dimensional data modeling
+Strong background culture of delivering projects with First time right and Zero defects in Production.
+Very strong in delivering high quality code and following continuous delivery.
+Good delegation and time management skills
+Familiarity with front-end technologies (like JavaScript and HTML5)
+Should have problem-solving abilities.
+        

@@ -1,0 +1,20 @@
+Title: Sr. Software Engineer - DPDK, Docker, and IP Networking
+        Company: Apposite Technologies LLC
+        Location: Los Angeles, Los Angeles County
+        
+        Description:
+        Job DescriptionJob Description
+Apposite Technologies is looking for a Sr. Software engineer with strong DPDK, Docker, IP Networking, and Linux experience.
+Apposite’s network emulation solutions have helped the world’s largest enterprises, technology vendors, and government organizations develop and launch high performance applications for more than a dozen years.  Apposite is a critical partner to over 3,000 global clients working in exciting technology areas like, cloud migration, block chain, 5G wireless, video streaming, cloud object storage, IoT, and many other applications.  Our small, fast paced team is looking to add a strong engineer who can wear many hats and be a key contributor.
+We are looking for a Sr. Software Engineer to develop on our physical and virtual appliances.  The ideal candidate will be familiar with DPDK, dockers, L2/L3 networking, virtual environments, cloud environments, and different Linux distributions.   Experience porting exiting products into cloud-based products is a plus.
+What you will be doing:
+·         Design and develop an architecture for docker/container, cloud, and virtual solutions
+·         Communicate status with engineering and management
+·         Developing in multiple Linux and cloud environments
+What you need for this position:
+·         Deep understanding DPDK
+·         Container / docker development experience
+·          L2/L3 networking experience
+·         Linux development experience
+·         Cloud experience desirable (AWS, Azure)
+        

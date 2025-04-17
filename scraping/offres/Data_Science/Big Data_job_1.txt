@@ -1,0 +1,27 @@
+Title: Senior Site Reliability Engineer - Big Data Compute Platform
+        Company: Hireio, Inc.
+        Location: Los Angeles, Los Angeles County
+        
+        Description:
+        Job DescriptionJob Description
+Responsibilities:
+Lead a global SRE team for Data Platform, distributed across the US and Singapore. Responsible for the reliability of all major data warehouse products, services, and query engines, such as ClickHouse, Spark, Presto, Doris, etc.
+Uphold Service Level Agreements (SLAs): Ensure that all service level objectives and agreements from ByteDance's Data Platform services are met. Lead team members to respond promptly to any system outages or issues.
+Continuous Performance Optimization: Lead the team to deeply analyze service performance and reliability patterns to identify potential performance bottlenecks. Implement proactive measures to prevent service disruptions. Work with development teams to optimize application performance, ensuring that services run efficiently and those resources are utilized effectively.
+Incident Management: Build robust incident management mechanism. Lead efforts to troubleshoot and resolve service incidents and postmortems. Coordinate with cross-functional teams to manage and mitigate service-impacting events.
+Infrastructure Automation: Lead the team to develop highly efficient toolchains covering end-to-end deployment and reliability assurance operations. Automate infrastructure provisioning, scaling, and management processes to reduce manual interventions and improve service quality. Develop and enhance system capabilities such as auto-failure-detection, auto-healing, chaotic engineering, and perform systematic disaster drills.
+Collaboration: Engage with product and development teams to integrate reliability and performance considerations into the software lifecycle.
+Capacity and Demand Planning: Assess and forecast infrastructure needs based on growth patterns and upcoming initiatives.
+Stay Updated: Keep current with industry trends, best practices, and emerging technologies related to site reliability and infrastructure engineering.
+Requirements
+Qualifications：
+Bachelor's Degree or above, in Computer Science, Engineering, or a related field. Passionate about computer science and Internet technology.
+5+ of experience in the SRE domain. 2+ years of experience in team management.
+5+ years experience and in-depth understanding of Linux, computer networking, and databases. Proficient in common SRE/DevOps open-source toolsets, system monitoring tools, and container orchestration platforms like Kubernetes.
+5 years experience or familiarity with open-source or commercial technologies such as ClickHouse, Hadoop, Doris, Spark, Presto and Kubernetes.
+5 years+ experience in coding in at least one scripting or programming language, including but not limited to Python, Shell, Java, Go, etc.
+Preferred Qualifications:
+Excellent problem-solving skills and the ability to think critically under pressure. Start with the end state in mind, and be willing to take a moonshot.
+Strong written and verbal communication skills, with great customer-first mind set. Strong sense of ownership and easy to collaborate with.
+Able to collaborate effectively with partners and team members across time zones in different countries.
+        

@@ -1,0 +1,32 @@
+Title: Machine Learning Engineer - Deep Neural Networks
+        Company: CyberCoders
+        Location: El Segundo, Los Angeles County
+        
+        Description:
+        Machine Learning Engineer - Deep Neural Networks Since the Mid-90's, we've been partnering with the US government & more recently commercial entities taking a unique approach to R&D and applying that toward real-world solutions. We provide extensive expertise in Synthetic Aperture Radar (SAR) image processing algorithm development, computer vision, modeling and analysis of radar systems & pattern recognition technologies.
+We are looking to add an experienced Machine Learning Engineer to our esteemed team who can develop cutting edge Deep Learning technologies in the domains of Computer Vision, Synthetic Aperture Radar (SAR), and Geospatial Exploitation. Due to the hands-on and sensitive nature of our work, our ideal candidate will have an active Top Secret DoD Security Clearance and be willing to work out of our HQ in El Segundo, CA.
+*Position Overview*: The Machine Learning Engineer - Deep Neural Networks will develop, train, and deploy machine learning algorithms and neural networks to solve challenging real-world problems. The engineer will work with a wide range of tools including Python, TensorFlow, pandas, NumPy, Keras, PyTorch, scikit-learn, and open source frameworks.
+*Key Responsibilities*:
+* Design, implement machine learning algorithms & deep neural networks
+* Perform data analysis using pandas, NumPy, and other libraries
+* Train & deploy ML models in cloud environments
+* Develop & maintain code for production-grade ML applications (Python, etc.)
+* Collaborate with other engineers to optimize models while improving accuracy
+* Create visualizations to monitor model performance
+* Troubleshoot & debug machine learning models
+*Qualifications*:
+* Bachelor's degree in Computer Science, Data Science, Physics, Applied Mathematics, or a related field
+* 1-5+ years of experience in Machine Learning (ML), Data Science, and Artificial Intelligence (AI), ideally with deep learning experience
+* Knowledge in Python, C/C++, TensorFlow, and Neural Networks
+* Ideally you've worked with most or some of the following: Computer Vision, Radar, SAR, Lidar, Matlab, Deep Neural Networks, pandas, NumPy, Keras, PyTorch, scikit-learn, and open source frameworks
+* Excellent debugging and problem solving skills
+* Strong written, verbal, and interpersonal communication skills
+*Benefits*
+* Competitive base pay
+* Retirement program -~ 15% of the employee's salary with no employee contribution required
+* Company-paid PPO plan
+* Generous PTO / vacation policy
+* All employees participate in company bonus plan
+- For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa. CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.This job was first posted by CyberCoders on 05/14/2024 and applications will be accepted on an ongoing basis until the position is filled or closed. *CyberCoders is proud to be an Equal Opportunity Employer*
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act.  CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please contact a member of our Human Resources team to make arrangements.
+        

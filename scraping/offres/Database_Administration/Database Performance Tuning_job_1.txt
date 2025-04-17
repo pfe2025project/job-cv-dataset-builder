@@ -1,0 +1,32 @@
+Title: Oracle Database Performance Tuning Specialist
+        Company: Powder River Industries
+        Location: Washington, Washington, D.C.
+        
+        Description:
+        We are seeking a highly skilled Oracle Database Performance Tuning Specialist to join our team. The ideal candidate will have extensive experience in tuning and optimizing Oracle databases, particularly those hosted on Exadata and Exadata Cloud Service in Oracle Cloud Infrastructure (OCI). This role requires a deep understanding of database performance metrics, optimization techniques, and the ability to implement best practices to ensure optimal database performance and reliability.
+Requirements
+Analyze and optimize the performance of Oracle databases hosted on Exadata and Exadata Cloud Service in OCI.
+Identify performance bottlenecks and implement solutions to improve database efficiency and speed.
+Conduct regular performance tuning and maintenance activities, including indexing, query optimization, and resource management.
+Monitor database performance using Oracle Enterprise Manager and other monitoring tools.
+Collaborate with development and infrastructure teams to design and implement database solutions that meet business requirements.
+Develop and maintain performance tuning documentation and best practices.
+Provide technical support and troubleshooting for database performance issues.
+Stay current with Oracle database technologies and advancements, particularly related to Exadata and OCI.
+Required Skills and Qualifications:
+Minimum of 5 years of experience in Oracle database administration and performance tuning.
+Extensive experience with Oracle Exadata and Exadata Cloud Service in OCI.
+Proficiency in SQL and PL/SQL programming.
+Strong understanding of Oracle database architecture, including RAC, ASM, and Data Guard.
+Experience with Oracle Enterprise Manager and other performance monitoring tools.
+Knowledge of database indexing, partitioning, and query optimization techniques.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+Oracle Certified Professional (OCP) certification is highly desirable.
+Preferred Qualifications:
+Experience with cloud-based database solutions and migrations.
+Familiarity with other Oracle Cloud Infrastructure services.
+Experience with automation tools and scripting languages (e.g., Python, Shell scripting).?
+A notification to prospective applicants that reviews, and tests for the absence of any illegal drug as defined in 10 CFR 707.4, will be conducted by the employer and a background investigation by the Federal government may be required to obtain an access authorization prior to employment, and that subsequent reinvestigations may be required. If the position is covered by the Counterintelligence Evaluation Program regulations at 10 CFR part 709, the announcement should also alert applicants that successful completion of a counterintelligence evaluation may include a counterintelligence-scope polygraph examination.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+        

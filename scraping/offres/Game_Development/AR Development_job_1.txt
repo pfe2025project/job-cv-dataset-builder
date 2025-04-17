@@ -1,0 +1,37 @@
+Title: AR/VR Developer
+        Company: Zekiah Technologies
+        Location: Dahlgren, King George County
+        
+        Description:
+        Full-time
+
+Description
+Zekiah is seeking a creative individual to join our team as an AR/VR Developer. The ideal candidate will have extensive knowledge of Unity or Unreal game engine development. You will be working with other developers, data scientists, and engineers with the shared goal of creating complex virtual systems.
+Responsibilities
+Develop AR and VR environments and systems using the latest AR/VR headsets
+Leverage 3D scanning systems to create realistic 3D models of real-world objects
+Utilize the Unity or Unreal gaming engine, along with C# and Python to develop AR/VR environments
+Integrate sensor outputs, other software applications, and AI/ML algorithms into AR/VR environments
+Requirements
+Certificate, associate’s degree, or bachelor’s degree in graphic design or a related field
+Senior experience (5+ years of experience) with Unity or Unreal game engine development
+Proficient in C#, C++, or C, and familiar with Python
+Familiar with parsing of binary packages over the network or raw input files. You should be able to take a defined format description and apply it
+Ability to manage priorities from multiple projects
+Knowledge of inter-process communications (networking, named pipes, memory-mapped files)
+Ability to integrate with external plugins and libraries
+Knowledge of video encoding, decoding, and streaming through FFMPEG/VLC/GSTREAMER
+Familiar with Git workflows
+Contingent Work Eligibility Requirements
+U.S. citizen with currently active Interim Secret security clearance (or higher)
+Clearance Level - Final Position Requirement
+Active Secret
+Travel Required: No
+Potential for Telework: Yes (max 40%)
+About Us
+Here at Zekiah, our journey is about enhancing our warfighters’ superiority by developing and integrating forward-thinking communication and technology systems. Each team member plays an important role in making this possible by bringing their skills and knowledge to help our customers tackle their challenges, devise innovative solutions, and support their critical missions. We take care of our employees through a balanced work life, fair salaries, great benefits, and giving them a voice.
+Benefits
+We offer health, dental, vision, life, and supplemental insurance for full-time employees and their families. We also offer holiday and vacation pay, sick leave, performance-based bonuses, a retirement plan with company match, and an education reimbursement program. Explore our benefits and work culture at https://www.zekiah.com/careers.
+Equal Employment Opportunity Policy
+Zekiah Technologies, Inc. does not discriminate based on race, color, religion, sex (including pregnancy and gender identity), ethnicity, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, parental status, military service, or other non-merit factor.
+        

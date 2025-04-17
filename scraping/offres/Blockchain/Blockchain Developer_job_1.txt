@@ -1,0 +1,35 @@
+Title: Blockchain Developer
+        Company: ACS Consultancy Services
+        Location: Albany, Albany County
+        
+        Description:
+        Job Title
+: Blockchain Developer
+Location
+: Remote
+We are currently seeking candidates who meet the following qualifications.
+Responsibilities:
+Design and develop smart contracts using Solidity, Rust, or Vyper.
+Build and maintain decentralized applications (dApps) on EVM-compatible or other blockchain platforms.
+Integrate blockchain solutions with backend services, APIs, and web frontends.
+Perform code reviews, testing, and optimization of smart contracts.
+Ensure security, efficiency, and scalability of blockchain solutions.
+Research and stay updated on emerging blockchain technologies and best practices.
+Qualifications:
+Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).
+Experience in blockchain development.
+Proficiency in one or more blockchain platforms (e.g., Ethereum, Solana, Polkadot).
+Strong skills in Solidity, Rust, or similar languages.
+Experience with smart contract development tools like Hardhat, Truffle, or Brownie.
+Familiar with Web3.js, Ethers.js, or Polkadot.js for dApp integration.
+Understanding of cryptographic principles and decentralized protocols.
+Prior experience deploying production-grade smart contracts or dApps.
+Experience in DeFi protocols, NFTs, or DAO frameworks.
+Experience with IPFS, Layer 2 solutions (e.g., Optimism, Arbitrum), or cross-chain bridges.
+Knowledge of backend development with Node.js, Go, or Python.
+Experience conducting smart contract audits or using tools like Slither, MythX, or Echidna.
+Federal Experience is a plus.
+Required Security clearance.
+If you meet these qualifications, please submit your application via link provided in Linkedin.
+Kindly do not call the general line to submit your application.
+        

@@ -1,0 +1,49 @@
+Title: Spiral Bitcoin Wizard
+        Company: Block
+        Location: San Francisco, California
+        
+        Description:
+        Spiral is the first free and open-source, not-for-profit bitcoin organization within a major tech company. In this case, that company is Block, Inc.
+Spiral contributes to bitcoin by writing code, supplying grants to open-source projects and individuals, educating, entertaining, and testing the limits of what a small team can do to impact the future of money. Although many see bitcoin only as digital gold, Spiral also envisions bitcoin living up to its potential as the global standard for peer-to-peer payments.
+The Role
+We’re looking to hire a third Bitcoin Wizard to join our team. This position is for a highly technical, forward-thinking engineer who is able to do deep bitcoin research and development.
+Spiral’s Bitcoin Wizards are deeply familiar with the bitcoin protocol, including its history, nuances, and implementation. They study bleeding-edge technical bitcoin proposals and disseminate them to the Spiral team and broader developer community. Each Bitcoin Wizard specializes in a specific aspect of bitcoin technology related to security, decentralization, privacy, scaling, and expressivity. They drive projects stemming from their area of expertise.
+Currently, one of our Bitcoin Wizards is focused on ways to improve L2 security and the UX of mempool policy. Our second Bitcoin Wizard is hyper-focused on privacy, research theories, and protocol designs related to decentralized CoinJoins and rust-payjoin.
+Bitcoin Wizards have tremendous freedom to choose their areas of focus and should include these along with their application (some examples are listed at the end).
+You Will
+Propose protocol improvements or new, innovative ideas that benefit bitcoin
+Continuously develop and execute a plan for a project proposed in your application
+Apply novel cryptography, build prototypes, write production code, run tests, create simulations, and establish performance benchmarks
+Recruit collaborators, co-authors, and peer feedback
+Engage with the broader community and obtain developer consensus
+Review bitcoin-dev and lightning-dev emails, delving forum, "wizards" IRC channel, Bitcoin Optech, relevant research papers, and R&D from other cryptocurrency projects
+Lead a study club for Spiral employees who want to explore technical proposals and ideas related to bitcoin, such as covenants, scaling UTXO sharing, and privacy
+Publish learnings for the benefit of the broader dev ecosystem
+You Have
+12+ years of professional experience
+Deep technical understanding of bitcoin
+Proven history of collaboration
+A research and engineering mindset
+Willingness to learn
+Ability to thrive in ambiguous environments and be self-directed
+An ego-free attitude and willingness to detach from a particular proposal if it is decided to be untenable
+How to Apply
+In addition to submitting an application via this page, shoot us an email with three project ideas you might want to work on along with supporting evidence that you’ll complete them: apply@spiral.xyz
+Below are examples of innovative scaling, security, privacy, and expressivity projects that Spiral would find valuable from a Bitcoin Wizard. Again, we expect candidates to determine which projects they will work on, so this list is merely a tool to help them get a sense of what we’re looking for.
+New methods to share UTXOs among users as trustlessly and efficiently as possible
+Lightning efficiency innovation
+Cross-input signature aggregation
+BIP324
+Mining pool decentralization
+Threshold signatures for LN
+Mempool/bitcoin p2p security for L2
+Evaluation of bitcoin security tasks stemming from MEV, tokens, stablecoins, etc.
+Applied ZKP for LN gossip to hide UTXO funding
+Bitcoin script opcode innovation, tradeoff evaluation, and driving (CTV, CSFS, TLUV, CAT, OP_VAULT, etc.)
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We also consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.
+Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our
+I+D page
+.
+Block will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and "fair chance" ordinances.
+        

@@ -1,0 +1,11 @@
+Title: AWS Devops Engineer with Terraform Experience
+        Company: IT Vision Group
+        Location: Dallas, Texas
+        
+        Description:
+        Job DescriptionJob Description
+Title : AWS Devops Engineer with Terraform Experience
+Location: Dallas, TX
+Duration: 12 Months+
+AWS(ECS, Load Balancers, S3), Docker, Terraform/Terraform Enterprise.
+        

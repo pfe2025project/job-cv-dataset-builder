@@ -1,0 +1,19 @@
+Title: REMOTE Blockchain Developer
+        Company: Ammunition
+        Location: Jackson, Hinds County
+        
+        Description:
+        Responsibilities
+Design and develop blockchain-based systems and applications
+Develop smart contracts using Solidity and other programming languages
+Collaborate with cross-functional teams to integrate blockchain solutions with existing systems
+Optimize blockchain solutions for performance, scalability, and security
+Stay up-to-date with emerging blockchain trends and technologies
+Skills Needed
+3+ years of experience in blockchain development
+Strong knowledge of blockchain platforms (Ethereum, Hyperledger, Corda)
+Experience with smart contract development using Solidity and other programming languages
+Strong understanding of blockchain architecture, security, and scalability
+Experience with blockchain development frameworks and tools (Truffle, Web3.js)
+Excellent problem-solving and communication skills
+        

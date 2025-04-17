@@ -1,0 +1,41 @@
+Title: Senior Node.js Engineer
+        Company: ROSE
+        Location: New York City, New York
+        
+        Description:
+        Job DescriptionJob Description
+This is a contract position with the ability to work remotely, however candidates must be located in the US and authorized to work in the US.
+About ROSE
+ROSE is an award-winning digital innovation agency focused on helping leading brands leverage cutting-edge technology to innovate and delight their customers. As one of the INC 5000 fastest-growing private companies and the fastest growing Black-owned digital agency in the US we pride ourselves on the quality of our work and partnerships with our clients. We specialize in immersive technology (AR/VR) and technical partnerships leveraging web, mobile and back end development.
+We've used WebAR to launch a new shoe line for Adidas for over 110m viewers, rebuilt the technology powering the New York Lottery, helped Patrón bring gifting into the metaverse and did our part to rewild the world with Leonardo DiCaprio and Re:wild. In doing so, the team has won multiple Webby and Shorty awards, been featured in Vogue, WWD, and Harpers Bazaar, and more importantly, had fun doing it. Our mission is to create the most innovative digital agency of our time by serving as our clients' guide and partner in digital innovation.
+About this position
+We are currently looking for an experienced Back End Node.js engineer to join our Engineering team. In this role you will be responsible for maintenance and new feature development of an existing production application ecosystem. You will also be responsible for updating, and refining the processes and tools we use to create software applications for our clients. We have a mix of long-running projects with multi-year commitments that have complex development environments, shorter-run initiatives to develop functional applications quickly, and internal initiatives born out of our work that can be developed into products, collectively providing a wide variety of challenges that require thoughtful and well-designed solutions to support our engineering teams and overall company growth.
+Over time our software development team has employed various systems on our projects and have implemented solutions for source code management, automated deployments to cloud infrastructure, spinning up various pre-production and live environments, automated testing, and other processes and tooling for developing digital applications. We are looking for someone with the experience, informed opinions, and vision to take ownership of this critical area of our business and help us make projects run smoother and our clients and teams happier.
+Responsibilities
+Act as a senior individual contributor primarily responsible for developing and maintaining the functionality of the application ecosystem
+Architect new and manage existing cloud-based infrastructure for our client projects
+Leverage Serverless to provision and manage Infrastructure as Code
+Maintain existing Node.js AWS Lambda functions and the array of supporting services and utilities
+Refine and optimize the processes, systems, and tools used to create software applications for our client projects with the goal of creating standardized and repeatable project infrastructure.
+Responsible for source code management, branching and merging strategies, coordinating content and data versioning alongside code in pre-production environments, setting up and maintaining pre-production and live environments, 3rd party data & API integration, automated testing and deployments to cloud environments, and other areas that support complex modern interactive software development initiatives.
+Maintain and extend our CI/CD system setup in CircleCI
+Partner with development and QA teams to resolve issues and develop plans for testing fixes to issues in appropriate environments – coordinating code, content, data, user profiles, etc – while keeping production data and information safe.
+Work to identify weaknesses in systems that could lead to outages, create security breaches, develop mitigation plans, and implement solutions that lead to increased reliability, security, and overall uptime.
+Perform code review
+Proactively look for improvements over time, as new tools are released and cloud platform capabilities evolve.
+Contribute to software development teams for client projects and internal initiatives.
+Qualifications
+At least three years of relevant Node.js and professional cloud-based systems engineering experience.
+Professional experience with Amazon Web Services (AWS) products, services and tools. Demonstrable experience including any AWS certifications encouraged and preferred.
+In particular a depth of experience with the following AWS services we use commonly at ROSE is strongly preferred: Lambda, API Gateway, RDS, Cognito, S3, EC2, IAM, ElasticSearch, CloudFront, CloudWatch. These are the main services we use and work with most often, but many more AWS tools and products are actively used in much of our development.
+Experience developing microservices and/or serverless functions with Node.js
+The successful candidate will be extremely well versed in the nuances of git / github, network management, utilizing and optimizing CDNs and general caching / distribution solutions and working with load balancers
+Experience managing deployments using command-line tools as well as CI/CD tools (CircleCI)
+Professional experience, ideally with enterprise-level organizations, using IaC like Serverless, AWS CDK and Terraform – design solutions and implement tools that will allow us to reduce the overall effort required for starting new initiatives and instantiating the types of projects with similar infrastructure we tend to utilize over time.
+Excellent communications skills to both technical and non-technical audiences, including non-technical client stakeholders.
+Time management skills and the ability to prioritize across initiatives based on multiple factors, project out level of effort for implementing solutions, and the ability to think ahead to possible complications or time-draining issues (including those caused by 3rd parties) and actively work to navigate around them.
+Exceptional problem solving and troubleshooting skills – unexpected complications or unconsidered requirements will come up, and plans will need to adapt.
+Solid understanding of modern security and resilience practices.
+Powered by JazzHR
+VvNSujYOxO
+        

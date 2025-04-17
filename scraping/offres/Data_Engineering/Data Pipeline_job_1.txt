@@ -1,0 +1,7 @@
+Title: Data Pipeline Developer
+        Company: Talent Software Services
+        Location: Minnetonka Mills, Hennepin County
+        
+        Description:
+        check url => https://www.adzuna.com/land/ad/5130999421?se=kH44f5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=E09BC4B526AF029DE4D000A36B12EC3235527DF0
+        

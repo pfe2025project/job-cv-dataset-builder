@@ -1,0 +1,17 @@
+Title: Senior Software Engineer, Edge Compute
+        Company: Roblox
+        Location: San Mateo, San Mateo County
+        
+        Description:
+        The Edge Team manages the datacenters and servers that run Roblox games. As a software engineer on the Edge team, you will develop and innovate new features on our Kubernetes-based control plane that support automation, patching/upgrading, and new types of workloads. Come help us create, support and evolve this platform that delights millions of customers every day.
+You will:
+Support and scale Roblox’s worldwide Edge Data Centers that run all Roblox games!
+Build features in our Kubernetes control plane that manages the full lifecycle of our production servers
+Re-architect game play servers, thumbnailing, and other services to be Kubernetes-native.
+Build a future-forward Edge Computing Platform for general compute workloads, GPU, ML/AI, and other Roblox business needs.
+You have:
+5+ years of experience
+Fluent in GoLang and the Kubernetes ecosystem
+Care deeply about production health and reliable 24x7 systems
+Passionate about building software that increases automation and lowers toil
+        

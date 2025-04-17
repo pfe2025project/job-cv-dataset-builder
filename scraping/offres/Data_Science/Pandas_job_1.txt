@@ -1,0 +1,28 @@
+Title: Core Strategist
+        Company: BP Energy
+        Location: Church Street, Manhattan
+        
+        Description:
+        Entity:
+Supply, Trading & Shipping
+Job Family Group:
+Supply & Trading Group
+Job Description:
+Duties:
+Provide direct technology support to help build models and analytical insight that direct influence commercial outcomes. Interface with key traders and quant strategists to understand their requirements and objectives. Apply Python expertise at trading locations, combined with advanced programming, analytics and systemic trading, data science methods, statistics, numerical algorithms, regression analysis and commercial skills. Work in close partnership with data strategists and trading benches for oil, gas and power to develop technology solutions for business problems in a multifaceted commercial environment including modern data repositories, data ontologies, new analytical toolkits, visualization technologies and cloud computing. Be held by the trading business as a deep technical authority and source of expert guidance. Provide day-to-day problem-solving support and proactively share best practice, including risk platform development to support trade execution and risk management, systematic trading strategy development and back testing, and market simulation development in US gas and power market to provide quantamental insight to assist trading decision making. Highly networked within both the global Core Strategist team and the central IT organization you will play a leading role in advancing the technology agenda across regions. Create efficient, resilient and innovative solutions using modern data analytics technologies. Partner with strategists and traders to develop custom interactive dashboard visualization solutions using web technologies and third-party frameworks. Design and build scalable, reusable components and frameworks in-line with mandated architectures. Rigorously adhere to software development best practice for enterprise-grade applications. Make significant contributions to the shared proprietary model libraries in Python for use globally. Work with the architecture and infrastructure teams in central IT to ensure that designs are aligned with the company technology strategy. Play a key interfacing role between IT and the analyst community. May work from home on a hybrid schedule within 50 miles of New York, NY.
+Minimum Requirements:
+Master’s degree or foreign equivalent in Computer Science, Mathematics, Operations Research, Financial Engineering, or a closely related field plus four (4) years of experience as a Quantitative Developer designing cutting-edge quantitative trading libraries and architectures tailored for the commodity market, including experience: using Python to engineer sophisticated solutions to support daily trading operations (e.g. at energy trading desks and hedge funds); applying knowledge of US gas and power market, financial instruments such as commodity futures and options, swap and financial transmission rights to support daily trading operations of the trading team; engaging in the development of trading and/or strategy back-testing systems. Quantitative skills must include: statistics, probability theory, optimization or derivative pricing. Python programming for numerical data analysis - pandas, numpy, Jupyter, including ability to write production ready and reliable tuned (pythonic) numerical codes including python stack (SciPy, scikit-learn, Statsmodels); working with SQL and relational databases, integration with REST APIs, UI development focusing on data visualization. Software development best practices including unit, integration and regression testing, build and deploy patterns; source code controls systems (Git).
+How much do we pay (Base)? $142,000 - $264,000 per year
+*Please note the pay range listed for this position is a good faith and reasonable estimate of the base pay range for this position at the time of posting. You may learn more about our generous benefits here Explore Our Benefits.
+Travel Requirement
+No travel is expected with this role
+Relocation Assistance:
+This role is not eligible for relocation
+Remote Type:
+This position is a hybrid of office/remote working
+Skills:
+Agility core practices, Analytical Thinking, Computational Thinking, Continued Learning, Data Analysis, Data cleansing and transformation, Data Management, Data Sourcing, Data visualization and interpretation, Dialogue enablement, Exposure Management, Machine Learning, Macroeconomics, Market analysis methods, Market Risk Management, Statistics, Trade execution and management, Trading Fundamentals, Sentiment and Trends, Trading knowledge
+Legal Disclaimer:
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, socioeconomic status, neurodiversity/neurocognitive functioning, veteran status or disability status. Individuals with an accessibility need may request an adjustment/accommodation related to bp’s recruiting process (e.g., accessing the job application, completing required assessments, participating in telephone screenings or interviews, etc.). If you would like to request an adjustment/accommodation related to the recruitment process, please contact us.
+If you are selected for a position and depending upon your role, your employment may be contingent upon adherence to local policy. This may include pre-placement drug screening, medical review of physical fitness for the role, and background checks.
+        

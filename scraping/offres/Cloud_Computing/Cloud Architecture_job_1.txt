@@ -1,0 +1,39 @@
+Title: Director - Cloud Architecture
+        Company: Honeywell
+        Location: Atlanta, Fulton County
+        
+        Description:
+        As a Director of Cloud Architecture here at Honeywell, you will guide our Cloud Architecture team and be accountable for defining and implementing our cloud strategy. You will work with senior executives and cross-functional teams to drive innovation and excellence in our cloud solutions. Your expertise will guide the planning and implementation of cloud-based technologies, ensuring they meet the highest standards of scalability, security, and compliance. You will report directly to our Sr Director of cloud services and you'll work out of our Charlotte location on a 3:2 hybrid work schedule. In this role, you will have the opportunity to shape the future of our cloud architecture and drive the adoption of best practices. Your guidance will empower your team to excel, fostering their professional growth and development. By overseeing the planning and implementation of cloud solutions, you will contribute to our organization's ability to adapt, scale, and thrive in an ever-evolving technological landscape.
+KEY RESPONSIBILITIES
+- Guide and mentor a team of cloud architects, providing expert guidance in shaping and maintaining our cloud architecture
+- Work closely with senior executives and cross-functional teams to define and execute high-level cloud architecture strategies aligned with our business objectives
+- Shape the planning and implementation of cloud solutions, ensuring they meet scalability, security, and compliance standards while remaining at the forefront of industry best practices
+- Drive budget management for the cloud architecture department, ensuring cost-effective solutions without compromising quality
+- Advocate for and enforce architecture governance to maintain consistency and compliance across projects
+BENEFITS OF WORKING FOR HONEYWELL
+- Medical, Vision, Dental, Mental Health benefits
+- Paid Vacation
+- 401k Plan & Matching
+- Career Growth
+- Professional Development
+Due to compliance with U.S. export control laws and regulations, candidate must be a U.S. citizen, U.S. permanent resident, or have asylum or refugee status in the U.S.
+YOU MUST HAVE
+- 8+ years of experience in cloud architecture planning, including a minimum of 5 years in a guide or managerial role
+- Outstanding leadership skills with the ability to inspire and mentor your team, fostering their professional growth and development
+- A track record of successful project management, overseeing complex architecture projects from inception to implementation
+- Deep knowledge of enterprise architecture frameworks and methodologies
+- Strong understanding of cloud computing, security, and data management
+- Exceptional problem-solving skills and the ability to make critical choices in a fast-paced environment
+- Excellent communication and people-oriented skills to engage with stakeholders at all levels
+WE VALUE
+- Bachelor's degree in Computer Science, Information Technology, or a related field
+- Industry certifications such as TOGAF, CISSP, or AWS or Azure of GCP Certified Solutions Architect
+- A demonstrated history of driving digital transformation initiatives
+- Ability to build and maintain strong relationships with team members and stakeholders
+- Exceptional strategic thinking and the ability to translate business requirements into effective technology solutions
+ABOUT HONEYWELL
+Honeywell International Inc. (Nasdaq: HON) invents and commercializes technologies that address some of the world's most critical demands around energy, safety, security, air travel, productivity, and global urbanization. We are a leading software-industrial company dedicated to introducing state-of-the-art technology solutions to improve efficiency, productivity, sustainability, and safety in high-growth businesses in broad-based, attractive industrial end markets. Our products and solutions enable a safer, more comfortable, and more productive world, enhancing the quality of life of people around the globe. Learn more about Honeywell: click here
+THE BUSINESS UNIT
+Please provide Business Unit paragraph. Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, care or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status. Learn more about inclusion and diversity: click here
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.
+        

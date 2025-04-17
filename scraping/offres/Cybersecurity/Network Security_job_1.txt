@@ -1,0 +1,95 @@
+Title: Senior Network Security Engineer 
+        Company: SimVentions, Inc - Glassdoor ✪ 4.6
+        Location: South Norfolk, Chesapeake City
+        
+        Description:
+        Overview:
+SimVentions, consistently voted one Virginia's Best Places to Work, is looking for an experienced network security professional to join our team! As a Network Security Engineer IV, you will perform all aspects of network security including the design, implementation, configuration, and control enforcement of security controls on hardware and software components of network devices. You will collaborate with Cybersecurity professionals on overall cyber readiness defense and system accreditation efforts.
+**Position is contingent upon award of contract, anticipated in December of 2025. **
+Clearance:
+An ACTIVE Secret clearance (IT Level II Tier 5 / Special-Sensitive Position) is required for this position. Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information. US Citizenship is required to obtain a clearance.
+Requirements:
+In-depth understanding of computer security, military system specifications, and DoD cybersecurity policies
+Strong ability to communicate clearly and succinctly in written and oral presentations
+Must possess one of the following DoD 8570.01-M IAT Level III baseline certifications:
+CASP+ CE
+CCNP Security
+CISA
+CISSP (Associate)
+CISSP
+GCED
+GCIH
+CCSP
+Responsibilities:
+Design, implement, configure, and enforce network security controls across routers, switches, firewalls, and endpoint devices
+Manage enterprise level of Active Directory (AD)
+Perform vulnerability assessments using the Assured Compliance Assessment Solution (ACAS) tool
+Configure and secure Cisco networking devices in accordance with DoD policies and Security Technical Implementation Guides (STIGs)
+Utilize packet analyzer tools such as Wireshark and tcpdump
+Troubleshoot network connectivity issues and provide solutions
+Deploy, configure, and manage firewall and Intrusion Detection System (IDS)/Intrusion Prevention System (IPS) solutions for proactive threat detection and prevention
+Preferred Skills and Experience:
+A combined total of ten (10) years of full-time professional experience in all of the following skillsets/disciplines:
+Network Security to include the design, implementation, configuration, and enforcement of security controls on network, hardware, and software components and devices
+STIG implementation
+Management of enterprise level deployment of Active Directory
+Performing vulnerability assessments with the ACAS tool
+Configuration Cisco networking devices
+Analysis of network traffic utilizing tools such as Wireshark and tcpdump
+Troubleshooting network connectivity issues
+Implementation and management of firewalls and IDS/IPS solutions
+Possess a current Cisco Certified Network Professional (CCNP) certification
+Education: Bachelor of Science in Information Systems, Bachelor of Science in Information Technology, Bachelor of Science in Computer Science, Bachelor of Science in Computer Engineering Compensation:
+Compensation at SimVentions is determined by a number of factors, including, but not limited to, the candidate’s experience, education, training, security clearance, work location, skills, knowledge, and competencies, as well as alignment with our corporate compensation plan and contract specific requirements.
+The projected annual compensation range for this position is $110,000-$170,000 (USD). This estimate reflects the standard salary range for this position and is just one component of the total compensation package that SimVentions offers.
+Benefits:
+At SimVentions, we’re committed to supporting the total well-being of our employees and their families. Our benefit offerings include comprehensive health and welfare plans to serve a variety of needs.
+We offer:
+Medical, dental, vision, and prescription drug coverage
+Employee Stock Ownership Plan (ESOP)
+Competitive 401(k) programs
+Retirement and Financial Counselors
+Health Savings and Health Reimbursement Accounts
+Flexible Spending Accounts
+Life insurance, short- & long-term disability
+Continuing Education Assistance
+Paid Time Off, Paid Holidays, Paid Leave (e.g., Maternity, Paternity, Jury Duty, Bereavement, Military)
+Third Party Employee Assistance Program that offers emotional and lifestyle well-being services, to include free counseling
+Supplemental Benefit Program
+Why Work for SimVentions?:
+SimVentions is about more than just being a place to work with other growth-orientated technically exceptional experts. It’s also a fun place to work. Our family-friendly atmosphere encourages our employee-owners to imagine, create, explore, discover, and do great things together.
+Support Our Warfighters
+SimVentions is a proud supporter of the U.S. military, and we take pride in our ability to provide relevant, game-changing solutions to our armed men and women around the world.
+Drive Customer Success
+We deliver innovative products and solutions that go beyond the expected. This means you can expect to work with a team that will allow you to grow, have a voice, and make an impact.
+Get Involved in Giving Back
+We believe a well-rounded company starts with well-rounded employees, which is why we offer diverse service opportunities for our team throughout the year.
+Build Innovative Technology
+SimVentions takes pride in its innovative and cutting-edge technology, so you can be sure that whatever project you work on, you will be having a direct impact on our customer’s success.
+Work with Brilliant People
+We don’t just hire the smartest people; we seek experienced, creative individuals who are passionate about their work and thrive in our unique culture.
+Create Meaningful Solutions
+We are trusted partners with our customers and are provided challenging and meaningful requirements to help them solve.
+Employees who join SimVentions will enjoy additional perks like:
+Employee Ownership:
+Work with the best and help build YOUR company!
+Family focus:
+Work for a team that recognizes the importance of family time.
+Culture:
+Add to our culture of technical excellence and collaboration.
+Dress code:
+Business casual, we like to be comfortable while we work.
+Resources:
+Excellent facilities, tools, and training opportunities to grow in your field.
+Open communication:
+Work in an environment where your voice matters.
+Corporate Fellowship:
+Opportunities to participate in company sports teams and employee-led interest groups for personal and professional development.
+Employee Appreciation:
+Multiple corporate events throughout the year, including Holiday Events, Company Picnic, Imagineering Day, and more.
+Founding Partner of the FredNats Baseball team:
+Equitable distribution of tickets for every home game to be enjoyed by our employee-owners and their families from our private suite.
+Food:
+We have a lot of food around here!
+FTAC
+        

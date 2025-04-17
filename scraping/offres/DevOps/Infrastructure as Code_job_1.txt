@@ -1,0 +1,43 @@
+Title: Infrastructure as Code Engineer
+        Company: Western Alliance Bank
+        Location: Phoenix, Maricopa County
+        
+        Description:
+        Job Title:
+Infrastructure as Code Engineer
+Location:
+Block 23
+What you'll do:
+This position requires experience creating and managing Infrastructure as Code and operational automation. You will engage directly with stakeholders to include Application and IT teams to identify automation opportunities and mapping out their software stacks and deployment processes. The ideal candidate will have experience with IaC development environments to include Azure Devops, Terraform, Ansible, and the Ansible Automation Platform, packer, python and other development languages. You will be expected to create and enhance our SDLC process, look for ways to improve our organization's maturity. Following Microsoft's best practices, work in our Git based SDLC workflows utilizing DevOps management platforms such as Azure DevOps, Gitlab, or Github.
+Responsibilities:
+Develop deployments of cloud resources using terraform
+Design and implement a Golden Image baseline and revision process
+Automate environment buildout in Azure
+Automate disaster recovery environment deployments in Azure with terraform.
+Customize environment buildout for specific applications
+Design, build and maintain code repositories, processes, and procedures for specific application deployments
+Liaison between IT and Application teams to identify automation opportunities.
+Manage Ansible Linux Hosts, and Azure Marketplace deployment of Ansible Automation Platform.
+What you'll need:
+Qualifications:
+5-10 years of related experience in IT automation and scripting.
+Be proficient in Windows Ecosystem (Azure, O365, AD)
+Have experience developing and testing scripts
+Self motivated and able to work with teams in different locations
+Bachelor's degree in computer science, software engineering, or a related study, or equivalent experience
+Experience working in a bank environment providing infrastructure services to end users and/or development teams
+Understanding and experience in designing & implementing modern solutions related to infrastructure while following Microsoft best practices.
+Experience working with network, server, storage, application teams and product owners to develop automation.
+Understanding of strategic, new, and emerging technology trends
+Good written and verbal communication skills and can communicate with Executive Level stakeholders as well as Engineering teams.
+Ability to build trust and respect as a thoughtful leader who can influence and persuade business and IT leaders and development teams.
+Objective mindset that can think 'enterprise first' and remain unbiased toward any specific technology or vendor choice, with decisions made based on data, analysis, & POC results.
+Ability to work effectively in a team environment.
+Experience operating within a monitored and regulated environment, i.e., CIS compliant.
+Benefits you'll love:
+We offer all the important things you'd want - like competitive salaries, an ownership stake in the company, medical and dental insurance, time off, a great 401k matching program, tuition assistance program, an employee volunteer program, and a wellness program. In addition, you'll have the opportunity to bolster your business knowledge, learning the ins and outs of how successful companies operate and manage their finances, giving you invaluable hands-on experience to help grow your career!
+About the company:
+Western Alliance Bank is a wholly owned subsidiary of Western Alliance Bancorporation. Alliance Bank of Arizona, Alliance Association Bank, Bank of Nevada, Bridge Bank, First Independent Bank, and Torrey Pines Bank are divisions of Western Alliance Bank; Member FDIC. AmeriHome Mortgage is a Western Alliance Bank company.
+Western Alliance Bancorporation is committed to equal employment and will consider all qualified applicants without regard to race, sex, color, religion, age, nation origin, marital status, disability, protected veteran status, sexual orientation, gender identity or genetic information. Western Alliance Bancorporation is committed to working with and providing reasonable accommodations for individuals with disabilities. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process and/or need an alternative method of applying, please email HR@westernalliancebank.com or call 602-386-2488. When contacting us, please provide your contact information and state the nature of your accessibility issue. We will only respond to inquiries concerning requests that involve a reasonable accommodation in the application process.
+© Western Alliance Bancorporation
+        

@@ -1,0 +1,22 @@
+Title: GitHub Administration (GitHub)
+        Company: Qualis1 Inc
+        Location: Edgewater, Jefferson County
+        
+        Description:
+        Job Description: Job Title Technology Lead | Telecom | OSS/BSS
+Work Location & Reporting Address Denver, CO 80221
+Contract duration 6
+Mandatory Skills: Should have experience in
+GitHub Enterprise Administration, Installation Setup
+GitHub EMU Architecture, Git Command-Line Expertise
+Scripting/Automation skills
+User set up, authentication, security set up
+Desired Skills: Experience in
+User Support management, Communications on User reported issues
+DevOps pipelines, Rep structure set up etc.
+Telecom Domain experience preferred
+Top 3 responsibilities you would expect the Subcon to shoulder and execute:
+User Support management
+Scripting Automation Experience
+User set up, authentication, security set up
+        

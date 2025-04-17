@@ -1,0 +1,61 @@
+Title: Director IT Security Operations & Incident Response
+        Company: BJ's Wholesale Club
+        Location: Marlborough, Middlesex County
+        
+        Description:
+        Join our team of more than 34,000 team members, supporting our members and communities in our Club Support Center, 235+ clubs and eight distribution centers. BJ’s Wholesale Club offers a collaborative and inclusive environment where all team members can learn, grow and be their authentic selves. Together, we’re committed to providing outstanding service and convenience to our members, helping them save on the products and services they need for their families and homes.
+The Benefits of working at BJ’s
+•        BJ’s pays weekly
+•        Eligible for free BJ's Inner Circle and Supplemental membership(s)*
+•        Generous time off programs to support busy lifestyles*
+o Vacation, Personal, Holiday, Sick, Bereavement Leave, Jury Duty
+•        Benefit plans for your changing needs*
+o Three medical plans**, Health Savings  Account (HSA), two dental plans, vision plan, flexible spending ​
+•        401(k) plan with company match (must be at least 18 years old)
+*eligibility requirements vary by position
+**medical plans vary by location
+Job Summary:
+This role will lead a team of cybersecurity analysts responsible for threat monitoring and incident response for a major retailer in New England.  This role is responsible for multiple prevention, detection, and response solutions.  This role is expected to advise and lead during active cybersecurity incidents, and co-ordinate internal and external resources to mitigate.  This role reports to the CISO and will be an active contributor to regular risk reporting and strategy discussions with enterprise leadership.
+Responsibilities include, but are not limited to:
+Provide 24/7 cybersecurity monitoring and alerting for stores, data centers, cloud, branch offices, distribution centers and our hybrid workforce
+Triaging and incident response of cybersecurity threats based on priority
+Communication and escalation of priority incidents
+Provide incident documentation and root cause analysis
+Manage IT security operations (SOC) team
+Manage IT security incident response (Blue) team
+Manage IT security testing (Red) team
+Manage IT security threat intelligence team
+Oversight of managed security services for IT security operations
+Define repeatable playbooks of operational response to cybersecurity threats
+Define KPIs for IT security operations teams
+Define SLAs for IT security operations services
+Build a culture of continuous improvement for services and processes in IT security operations
+Identify opportunities for automation and improving IT security operations SLAs
+Manage on-call rotation and escalation protocols for IT security operations
+Conduct annual technical and executive leadership cybersecurity tabletop exercises
+Advise and coordinate with senior leadership during active incidents
+Lead technical response in enterprise cybersecurity incident response plan
+Implement security logging and alerting tools
+Implement endpoint security tools
+Implement endpoint DLP tools
+Implement email security tools
+Implement security testing tools
+Implement threat intelligence tools
+Implement case management tools
+Mentoring and creating learning paths for security operations analysts
+Requirements
+Bachelor’s (or foreign equivalent) degree in Computer Science or related field is required.
+Proven thought leadership in the IT security operations and incident response
+Minimum of 7-10 years of experience in Information Technology, with a concentration on Information Security
+3-5 years of managing and monitoring SOC analysts
+Solid knowledge of IT security related industry standards and frameworks, such as PCI DSS, ISO 27001/2, NIST CSF, CIS, OWASP
+Desired certifications include Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), CISM (Certified Information Security Manager), Computer Hacking Forensic Investigator (CHFI)
+In-depth knowledge of IT security practices, threat modelling, implementing incident response frameworks and strategies
+Hands-on technologist who is ready to ready to listen, delegate, learn and mentor
+Strong communication, collaborative attitude and consensus building is a must
+Experience with Windows, Linux, Active Directory and Entra ID is a must
+Experience with M365 E5 Security and Compliance, Defender, Sentinel, XSIAM, CrowdStrike, Proofpoint, Anomali or similar technologies is a must
+Experience with AWS, Azure, GCP is preferred
+This is a hybrid role. Tuesday through Thursday are in-office days at BJ's Club Support Center in Marlborough, MA and Monday and Friday are remote days.
+In accordance with the Pay Transparency requirements, the following represents a good faith estimate of the compensation range for this position. At BJ’s Wholesale Club, we carefully consider a wide range of non-discriminatory factors when determining salary. Actual salaries will vary depending on factors including but not limited to location, education, experience, and qualifications. The pay range for this position is starting from $161,500.00.
+        

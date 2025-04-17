@@ -1,0 +1,48 @@
+{
+  "Data_Science": [
+    "Python Data Science", "R", "Pandas", "Numpy", "Matplotlib", "Seaborn", "TensorFlow", "Keras", "Scikit-learn", "AI", "Machine Learning", "Data Science", "Deep Learning", "Data Analyst", "Data Engineer", "Big Data", "SQL", "NoSQL", "Hadoop", "Spark", "Data Mining"
+  ],
+  "Cybersecurity": [
+    "Cybersecurity", "Penetration Testing", "Ethical Hacking", "Firewall", "Malware", "SIEM", "Network Security", "Ransomware", "Cryptography", "Incident Response", "Vulnerability Assessment", "Security Operations Center", "Network Defense", "Risk Management", "SOC Analyst"
+  ],
+  "Software_Development": [
+    "Java", "Python Software Development", "C#", "C++", "JavaScript", "TypeScript", "Go", "Rust", "Swift", "Kotlin", "Node.js", "React", "Angular", "Vue.js", "Django", "Flask", "Spring", "Laravel", "Symfony", "Git", "DevOps", "CI CD", "TDD"
+  ],
+  "Cloud_Computing": [
+    "AWS", "Azure", "Google Cloud", "Cloud Architecture", "DevOps", "Terraform", "Ansible", "Kubernetes", "Docker", "Serverless", "Cloud Security", "Cloud Engineering", "Cloud DevOps", "CI CD"
+  ],
+  "AI_and_ML": [
+    "Artificial Intelligence", "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "AI Engineer", "Data Scientist", "AI Researcher", "TensorFlow", "PyTorch", "Neural Networks", "Reinforcement Learning", "Supervised Learning", "Unsupervised Learning"
+  ],
+  "Web_Development": [
+    "HTML", "CSS", "JavaScript", "Node.js", "React", "Vue.js", "Angular", "Django", "Flask", "Ruby on Rails", "PHP", "Laravel", "Express.js", "GraphQL", "RESTful API", "Serverless", "JQuery", "SQL", "MongoDB", "PostgreSQL"
+  ],
+  "Mobile_Development": [
+    "Android", "iOS", "React Native", "Flutter", "Kotlin", "Swift", "Xcode", "Android Studio", "App Development", "Mobile UX/UI", "Mobile Apps", "iOS Development", "Android Development"
+  ],
+  "Blockchain": [
+    "Blockchain", "Smart Contracts", "Ethereum", "Solidity", "Cryptocurrency", "DeFi", "NFTs", "Blockchain Developer", "Blockchain Architect", "Cryptography", "Ethereum Developer", "Bitcoin", "Blockchain Solutions"
+  ],
+  "DevOps": [
+    "DevOps", "Jenkins", "CI CD", "Docker", "Kubernetes", "Terraform", "Ansible", "Git", "GitHub", "AWS", "Azure", "Linux", "Bash", "Shell Scripting", "Infrastructure as Code", "Cloud Automation", "AWS Lambda"
+  ],
+  "IoT": [
+    "IoT", "Internet of Things", "Embedded Systems", "Raspberry Pi", "Arduino", "Sensor Networks", "Edge Computing", "IoT Security", "Smart Devices", "Wireless Networks", "IoT Platforms", "Automation", "Wearables", "Smart Home"
+  ],
+  "Game_Development": [
+    "Unity", "Unreal Engine", "Game Design", "C#", "C++", "Game Programming", "3D Modeling", "Game Physics", "Game AI", "VR Development", "AR Development", "Mobile Game Development", "Game Testing"
+  ],
+  "Data_Engineering": [
+    "Data Engineering", "ETL", "Data Warehousing", "Big Data", "Apache Spark", "Hadoop", "Kafka", "Data Pipeline", "Data Modeling", "SQL", "NoSQL", "Data Lakes"
+  ],
+  "Networking": [
+    "Networking", "TCP/IP", "LAN", "WAN", "Network Security", "Routing", "Switching", "Firewall", "VPN", "Network Protocols", "Network Design", "Cisco", "Juniper",
+     "Network Administration", "Network Engineer", "Network Architect", "Network Monitoring", "Network Troubleshooting", "Network Performance"
+  ],
+  "Database_Administration": [
+    "Database Administration", "SQL", "NoSQL", "MySQL", "PostgreSQL", "MongoDB", "Oracle", "Database Design", "Database Security", "Data Backup", "Data Recovery", "Data Migration", "Database Performance Tuning"
+  ],
+  "Technical_Support": [
+    "Technical Support", "Help Desk", "IT Support", "Customer Support", "Troubleshooting", "Remote Support", "Technical Documentation", "Ticketing Systems", "Active Directory", "Windows Server", "Linux Server", "Network Troubleshooting"
+  ]
+}

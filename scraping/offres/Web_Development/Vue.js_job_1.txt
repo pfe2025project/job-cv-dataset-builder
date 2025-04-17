@@ -1,0 +1,22 @@
+Title: Vue.js Developer
+        Company: Insight Global
+        Location: Grand Central, Manhattan
+        
+        Description:
+        Job Description
+Day to Day:
+Insight Global is looking for a UI Developer to sit at one of our top financial services clients. This candidate will be joining an Agile Team that develops and supports an internal cloud-based platform. The team supports both back-end services in python as well as front end UI in JavaScript/TypeScript. Candidates will have the opportunity to contribute to building a system used for balancing the global financial market indices. This candidate will be responsible for the UI development that will allow internal users to configure complex data without having to code. In order for a candidate to be successful in this role it will require 8+ years of frontend engineer experience, with the most recent experience being in Vue.js.
+We are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to HR@insightglobal.com .
+To learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/ .
+Skills and Requirements
+Qualifications:
+3+ years of recent Vue.js development experience. (Must have worked with Vue 3 specifically)
+8-15+ years of accumulative Frontend Engineer experience.
+Experience utilizing 3rd party component libraries such as: PrimeVue, Quasar and Vuetify.
+Understanding of data manipulation concepts. (how to manipulate large sets of complex data)
+Comfortability working in a dockerized environment. Plusses:
+Backend Knowledge of either Python (fastAPI or Flask) or Node.js (Express)
+Experience coding in an AWS environment.
+Experience working with PostgreSQL. null
+We are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal employment opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment without regard to race, color, ethnicity, religion,sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military oruniformed service member status, or any other status or characteristic protected by applicable laws, regulations, andordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to HR@insightglobal.com.
+        

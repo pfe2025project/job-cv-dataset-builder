@@ -1,0 +1,64 @@
+{
+    "Data_Science": [
+      "Python Developer",
+      "Data Science",
+      "ETL Developer",
+      "Hadoop"
+    ],
+    "Cybersecurity": [
+      "Network Security Engineer"
+    ],
+    "Software_Development": [
+      "Java Developer",
+      "Python Developer",
+      "DevOps Engineer",
+      "DotNet Developer",
+      "Testing",
+      "Automation Testing"
+    ],
+    "Cloud_Computing": [
+      "Hadoop"
+    ],
+    "AI_and_ML": [
+      "Python Developer",
+      "Data Science"
+    ],
+    "Web_Development": [
+      "Web Designing"
+    ],
+    "Mobile_Development": [],
+    "Blockchain": [
+      "Blockchain"
+    ],
+    "DevOps": [
+      "DevOps Engineer",
+      "Automation Testing",
+      "Testing"
+    ],
+    "IoT": [],
+    "Game_Development": [],
+    "Data_Engineering": [
+      "ETL Developer",
+      "Hadoop"
+    ],
+    "Networking": [],
+    "Database_Administration": [
+      "Database"
+    ],
+    "Technical_Support": [],
+    "others": [
+      "HR",
+      "Operations Manager",
+      "Sales",
+      "Mechanical Engineer",
+      "Arts",
+      "Electrical Engineering",
+      "Health and fitness",
+      "PMO",
+      "Business Analyst",
+      "SAP Developer",
+      "Civil Engineer",
+      "Advocate"
+    ]
+  }
+  

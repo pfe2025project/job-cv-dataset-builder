@@ -1,0 +1,48 @@
+Title: Mobile UX UI Developer Job at Intramotev in St. Louis
+        Company: Intramotev
+        Location: Saint Louis, Saint Louis County
+        
+        Description:
+        *Please upload or include a link to your UX / UI design portfolio or your application will be discarded*
+At Intramotev, we are building self-propelled railcars and vehicles to change the paradigm in freight logistics. We're providing the rail industry tools that will make the 200-year-old industry competitive for the next 200 years. By helping us make rail competitive with trucking, you can contribute to work that matters in solving big societal problems like reducing emissions, improving safety, and minimizing road congestion. We’re committed to fostering an environment for every teammate that’s welcoming, respectful, and inclusive, with great opportunity for professional growth. Find your future with us.
+Mobile UX/UI Developer:
+Intramotev is seeking a Mobile UX/UI Developer to join the software development team to meet growing demands in the development of self-propelled rail vehicles. The role has a strong software focus – the successful candidate will be a member of the development team for innovative self-propelled capabilities in areas related to the hand-held customer tablets for current and future platforms. The development of these capabilities includes multidisciplinary skills such as application development, system development and integration, and knowledge of cloud computing/simulation at scale. This position will be based out of St. Louis, MO.
+This position is responsible for designing and implementing the user experience for Intramotev’s customer-facing mobile applications. The UX/UI developer will be working alongside a web/backend developer to implement database connectivity in mobile app controls/visual elements. Experience with Android UI development is required. Familiarity with .NET Core tools (C#, XAML, Xamarin, ASP.NET) is valued.
+This position involves working in a dynamic team environment on small (1-2) to medium (3-6) person projects where excellent interpersonal and communication skills are needed. Due to the research nature of the work, project objectives and requirements are likely to evolve over the course of the role. A small amount of domestic travel to support integration, demonstration, and customer engagement will be required.
+Position Responsibilities
+Develop Android applications intended to monitor, maintain, and command Intramotev’s fleet of self-propelled electric rail cars (TugVolts).
+Design custom control and monitoring interfaces to facilitate an optimal customer experience with their TugVolts.
+Collaborate with a web backend developer to implement Intramotev’s web APIs.
+Test and validate to ensure system designs meet operational and functional requirements.
+Solve problems concerning and provide other support of fielded hardware and software over the entire product lifecycle.
+Research technological advancements for potential application to company business needs.
+Basic Qualifications (Required Skills/Experience)
+At least a Bachelor’s Degree in Engineering, Mathematics, or Science.
+1-3+ years of experience developing software applications.
+1-2+ years of experience developing Mobile Android applications.
+U.S. Person (immigration or work visa sponsorship will not be provided).
+Fluent in object-oriented languages such as C#, Java, C++, Python.
+Experience coding in markup languages such as HTML or XAML.
+Experience in developing applications with SQL/SQLite database functionality.
+Experience interfacing with RESTful backend API.
+Motivated, detail-oriented.
+Willingness to expand into technical areas beyond your area of expertise; ability to develop innovative and novel approaches.
+Open-minded and comfortable working in a teaming environment or as an individual contributor.
+Fluent in both written and verbal English.
+Preferred Qualifications (Desired Skills/Experience)
+Candidate should have a working knowledge of one or (ideally) multiple areas listed below:
+Experience with .NET CORE, Xamarin.Forms/.NET MAUI, ASP.NET.
+Unmanned Rail Systems / Unmanned Systems.
+Demonstrated experience working on project teams and collaborating with other engineering disciplines.
+Typical Education and Experience:
+Education/experience typically acquired through advanced technical education (e.g. Bachelor) and typically 3 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master+1 years' related work experience, 3 years' related work experience, etc.).
+Relocation:
+This position does not offer relocation and is an in-person role. You must be located in the St. Louis region or relocating here in the near future.
+Vaccination Requirements:
+Intramotev does not currently require vaccination for COVID 19.
+Equal Opportunity Employer:
+Intramotev is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+Schedule:
+Full time
+#J-18808-Ljbffr
+        

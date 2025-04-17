@@ -1,0 +1,121 @@
+Title: Product Manager, Technical - Internet of Things
+        Company: T-Mobile USA
+        Location: Overland Park, Johnson County
+        
+        Description:
+        At T-Mobile, we invest in YOU!  Our Total Rewards Package ensures that employees get the same big love we give our customers.  All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!
+Job Overview
+Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, Technical is ultimately accountable, responsible, and has ownership of T-Mobile's internal and external products, platforms, services, experiences envisioned and created to achieve the specific business purpose or business results. At a high level this means identifying the intersection of customer problems/unmet needs (an opportunity), technical feasibility, business objectives, securing funding, and leading a cross-functional business and technical team, as well as key stakeholders to deliver against the opportunity.
+Product Manager, Technical is the ultimate "jack-of-all-trades" leveraging deep customer empathy, strategic thinking, commercial, analytical, technical capability and knowledge, and leadership prowess to successfully deliver delightful and differentiated products that drive growth and positively impact customers lives.
+No day is the same for the Product Manager, Technical. Day to day activities or responsibilities include: conducting market research; writing features or user stories; determining specifications; defining long-term strategy of the product; creating the product road map; driving technical delivery end to end; defining scope for releases/product increments; partnering with development, project/program management, marketing, and other key stakeholders to define release schedule; and support/drive go-to-market activities as needed.
+Job Responsibilities
+:
+ Vision, Strategy, and Analysis
+ • Owns product end to end for products or features with moderate level of complexity and scope. This includes creating, managing, maintaining, and communicating product vision and roadmap including technical vision and capabilities.
+ • Drives end user product research.
+ • Partners with business and internal/external stakeholders to understand current customer experience, identifies areas of opportunity.
+ • Conducts analysis of quantitative and qualitative data to identify product innovation opportunities or root cause of issues, and assess opportunity size and impact. May work with data scientists to answer complex questions or identify
+ • meaningful insights from data.
+ • Leverages rapid hypothesis driven
+ • testing methodologies and
+ • experiments (i.e. paper prototype,
+ • A/B testing, etc.) to inform direction,
+ • prioritize investment.
+ • Conducts cost-benefit / ROI / NPV
+ • analysis, to support decision making.
+ • Works with stakeholders and follows
+ • enterprise process to secure and
+ • maintain product funding.
+ • Develops and maintains current understanding of tech trends. Assesses how trends impact the roadmap or create opportunity for innovation of the product.
+ • Communicates, influences, and sells ideas at Director level and below. This includes regularly delivering product presentations.
+ • Conducts specific ad hoc analysis and provides insights to management on request.
+ • Recommends product feature set or technical improvements to improve customer experience.
+ • Works with external third parties to assess partnerships and licensing opportunities. 
+ Customer Evangelist
+ • Leverages customer insights for product vision, strategy, roadmap, priorities.
+ • Dedicates time to customers actively meeting with them to build deeper empathy and understand their needs
+and priorities.
+ • Create, manage, foster an active VOC feed for themselves and team.
+ • Actively looks for opportunities to delight or meet customer’s unmet needs.
+ • Evangelizes and advocates for the customer both internally (IC through C level) and externally, perpetuating the customer-first mindset.
+ • Creates an environment and culture where the team is immersed in customer-first mindset.
+ • Tests ideas with real customers to ensure that the product delivers the desired benefit. 
+ Product Execution & Technical Delivery
+ • Translates product/platform strategy by writing detailed features and user stories consumable for Dev teams for moderately complex products. This work may include creation of prototypes.
+ • Collaborates with PM and Dev leaders to design, architect and assemble effective Agile delivery teams in the Agile Release Train and
+ • Agile Teams.
+ • Runs or contributes significantly to key Agile ceremonies: Program Increment (PI) Planning / Big Room Planning; System Demo; Inspect and Adapt (I&A), etc.
+ • Owns and manages product backlog and priorities with our business and technology partners. Backlog at this level typically serves 1 - 4 Agile / Scrum / Sprint teams.
+ • Scopes and prioritizes activities based on business and customer impact.
+ • Collaborates with Architecture and Dev teams to ensure technical debt and long term technical investment is factored into roadmap.
+ • Ensures existing production defects are factored into regular backlog prioritization for resolution based on priority.
+ • Collaborates with stakeholders and Dev / Execution teams to create and communicate anticipated release schedule.
+ • Manages and maintains efficient flo of just-in-time feature and story elaboration activities across all Agile Teams throughout execution, typically maintaining 2 iterations (Sprints) worth user stories ‘ready’ for Dev in Team Backlogs.
+ • In scaled teams, holds regular meetings and coordination activities with other PM’s and Product Owners (if applicable) to ensure parallel work is in sync and dependencies are known.
+ • Generates and maintains dashboards and reports that track product health and success metrics, technical KPI’s.
+ • Conduct Product Quarterly Business Reviews (QBR’s) and Steering meetings.
+ • Runs beta and pilot programs with early-stage products and samples.
+ • Collaborates with advertising and public relations to promote product.
+ • Supports sales, marketing, and other stakeholder teams with product or technical knowledge and additional documentation.
+ • Assists with the overall execution relating to all aspects of the software development process, from defining the strategy and architecture through deployment and support.
+ • Communicates technical challenges to stakeholders and makes educated trade-off decisions based on those challenges.
+ • Accountable for product quality and performance in production environment. Accountable for product team response in event of critical or high impacting defect, including communications to stakeholders at all levels.
+ • Identify execution, operational, organizational issues that impede product success. Drive improvement plan to change or resolve issues
+ • (within sphere of influence).
+ • Support and enable core agile practices and tenants: efficient just-in-time flow; lean practices; elimination of waste; DevOps CICD. 
+ Relationship & People, Professional Development
+ • Collaborates and develops positive working relationships with many technical and non-technical teams, including sales, commercial
+ • accounting, marketing, legal, go-tomarket, finance, Dev, Architecture, Engineering. Works with outside partners and other third parties.
+ • Develops positive working relationships with Customer groups or Customer Representatives.
+ • Maintains professional knowledge by attending educational workshops; reviews professional publications; establishes personal networks;
+ • participates in professional societies.
+ • Develops adoption tools and training material.
+ • Manages development of adoption tools and training materials for Technical Product Management team.
+Education
+:
+Bachelor's Degree Computer Science, Engineering, IT or equivalent experience. (Required)
+Work Experience
+:
+ 3+ years experience in hands on technical rolw riting production cocde, solution engineering, or technical architecture in large scale company/ application/product environment. (Required) 
+ 5+ years of relevant Product Management experience in an agile software product development environment. (Required)
+Knowledge, Skills and Abilities
+:
+Agile Methodologies Proven success in delivering software with Agile Scrum methodologies and other commonly used tools. (Required) 
+Technical Writing Strong requirements elicitation, and proven writing skills including the ability to write concisely and clearly for different audiences. (Required) 
+Agile Project Management Experience with Agile backlog/project management tools. (Required) 
+Collaboration Experience with successive elaboration and ability to develop Initiatives, Features and User Stories that the DevOps teams can ingest. (Required) 
+Project Management Experience in delivering large and complex business/technology initiatives as Product Manager or lead technology role. (Required) 
+Communication Proven ability to effectively and efficiently communicate with
+Leadership, while employing a high degree of collaboration and influence. 
+
+Excellent written and verbal communication skills with ability to present complex technical information in a clear and concise manner to a variety of audiences including executives and non-technical leaders. (Required) 
+MS SQL Fluent with SQL, Tableau, other analytical solutions like SAS, SPSS. (Required) 
+Tableau Fluent with SQL, Tableau, other analytical solutions like SAS, SPSS. (Required) 
+SAS Fluent with SQL, Tableau, other analytical solutions like SAS, SPSS. (Required) 
+Technology Knowledge of full technology stack on which your assigned product runs. (Required) 
+Business Analysis Strong analytical skills with demonstrated ability to identify/analyze/synthesize product use data. (Required)
+Licenses and Certifications
+:
+Certified Scrum Master (CSM) Scrum Product Owner Certification (CSPO) (Preferred) 
+Other Technical Certification Agile Certified Practitioner (PMI-ACP) (Preferred)
+• At least 18 years of age
+• Legally authorized to work in the United States
+Travel
+:
+Travel Required (Yes/No):
+DOT Regulated
+:
+DOT Regulated Position (Yes/No):No
+Safety Sensitive Position (Yes/No):No
+Base Pay Range: $103,400 - $186,400
+Corporate Bonus Target: 15%
+The pay range above is the general base pay range for a successful candidate in the role. The successful candidate’s actual pay will be based on various factors, such as work location, qualifications, and experience, so the actual starting pay will vary within this range.
+At T-Mobile, employees in regular, non-temporary roles are eligible for an annual bonus or periodic sales incentive or bonus, based on their role. Most Corporate employees are eligible for a year-end bonus based on company and/or individual performance and which is set at a percentage of the employee’s eligible earnings in the prior year. Certain positions in Customer Care are eligible for monthly bonuses based on individual and/or team performance. To find the pay range for this role based on hiring location, https://paylookup.t-mobile.com/paylookup?reqID=REQ300816&paradox=1
+At T-Mobile, our benefits exemplify the spirit of One Team, Together! A big part of how we care for one another is working to ensure our benefits evolve to meet the needs of our team members. Full and part-time employees have access to the same benefits when eligible. We cover all of the bases, offering medical, dental and vision insurance, a flexible spending account, 401(k), employee stock grants, employee stock purchase plan, paid time off and up to 12 paid holidays - which total about 4 weeks for new full-time employees and about 2.5 weeks for new part-time employees annually - paid parental and family leave, family building benefits, back-up care, enhanced family support, childcare subsidy, tuition assistance, college coaching, short- and long-term disability, voluntary AD&D coverage, voluntary accident coverage, voluntary life insurance, voluntary disability insurance, and voluntary long-term care insurance. We don't stop there - eligible employees can also receive mobile service & home internet discounts, pet insurance, and access to commuter and transit programs! To learn about T-Mobile’s amazing benefits, check out
+www.t-mobilebenefits.com
+.
+Never stop growing!
+As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!
+T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.
+Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.
+        

@@ -1,0 +1,34 @@
+Title: Cloud Automation Engineer
+        Company: AAATX AAA Texas
+        Location: Coppell, Dallas
+        
+        Description:
+        Cloud Automation Engineer
+As a Cloud Automation Engineer,  you will focus on automating the deployment, configuration, and management of cloud infrastructure. This role is crucial for enhancing efficiency and ensuring scalability in cloud operations.
+What You'll Do:
+Daily you will work with business partners, developers, and engineering teams to drive cloud strategy, adoption, and migration processes.
+You’ll develop automation scripts for cloud infrastructure provisioning and management.
+You’ll implement infrastructure-as-code using tools like Terraform, Ansible, or CloudFormation.
+You’ll create automated pipelines for continuous integration and deployment (CI/CD).
+You’ll optimize cloud resources through automation and scaling solutions.
+You’ll collaborate with the cloud operations and architecture teams to automate operational tasks.
+You will provide all the technical guidance, design specification and solution level support for cloud connectivity, integration, and collaboration.
+You’ll work with Automation Tools such as Ansible, Terraform, Python, PowerShell, and AWS cloud formation.
+What You'll Need:
+To thrive in this role, you have 5+ years of experience in automation and scripting (e.g., Python, PowerShell, etc.).
+You have 4+ years of experience in infrastructure-as-code tools (Terraform, Ansible, CloudFormation).
+You have experience with CI/CD tools (Jenkins, GitLab, etc.).
+You have experience with Containers and container management (Docker, Kubernetes) and serverless architectures.
+You will need excellent presentation skills in order to communicate with management and stakeholders.
+#LI-LD1
+Remarkable benefits:
+•    Health coverage for medical, dental, vision
+•    401(K) saving plan with company match AND Pension
+•    Tuition assistance
+•    PTO for community volunteer programs
+•    Wellness program
+•    Employee discounts (membership, insurance, travel, entertainment, services and more!)
+Auto Club Enterprises is the largest federation of AAA clubs in the nation. We have 14,000 employees in 21 states helping 17 million members. The strength of our organization is our employees. Bringing together and supporting different cultures, backgrounds, personalities, and strengths creates a team capable of delivering legendary, lifetime service to our members. When we embrace our diversity – we win. All of Us! With our national brand recognition, long-standing reputation since 1902, and constantly growing membership, we are seeking career-minded, service-driven professionals to join our team.
+"Through dedicated employees we proudly deliver legendary service and beneficial products that provide members peace of mind and value.”
+AAA is an Equal Opportunity Employer
+        

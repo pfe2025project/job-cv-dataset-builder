@@ -1,0 +1,39 @@
+Title: Cloud Security Architect
+        Company: Creative Financial Staffing
+        Location: Prairie Du Sac, Sauk County
+        
+        Description:
+        Cloud Security Architect | Permanent | No Sponsorship Available
+ABOUT OUR CLIENT
+Our client is a Wisconsin staple that is family owned
+They value their community and continuously find opportunities to give back
+Strong foundations - they continued to grow 6% YoY despite their sector being down 3%
+BENEFITS & COMPENSATION
+Compensation:
+$130,000 to $150,000 per year + 15% bonus
+PTO:
+16 days starting
+Retirement:
+401(k) w/ Match
+Medical:
+Comprehensive health benefits
+Other:
+Hybrid work environment (3 days onsite per week)
+RESPONSIBILITIES FOR THE CLOUD SECURITY ARCHITECT
+Develop and maintain comprehensive security architecture for cloud and on-premises environments.
+Design and implement security controls specific to Microsoft tools and Azure, including Azure Security Center, Azure Active Directory, and Microsoft 365 security features.
+Develop secure configurations and policies for Azure resources.
+Leverage Azure Sentinel for threat detection, incident response, and security monitoring.
+Conduct security assessments, vulnerability assessments, and penetration testing.
+Ensure compliance with regulatory requirements, including PCI and data privacy.
+Develop, implement, and enforce security policies, standards, and procedures.
+Conduct security awareness training and promote a culture of security.
+PREFERRED EXPERIENCE FOR THE CLOUD SECURITY ARCHITECT
+Extensive knowledge of Microsoft tools and Azure platforms.
+Experience using security architecture methodologies and vulnerability management tools.
+Full-stack knowledge of IT infrastructure.
+Experience designing IAM technologies and services (e.g., Active Directory, LDAP, Azure, IAM).
+Strong understanding of security frameworks, such as NIST, ISO 27001, and CIS Controls.
+Strong verbal communication and writing skills.
+Timing is everything. Whether you are aggressively in a job search or simply passive and looking for the ideal position, we would like to have the chance to share our opportunities with you. We specialize in placement of IT professionals. Please contact me for more information about this role as well as other opportunities.
+        

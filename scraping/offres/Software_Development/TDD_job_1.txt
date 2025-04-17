@@ -1,0 +1,37 @@
+Title: Java Full Stack Engineer (TDD)
+        Company: iSoftTek Solutions Inc
+        Location: Chicago, Cook County
+        
+        Description:
+        Job DescriptionJob Description
+Role:
+Java Full Stack Engineer (TDD)
+Location:
+Chicago Heights, IL (Onsite)
+Duration:
+12 month
+yrs of exp: 10+
+NEED A CANDIDATE WITH TDD EXPERIENCE (Test Drive Development)
+NEW POSITION
+Job Description:
+Looking for a Senior Developer to work, deploy, and manage web / API based applications who are passionate about their work and embraces the ideals of the software craftsmanship and Agile development practices.
+• 5-8 years of hands-on experience in developing web-based software applications.
+• Collaborate with product managers and your peers to execute on a broad range of projects for the digital products.
+• Responsible for future enhancements to designing and building technical solutions.
+• Design complex, secure and optimized web-based applications using Java, Spring Boot, Rest API’s DevOps, Cloud Platform ( OCP, Kubernetes ) and will be equipped with modern CI/CD developer tool kit (STS/IntelliJ, GitHub, Jenkins, and Nexus), JWT, OAUTH, etc.
+• Work closely within a cross-functional Agile delivery team to understand requirements, create development story design documents, and implement stories.
+• Break down a product vision into workable technical solutions to solve business problems
+• Build high quality software for large scale and highly available systems
+• Provide strong technical and team leadership
+• Talk about your work with both technical and non-technical team members
+• Promote a risk-aware culture, ensure efficient and effective risk and compliance management practices by adhering to require standards and processes
+Required Skills:
+1.Prior experience in practicing Test Driven Development (mandatory).
+2.Drive TDD and ability to design Unit, Integration, Functional and Non-Functional Tests (Reliability, Performance & Cyber security).
+3.Strong fundamentals in Java, API first design.
+4.Understanding of modern architecture and design patterns, including Microservices.
+5.Experience with Spring, Kafka, Containerization, DevOps and CI/CD.
+6.Database experience in Oracle, PostgresSQL, etc.
+7.Cloud experience (i.e., AWS).
+Kindly please share your resumes with srikar@isofttekinc.com
+        

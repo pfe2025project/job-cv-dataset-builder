@@ -1,0 +1,69 @@
+Title: Robotics Software Engineer
+        Company: Jenn Nguyen and Friends
+        Location: San Francisco, California
+        
+        Description:
+        Job Title: Robotics Software Engineer
+Compensation: $200-300k + significant equity (TBD)
+Location: Hybrid 3 days/week in South San Francisco
+Who Are We?
+Were a fast-moving biotech startup that's built for speed. Our automation tools power some of the fastest DNA sequencing in the world, used daily by everyone from Nobel laureates to scrappy DIY biohackers. With a small but mighty team, we've gone from zero to processing 13,000 samples a day across 50+ labs without slowing down. If you like ambitious missions, low bureaucracy, and a seriously talented team, you're in the right place.
+What's in It for You?
+Massive Impact:
+You'll directly contribute to life-saving research, from novel drug development to climate tech.
+Ownership & Autonomy:
+End-to-end ownership of complex projects no PMs, no hand-holding, just you, some code, and a whole lot of robots.
+Cool Tech:
+Build and deploy software for robotic systems using Python, Docker, Raspberry Pi, and your choice of CAD flavor.
+Career Growth:
+Work with some of the smartest minds in biotech and scale your impact as we double the team.
+Benefits:
+20 PTO days, 10 paid holidays, full medical/dental/vision, 401(k) match, and a front-row seat to the future of biotech.
+What Will You Do?
+Build automation systems that turn wet lab chaos into robotic precision.
+Write Python to control liquid handling robots like Opentrons OT-2 (bonus points if you've hacked one).
+Design and prototype robotic components using CAD + 3D printing.
+Work directly with scientists to translate messy protocols into slick, scalable systems.
+Deploy your code into the wild and maintain a growing fleet of semi-sentient lab assistants.
+Monitor, debug, and improve performance in a live production environment.
+Collaborate with a tight-knit R&D team of ~8 engineers.
+Help us double our automation capabilities again.
+What Will You Need?
+Must-Have Experience:
+3+ years Python (Flask/Django a plus), Linux, Docker.
+1+ years automating wet lab procedures with liquid handling systems (Opentrons strongly preferred).
+Demonstrated wet lab experience (college experience acceptable).
+Raspberry Pi or other embedded system experience.
+CAD modeling + 3D printing (Fusion 360 ideal).
+Built systems used in a production environment lab automation, IoT, etc.
+End-to-end project ownership without relying on PMs or tech leads.
+A hacker mindset Arduino projects, Raspberry Pi mods, robot arms that make espresso, you get the idea.
+Nice-to-Haves:
+Ansible
+Simple computer vision (OpenCV)
+Interest in biotech, DNA sequencing, or synthetic biology
+Side projects combining code, hardware, and a bit of madness
+Must-NOT-Haves:
+Serial job hopping
+Only out-of-the-box Opentrons workflows (we want builders, not button-pushers)
+Final Bits
+Role is hybrid: 3 days/week in South San Francisco.
+If you've ever hacked a 3D printer to pipette enzymes this role was made for you.
+Ready to help automate the future of biotech? Apply now and bring your Raspberry Pi.
+Job Title: Robotics Software Engineer
+Compensation: $200-300k + significant equity (TBD)
+Location: Hybrid 3 days/week in South San Francisco
+Who Are We?
+Were a fast-moving biotech startup that's built for speed. Our automation tools power some of the fastest DNA sequencing in the world, used daily by everyone from Nobel laureates to scrappy DIY biohackers. With a small but mighty team, we've gone from zero to processing 13,000 samples a day across 50+ labs without slowing down. If you like ambitious missions, low bureaucracy, and a seriously talented team, you're in the right place.
+What's in It for You?
+Massive Impact:
+You'll directly contribute to life-saving research, from novel drug development to climate tech.
+Ownership & Autonomy:
+End-to-end ownership of complex projects no PMs, no hand-holding, just you, some code, and a whole lot of robots.
+Cool Tech:
+Build and deploy software for robotic systems using Python, Docker, Raspberry Pi, and your choice of CAD flavor.
+Career Growth:
+Work with some of the smartest minds in biotech and scale your impact as we double the team.
+Benefits:
+20 PTO days, 10 paid holidays, full medical/dental/vision, 401(k) match, and a front-row seat to the future of biotech.
+        

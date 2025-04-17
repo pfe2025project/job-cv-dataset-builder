@@ -1,0 +1,52 @@
+Title: Senior Backend Developer (Symfony)
+        Company: CapsLock
+        Location: Madrid, Houston County
+        
+        Description:
+        CapsLock
+builds exceptional IT marketing solutions for large partners from North America.
+We create a unique marketing platform to deliver high-quality service in different industries.
+CapsLock is looking to hire an outstanding
+Backend PHP Developer
+with solid technical skills to support all current projects and create new ones.
+You'll be involved in a spectrum of development practices, from cultivating high-level design to the specifics of software implementation. We have a great IT team with a strong development background to improve your skills and share your knowledge.
+Responsibilities:
+Researching, designing, implementing, and managing software programs.
+Testing and evaluating new programs.
+Identifying areas for modification in existing programs and subsequently developing these modifications.
+Producing clean, efficient code based on specifications.
+Integrating software components and third-party programs.
+Determining operational practicality.
+Developing quality assurance procedures.
+Deploying software tools, processes, and metrics.
+Maintaining and upgrading existing systems.
+Verifying and deploying programs and systems.
+Recommending and executing improvements.
+Creating technical documentation for reference and reporting.
+Working closely with other developers, designers, business and systems analysts to achieve the best result.
+Skills & Background:
+3+ years of professional development experience in PHP.
+Solid knowledge of OOP, design patterns, and layered architecture.
+Proficiency in writing PHP code (7.4+).
+Expertise in Symfony PHP framework.
+Strong experience in SQL with MySQL/PostgreSQL.
+Experience with designing software architecture.
+Comfortable working with Git in Git-based workflows.
+Conversational English level.
+Strong communication skills, mainly written (as a remote company, we heavily emphasize written communication across all departments).
+Nice to Have:
+A proactive approach to problem-solving.
+A positive attitude and entrepreneurial spirit.
+Proficiency in using Docker
+Frontend experience.
+Experience in TDD, DDD.
+Familiarity with *nix systems, and shell scripting.
+What we offer:
+Remote working - any comfortable place for doing your tasks within the CET time zone.
+Full-time employment with a flexible schedule.
+Paid vacations.
+Benefits and bonus system.
+Work-life balance.
+Highly professional team.
+International team network.
+        

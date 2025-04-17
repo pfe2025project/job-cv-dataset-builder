@@ -1,0 +1,38 @@
+Title: Wireless Network Engineer
+        Company: TEKsystems
+        Location: Atlanta, Fulton County
+        
+        Description:
+        Top Skills' Details
+- Expertise with Juniper Mist 4000 series for wireless deployment and management.
+- Strong troubleshooting and problem-solving skills, particularly in complex wireless environments.
+Nice to Have (Bonus):
+- Experience with Clearpass 802.1x and/or Cisco ISE for network authentication and security.
+Description
+We are seeking an experienced Wireless Network Engineer to join our team and provide critical support to improve the stability and reliability of our wireless infrastructure. The wireless network is currently facing significant challenges, and we need a wireless guru to help troubleshoot and optimize the environment. This role will involve logical troubleshooting, network analysis, and ensuring seamless wireless performance across a hospital environment.
+Responsibilities:
+- Provide expert-level support for wireless network stability and performance.
+- Troubleshoot and resolve wireless connectivity issues across a large-scale network.
+- Support the transition from Cisco to Juniper Mist 4000 series with a focus on seamless deployment.
+- Optimize and manage the performance of approximately 2000 Cisco 9000 APs.
+- Collaborate closely with internal teams and stakeholders to implement wireless solutions.
+- Provide proactive recommendations for network improvements.
+- Serve as a subject matter expert for wireless network design and architecture.
+Must-Have Qualifications:
+- Expertise with Juniper Mist 4000 series for wireless deployment and management.
+- Strong troubleshooting and problem-solving skills, particularly in complex wireless environments.
+Nice to Have (Bonus):
+- Experience with Clearpass 802.1x and/or Cisco ISE for network authentication and security.
+Additional Details:
+- This role is primarily focused on logical deployment and troubleshooting rather than physical installations.
+Pay and Benefits
+The pay range for this position is $45.00 - $63.00/hr.
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to specific elections, plan, or program terms. If eligible, the benefits available for this temporary role may include the following: - Medical, dental & vision- Critical Illness, Accident, and Hospital- 401(k) Retirement Plan - Pre-tax and Roth post-tax contributions available- Life Insurance (Voluntary Life & AD&D for the employee and dependents)- Short and long-term disability- Health Spending Account (HSA)- Transportation benefits- Employee Assistance Program- Time Off/Leave (PTO, Vacation or Sick Leave)
+Workplace Type
+This is a hybrid position in Atlanta,GA.
+Application Deadline
+This position is anticipated to close on Apr 18, 2025.
+About TEKsystems:
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+        

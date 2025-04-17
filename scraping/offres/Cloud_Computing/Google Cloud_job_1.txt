@@ -1,0 +1,47 @@
+Title: Google Cloud Platform Engineer
+        Company: Capgemini Government Solutions
+        Location: Washington, D.C., US
+        
+        Description:
+        Capgemini Government Solutions (CGS) LLC is seeking highly motivated and experienced Google Cloud Platform Engineers to join our team to support our government clients. The successful applicant will play a meaningful role in crafting, implementing, and maintaining cloud infrastructure solutions within Google Cloud Platform (GCP).
+Opportunity to enhance abilities, collaborate with a dynamic team, interact with various partners, and strengthen CGS' services.
+Job Responsibilities
+As a Google Cloud Platform Engineer, you will:
+Architect, deploy, and manage scalable, secure, and resilient GCP environments to support enterprise applications.
+Develop and maintain Terraform, Packer, and Jenkins pipelines to automate cloud provisioning and configuration management.
+Implement standard methodologies for security, such as IAM role management, encryption, and GCP Security Command Center to ensure compliance with federal standards.
+Configure and troubleshoot VPCs, subnets, firewalls, load balancers, and hybrid cloud networking to optimize performance and security.
+Build and improve CI/CD pipelines using GitHub, Azure DevOps, and Terraform to streamline deployments and cloud automation.
+Monitor and optimize GCP resources using Harness Cloud Costs, Stackdriver, and cost analytics tools to drive efficiency and reduce spending.
+Support integrations between GCP, AWS, and Azure, ensuring seamless interoperability across cloud environments.
+Provide expert-level troubleshooting for cloud-based systems, ensuring high availability and rapid recovery from failures.
+Develop and maintain PowerShell, Bash, and Python scripts for system administration and automated deployments.
+Work closely with development, operations, and security teams to align cloud strategies with business needs.
+Required Qualifications:
+U.S. Citizenship is required.
+Must have an active Top Secret Government Security Clearance.
+Associate degree or Equivalent experience.
+Minimum 5 years of experience in cloud engineering, systems administration, or DevOps, with a focus on GCP.
+Google Cloud Fundamentals: Core Infrastructure or equivalent GCP certification preferred.
+Strong expertise in Terraform, Jenkins, GitHub, and Azure DevOps for automation and continuous integration.
+In-depth knowledge of GCP IAM, encryption, security monitoring, and compliance frameworks.
+Proficiency in configuring GCP VPCs, Cloud Load Balancing, Cloud Interconnect, and VPNs.
+Familiarity with AWS and Azure for cross-cloud integrations and hybrid cloud solutions.
+Strong proficiency in PowerShell, Bash, Python, and JSON/YAML scripting for cloud automation.
+Ability to be on-site 5 days a week.
+Desired Qualifications:
+Strong communication and team building skills.
+Experience with serverless computing, Kubernetes (GKE), and container orchestration.
+Knowledge of GCP Anthos, Cloud Functions, and App Engine for scalable deployments.
+Familiarity with incident response, disaster recovery, and high-availability cloud architectures.
+About Capgemini
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion.
+Get the future you want | www.capgemini.com
+Disclaimer
+All qualified applicants will be considered for employment based on their skills, and merit.
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.
+Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range, and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is 100K-130K.
+This role may be eligible for other compensation including variable compensation, bonus, or commission. Full time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees.
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.
+        

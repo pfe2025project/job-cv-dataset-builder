@@ -1,0 +1,45 @@
+Title: CNO Java Software Engineer
+        Company: ManTech
+        Location: Harmans, Anne Arundel County
+        
+        Description:
+        ManTech seeks a motivated, career and customer-oriented
+CNO Java Software Engineer
+to join our team in the Hanover, Maryland location.  Provides specialized development, testing and evaluation capabilities tailored to system functions.
+Responsibilities include, but are not limited to:
+Developing and coding software, ensuring software standards are met.
+Performing system and subsystem definition, preliminary and detailed design, design implementation, and subsystem and system integration and tests for a system.
+Researching requirements for a product, including CNO deployment environment, performance criteria, and competitive issues.
+Designing ideas for new capabilities or recommendations for improvements to existing capabilities.
+Determining computer user needs; analyzes system capabilities to resolve problems on program intent, output requirements, input data acquisition, programming.
+Debugging and troubleshooting software
+Modifying existing software to correct errors, to adapt to new requirements, or to improve performance.
+Performing quality control on team products.
+Coordinating and performing software deployments for developed products.
+Minimum Qualifications:
+Bachelor’s degree in computer science or related field, plus 7 years of programming experience
+OR
+11 years of programming experience in lieu of a degree.
+Experience with Java 8 or higher
+Experience with build environments such as Gradle or Maven
+Experience with Object Oriented Analysis and Design
+Familiarity with Software Version Control
+Knowledge of CNO environment
+Knowledge of agile software development methodology
+Knowledge of XML or XSLT
+Knowledge of JSON
+Preferred Qualifications:
+Experience with Spring Cloud & Spring Boot
+Experience with Kafka
+Experience with Subversion/GIT
+Experience with Elastic / Kibana
+Experience using VMWare, preferably ESX
+Experience with containers (Docker, Kubernetes)
+Atlassian Tools (Confluence, Jira, Bamboo, Crucible)
+Strong problem-solving skills
+Security Clearance Requirements:
+Must have an active and current TS/SCI with Polygraph clearance.
+Physical Requirements:
+Ability to remain stationary for extended periods (50% of the time) and operate computer equipment and office machinery.
+Regular communication with co-workers, management, and customers.
+        

@@ -1,0 +1,46 @@
+Title: Data Science Specialist III
+        Company: INSPYR Solutions
+        Location: Crestwood, Houston
+        
+        Description:
+        Title: Data Scientist III
+Location: Houston, TX 77002 (ONSITE)
+Duration: Long Term Contract
+Work Requirements: US Citizen, GC Holders or Authorized to Work in the U.S.
+Job Description:
+We are currently seeking an experienced data scientist to join the Big Data and Advanced Analytics department. As part of the Data Analytics team, the Lead Data Scientist will work closely with the Data Engineering team and business functions to solve real-world oil and gas midstream problems using machine learning, data science algorithms and artificial intelligence.
+Responsibilities include:
+Work independently on data science projects for multiple business functions
+Identify and frame the data science opportunity from understanding the business problem / opportunity
+Gather, cleanse, and transform internal and external data
+Analyze data and deliver insights via visualizations and dashboards
+Create predictive models, productionize, and maintain machine learning models that address business problems
+Present, explain and defend results from analysis and modeling, and approach taken
+Participate in strategic planning discussions around data science and big data.
+The successful candidate will meet the following qualifications: 5+ years of practical experience framing and solving data science problems
+5+ years of hands on experience with applied statistics and/or machine learning
+5+ years of experience solving problems with Python, Pandas, Scikit-Learn
+3+ years of experience solving NLP, text and content analytics problems
+3+ years of experience with TensorFlow, PyTorch or other deep learning technologies
+3+ years of experience developing visualizations with Python libs, Spotfire or Power BI
+3+ years of experience applying descriptive and inferential statistics to real world problems
+3+ years of experience building software source control, software architecture and design, data structures and algorithms
+Professional experience with Google Cloud Platform (GCP) - BigQuery, etc. is a plus
+Professional experience working in the consumer media and publishing domain is a plus
+Professional experience modeling customer churn and/or conversion is a plus
+Professional experience using ML Transformers is a plus
+Professional experience building recommender systems is a plus
+Ability to adapt in a rapidly changing environment
+Ability to communicate insights and approaches in a simple, actionable manner
+Ability to work independently and with team members from different backgrounds
+Ability to travel to Austin occasionally as needed
+Excellent attention to detail and problem-solving skills
+Our benefits package includes:
+Comprehensive medical benefits
+Competitive pay
+401(k) retirement plan
+…and much more!
+About INSPYR Solutions
+Technology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients' business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.
+INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
+        

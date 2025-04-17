@@ -1,0 +1,7 @@
+Title: Senior Node.js Engineer
+        Company: ROSE
+        Location: New York City, New York
+        
+        Description:
+        check url => https://www.adzuna.com/land/ad/5135743535?se=YDvR8JQb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=08AFB140B53FCB1992AB21840058579E2189FE43
+        

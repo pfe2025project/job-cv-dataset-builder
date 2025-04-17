@@ -1,0 +1,62 @@
+Title: JQuery. Blazor Oracle Database Trouble Shooting PC Analyst
+        Company: COOLSOFT
+        Location: Capitol, Richmond
+        
+        Description:
+        JQuery. Blazor Oracle Database Trouble Shooting PC Analyst
+(Jobs in Richmond, VA)
+Requirement id 152923
+Job title Analyst
+Job location in Richmond, VA
+Skills required JQuery., Blazor, Oracle SQL, Oracle Database Trouble Shooting PC
+Open Date 14-Apr-2025
+Close Date
+Job type Contract
+Duration 2 Months
+Compensation DOE
+Status requirement ---
+Job interview type ---
+Email Recruiter:coolsoft
+Job Description Analyst: JQuery., Blazor, Oracle SQL, Oracle Database Trouble Shooting PC
+Start date : 04/28/2025
+End Date : 06/30/2025
+Submission deadline : 4/17/2025
+Client Info : VDOT
+Note:
+- Agency Interview Type : In Person Only
+- Hybrid
+Description :
+**Mgr. requests vendors ONLY submit candidates who already LIVE IN RICHMOND, VA
+**ALL interviews ONSITE
+**Long-Term position requires onsite 3 days a week at 1401 East Broad Street, Richmond VA
+**Assignment to be extended beyond 6/30, possibly 24 months
+**Contractor will be responsible for purchasing parking through VDOTs Parking Management Office or procuring their own parking
+VDOT-AMD is seeking a Developer with Strong Oral and Written Communication skills and at least 10 yrs or more .NET Web application development.
+Experience and fluency with .NET web application lifecycle and middleware, C#, Web API Design, Development and Security, Blazor, JavaScript including frameworks React, Angular, Mud Blazor, CSS3 and HTML5 experience.
+VDOT is seeking a senior Developer with .NET Applications Developer experience who will be responsible for managing, encoding, analyzing complex software requirements to design and develop high quality components using the .NET Core framework.
+The Senior Developer is expected to ensure that programming best practices are being followed, prioritize work effectively and write system documentation when required.
+The successful candidate should have strong oral and written communication skills to be effective in both technical and business requirement discussions.
+Core technical skills and behavior:
+Strong understanding of C# language
+Demonstrated experience with .NET web application lifecycle and middleware
+Demonstrated experience with software development and architecture patterns.
+Web API Design, Development and Security
+Blazor
+Relational database design
+T-Sql development
+Write effective unit tests and integration tests to ensure high quality software delivery.
+In-depth knowledge of system design patterns, tiered architecture, effort estimation, and testing practices.
+Understanding of key business processes and competitive strategies related to the IT function.
+Work with project business and system analysts to clarify the requirements and then implement them.
+Participate in Agile SDLC.
+Team first attitude, character and skill matter
+Git / TFS (Azure DevOps) code repository experience
+Desired Skills
+Mud Blazor component library
+Front End: HTML, CSS, JS
+Dapper ORM data access
+Azure DevOps for code repositories and boards
+Serilog or similar logging library
+Test Driven Development
+Call502-379-4456 Ext 100for more details. Please provide Requirement id: 152923 while calling.
+        

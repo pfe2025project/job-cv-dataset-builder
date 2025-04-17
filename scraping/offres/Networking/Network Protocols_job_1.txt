@@ -1,0 +1,45 @@
+Title: Go Developer - Network Protocols
+        Company: Witness AI
+        Location: Mountain View, Santa Clara County
+        
+        Description:
+        Go Developer - Network Protocols
+At WitnessAI, we're at the intersection of innovation and security in AI. We're seeking a skilled Go developer with expertise in network traffic analysis and content extraction. The ideal candidate will have a strong understanding of network protocols and the ability to work with application layer data (HTTP, JSON, etc.)
+Key Responsibilities:
+● Develop and maintain Go applications for network traffic analysis
+● Design and implement efficient real-time parsing and processing of
+network packets
+● Write parsers for TCP stream content, focusing on HTTP and common
+data formats
+● Build tools for real-time network traffic telemetry
+Required Qualifications:
+● 3+ years of professional experience in software development, with at least
+2 years using Go
+● Strong proficiency in Go, including concurrent programming and standard
+library usage
+● Solid understanding of TCP/IP networking fundamentals
+● Knowledge of common network protocols (HTTP, WebSockets, TLS,
+others)
+● Experience with network packet capture and analysis (e.g., using libpcap
+or similar libraries)
+● Expertise in working with the HTTP protocol, including headers, methods,
+and status codes
+● Familiarity with RESTful API design and implementation
+● Excellent problem-solving skills and attention to detail
+● Strong communication skills and ability to work in a collaborative
+environment
+Preferred Qualifications:
+● Familiarity with multiple data formats and languages (XML, HTML, JS)
+● Ability to debug HTML and Javascript
+● Knowledge of TLS/SSL and experience with encrypted traffic analysis
+● Experience with cloud-native technologies, including Docker and Kubernetes
+Benefits:
+Hybrid work environment
+Competitive salary.
+Health, dental, and vision insurance.
+401(k) plan.
+Opportunities for professional development and growth.
+Generous vacation policy.
+Salary range:
+$180,000-$220,000
+        

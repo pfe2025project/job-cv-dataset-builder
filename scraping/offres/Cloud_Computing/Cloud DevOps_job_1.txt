@@ -1,0 +1,33 @@
+Title: Cloud DevOps Engineer II
+        Company: Claritev
+        Location: Irving, Dallas
+        
+        Description:
+        JOB SUMMARY:
+We are seeking a passionate Mid-Level DevOps Engineer with experience designing, implementing, and maintaining automated solutions for provisioning and deploying against cloud infrastructure. This role requires strong expertise in cloud platforms, containerization, infrastructure as code, and DevSecOps best practices to ensure solutions maintain and build upon established department standards and procedures. Candidates with experience in Oracle Cloud Infrastructure (OCI) are preferred but not required.
+JOB ROLES AND RESPONSIBILITIES:
+Design, build, and manage cloud infrastructure solutions to support scalable application deployments.
+Implement and optimize Continuous Integration (CI) and Continuous Deployment/Delivery (CD) pipeline solutions that fully automate the build and deployment of critical platforms.
+Architect DevSecOps solutions for cloud infrastructure and coach teams in DevSecOps principles, including Test-Driven Development (TDD) and Behavior-Driven Development (BDD), to ensure security and reliability throughout the software lifecycle.
+Develop and maintain infrastructure-as-code using Terraform or similar tools
+.
+Manage cloud platform stability and hosted applications, security and infrastructure solutions.
+Deploy, manage, and troubleshoot containerized applications using Kubernetes, Helm, and Docker.
+Collaborate with development teams to improve DevOps workflows, security, and automation strategies.
+Proactively
+decipher performance bottlenecks and recommend site reliability solutions as appropriate to improve the developer user experience.
+Promote Cloud and DevSecOps best practices by publishing self-service aids, training and leading communities of practice.
+Responsible for code release and production cloud orchestration support.
+Partner with Cloud Platform and other infrastructure teams to deliver solutions effectively.
+Implement, monitor, and maintain fail-proof cloud infrastructure systems, controls, and policies to protect corporate assets, systems, data (corporate, print and digital), and intellectual property.
+Successfully resolve end-user issues pertaining to Application Deployments and DevOps tools. Support users on an on-call basis as necessary.
+Ensure compliance with HIPAA regulations and requirements.
+Demonstrate Company’s Core Competencies and values held within.
+Please note due to the exposure of PHI sensitive data, this is a High Risk and Privileged Role.
+The position responsibilities outlined above are in no way to be construed as all encompassing. Other duties, responsibilities, and qualifications may be required and/or assigned as necessary.
+JOB SCOPE:
+This position works independently under general supervision to complete the assigned job responsibilities. Work performed is often varied and complex, requiring a reliance on a knowledge base built through experience. The incumbent follows established procedures and uses knowledge of the Company’s general business principles, industry dynamics, market trends, and specific operation details when performing the duties of the position as assigned.
+COMPENSATION
+:
+The salary range for this position is 110k-130k. Specific offers take into account a candidate’s education, experience and skills, as well as the candidate’s work location and internal equity. This position is also eligible for health insurance, 401k and bonus opportunity.
+        

@@ -1,0 +1,39 @@
+Title: Experience Laravel Developer
+        Company: Telrite Holdings
+        Location: Atlanta, Fulton County
+        
+        Description:
+        Job DescriptionJob Description
+Experienced Laravel Developer
+As an Experienced Laravel Developer, you will play a vital role in supporting our group of successful companies by developing and maintaining both internal and customer/partner web-based applications and reporting systems. Your day-to-day responsibilities will include coding, troubleshooting, and collaborating with a dynamic, in-office team. This position offers the opportunity to wear many hats and experience the immediate business impact of your work.
+Company:
+Telrite, home to PureTalk, Life Wireless, and H2O, is a leading provider of low-cost wireless services operating on the nation’s largest and most reliable network. As a veteran-owned company, we prioritize providing excellent career opportunities for talented professionals who are passionate about achieving results. With a commitment to employee development, we offer a well-rounded compensation and benefits package, along with a unique work environment which fosters growth and collaboration.
+Responsibilities
+Develop, enhance, and maintain web-based applications and reporting systems using Laravel PHP framework.
+Collaborate with cross-functional teams to gather requirements, design, and implement solutions.
+Ensure seamless integration of internal and external systems through the design and development of RESTful APIs.
+Write efficient SQL statements for MS SQL and/or PostgreSQL databases.
+Utilize systems scripting and Linux knowledge to automate tasks and optimize workflows.
+Troubleshoot and debug issues, providing timely resolutions and improvements.
+Keep up-to-date with emerging technologies, industry trends, and best practices in web development.
+Work both independently and collaboratively in a fast-paced environment, managing multiple projects and priorities effectively.
+Communicate effectively with team members, stakeholders, and end-users, both verbally and in written form.
+Maintain excellent attention to detail and adhere to documentation standards.
+Demonstrate a strong commitment to quality, ensuring high standards of code through testing and code reviews.
+Show flexibility and adaptability in responding to evolving project requirements.
+Contribute to the continuous improvement of development processes and methodologies.
+Qualifications
+3 or more years of programming experience.
+Bachelor's degree in Management Information Systems (MIS), Computer Information Systems (CIS), Computer Science (CS), Engineering, or equivalent field is preferred.
+Strong skills in PHP, HTML, JavaScript, TypeScript, CSS, and Git.
+Solid experience with the Laravel PHP framework.
+Knowledge of designing and implementing RESTful APIs.
+Experience writing SQL statements for MS SQL and/or PostgreSQL databases.
+Familiarity with systems scripting, Linux, and telecom experience is a plus.
+Excellent team player with strong written and verbal communication skills.
+Exceptional attention to detail and commitment to documentation standards.
+Ability to work independently and collaboratively in a fast-paced setting.
+Excellent command of the English language (reading, writing, and speaking).
+Please apply now. Thank you for your interest!
+Note that job information in this posting is not all-inclusive. Other duties and responsibilities may be assigned and are subject to change based on business needs and management directives. Benefits are subject to eligibility rules. No phone calls, site visits, agencies, or solicitations, please. Relocation or sponsorship assistance is not available. While we would like to respond to every inquiry, the volume of submissions prevents us from contacting those that are not close matches for consideration. Life Wireless and its affiliates are equal-opportunity employers, dedicated to promoting a dynamic, culturally diverse, and drug-free work experience.
+        

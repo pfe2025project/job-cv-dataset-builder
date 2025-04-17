@@ -1,0 +1,207 @@
+Title: SQL Database Administrator
+        Company: Maximus
+        Location: Colorado Springs, El Paso County
+        
+        Description:
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ SQL Database Administrator
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Friday, April 4, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Colorado Springs
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ CO
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximus is seeking a SQL Database Administrator to provide expertise to a federal client in support of their mission critical systems in defense of our Homeland. Your role will involve overseeing database administration, performance tuning, troubleshooting, and ensuring the availability, integrity, and security of our SQL databases.
+This is an on-site position that requires a Secret Clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS081, T3, Band 6
+Job-Specific Essential Duties and Responsibilities:
+Administer and maintain SQL Server database environments, including installation, configuration, and patch management.
+Administer and maintain database operational status and performance monitoring.
+Administer and maintain database replication monitoring and fault correction.
+Monitor database performance, identify bottlenecks, and implement optimization strategies to ensure optimal throughput and responsiveness.
+Perform database design, data modeling, and schema management to support application requirements and performance goals.
+Implement and maintain database security measures, including user access controls, data encryption, and auditing mechanisms.
+Conduct database capacity planning and forecasting to accommodate future growth and changing business requirements.
+Develop and maintain database backup and recovery strategies to ensure data availability and integrity.
+Collaborate with development teams to optimize SQL queries, database code, and stored procedures for improved performance.
+Create and maintain documentation related to database configurations, procedures, and troubleshooting guides.
+Collabo rate with development teams to optimize SQL queries, database code, and stored procedures for improved performance.
+Create and maintain documentation related to database configurations, procedures, and troubleshooting guides.
+Job-Specific Minimum Requirements:
+An active Secret Clearance is required
+Due to federal requirements, candidates must be US Citizens without Dual Citizenship to another country.
+This position requires a High School Diploma, GED, or equivalent.
+7+ years of experience with data base administration or related technologies.
+5+ years of experience with  SQL.
+This is an on-site position at a government facility.
+Requires presence on-site five days per week in Colorado Springs, CO.
+Candidates must reside within a commutable distance.
+Participation in a rotational on-call schedule for emergency page-outs is required.
+#APPCASTDTO #techjobs #clearance
+Minimum Requirements
+ 
+ 
+ 
+ TCS081, T3, Band 6
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 85,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 115,000.00
+        

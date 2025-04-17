@@ -1,0 +1,33 @@
+Title: Research Engineer
+        Company: Helm.ai
+        Location: Redwood City, San Mateo County
+        
+        Description:
+        We help make autonomous technologies more efficient, safer, and accessible.
+Helm.ai builds AI software for autonomous driving and robotics. Our Deep Teaching™ methodology is uniquely data and capital efficient, allowing us to surpass traditional approaches. Our unsupervised learning software can train neural networks without the need for human annotation or simulation and is hardware-agnostic. We work with some of the world's largest automotive manufacturers and we've raised over $100M from Honda, Goodyear Ventures, Mando, and others to help us scale.
+Our team is made up of people with a diverse set of experiences in software and academia. We work together towards one common goal: to integrate the software you'll help us build into hundreds of millions of vehicles.
+You will:
+You will work collaboratively to improve our models and iterate on novel research directions, sometimes in just days. We're looking for talented engineers who'd enjoy applying their skills to deeply complex and novel AI problems. Here, you will:
+Apply and extend the Helm proprietary algorithmic toolkit for unsupervised learning and perception problems at scale
+Carefully execute development and maintenance of tools used for deep learning experiments designed to provide new functionality for customers or address relevant corner cases in the system as a whole
+Work closely with software and autonomous vehicle engineers to deploy algorithms on internal and customer vehicle platforms
+You have:
+A sense of practical optimism: not all experiments are successful, but the ones that are more than make up for it!
+Comfort operating in a fast-paced environment to deliver customer projects
+Introspection, thoughtfulness, and detail-orientation
+Experience working with neural networks, Tensorflow and/or PyTorch
+Fluency in Python and working knowledge of C/C++ programing
+A strong interest in unsupervised learning, computer vision, and/or the autonomous vehicle industry
+Master’s or Ph.D. in a related field and/or 5+ years of experience in a related field
+The pay range for this position is estimated to fall in the base range of approximately $150,000 and $250,000. Base compensation for this position will vary based on location, qualifications, and relevant experience. The offered base salary may be above or below this range and compensation for the position may include additional compensation in the form of equity or a bonus/commission.
+We offer:
+Competitive health insurance options
+401K plan management
+Remote-friendly and flexible team culture
+Free lunch and fully-stocked kitchen in our South Bay office
+Additional perks: monthly wellness stipend, office set up allowance, company retreats, and more to come as we scale
+The opportunity to work on one of the most interesting, impactful problems of the decade
+Helm.ai is proud to be an equal opportunity employer building a diverse and inclusive workforce. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+ 
+Any unsolicited resumes/candidate profiles submitted through our website or to personal email accounts of employees of Helm.ai are considered the property of Helm.ai and are not subject to payment of agency fees.
+        

@@ -1,0 +1,201 @@
+Title: DevOps Engineer (RHEL)
+        Company: Maximus
+        Location: Colorado Springs, El Paso County
+        
+        Description:
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ DevOps Engineer (RHEL)
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Tuesday, March 18, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Colorado Springs
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ CO
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+We are seeking a highly skilled and experienced professional to join our team as a DevOps Engineer with a focus in Red Hat Linux. The DevOps Engineer will be responsible for leading the development, deployment, and maintenance of a platform-as-a-service offering. The role will involve collaborating with cross-functional teams and overseeing technical architecture while delivering scalable and reliable solutions.
+This position is an onsite role, 5 days a week and requires a secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS089, T5, Band 8
+Job-Specific Essential Duties and Responsibilities:
+-
+Design, build, and maintain a scalable Platform-as-a-Service Infrastructure on RHEL and OpenShift Container Platforms, including data services, storage, networking, and security components.
+- Monitor and optimize system performance and implement corrective actions on a hybrid/private cloud-based platform.
+- Conduct regular cybersecurity vulnerability assessments and penetration testing.
+- Develop and maintain security incident response plans and procedures.
+- Develop and implement automation scripts and tools to streamline platform deployments, provisioning, and management tasks.
+- Deploy and manage machines with VMware, vCenter, Kickstart, Puppet, Foreman, and CIS-CAT
+- Manage and configure host-based security systems.
+-  Experience with DevOps methodologies and tools, supporting Infrastructure as Code (IaC) within RHEL containers.
+- Use monitoring and logging tools, such as Prometheus, Grafana, ELK, IBM NetCool, and Solarwinds.
+- Patch and manage systems using Red Hat Satellite Server.
+- Understand and manage integration with networking concepts (TCP/IP, routing, firewalls)
+- Troubleshoot and resolve service interruptions, including on-call support
+- Provide hardware support for servers and workstations.
+- Experience with leveraging cloud platforms such as AWS and Azure to manage, secure, and maintain the environment/platform infrastructure
+Job-Specific Minimum Requirements:
+-
+An active Secret Clearance is required.
+- A bachelor's degree or higher education is required. 4+ years of experience may be considered in lieu of the degree requirement.
+- Due to federal requirements, candidates must be US Citizens without Dual Citizenship to another country
+-10+ years of experience in the related field.
+-Must have demonstrable OpenShift experience.
+- Red Hat Certified Specialist in OpenShift Administration OR Red Hat Certified Engineer (RHCE) OR Red Hat Certified Architect (RHCA)
+- This is an on-site position at a government facility
+- Requires presence on-site five days per week in Colorado Springs, CO
+- Candidates must reside within a commutable distance
+- Participation in a rotational on-call schedule for emergency page-outs is required.
+#techjobs #clearance #APPCASTDTO
+#HotJobs0211LI #HotJobs0211FB #HotJobs0211X #HotJobs0211TH #HotJobs0218LI #HotJobs0218FB #HotJobs0218X #HotJobs0218TH #HotJobs0304LI #HotJobs0304FB #HotJobs0304X #HotJobs0304TH #TrendingJobs #HotJobs0311LI #HotJobs0311FB #HotJobs0311X #HotJobs0311TH
+Minimum Requirements
+ 
+ 
+ 
+ TCS089, T5, Band 8
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 100,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 150,000.00
+        

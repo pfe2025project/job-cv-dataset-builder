@@ -1,0 +1,52 @@
+Title: Computer Vision AI/ML Engineer (TS/SCI with Poly)
+        Company: Maxar Technologies
+        Location: Pimmit, Fairfax County
+        
+        Description:
+        Please review the job details below.
+Maxar is looking for a
+Computer Vision AI/ML
+Engineer
+to join a creative, R&D team supporting an Intelligence Community customer. We pioneer new methodologies and tradecraft in computer vision and object detection using various data sources and modeling techniques to solve hard intelligence problems with our customer. Our team enjoys a collaborative atmosphere with a lot of autonomy and a robust technical stack of tools and compute power. If you like to tinker with AI/ML in a flexible and innovative environment, this is an exciting team for you!
+Project:
+As part of a research and development shop in our customer’s space, we’re identifying, obtaining, and analyzing various data sets using object detection and large language models to provide quantitative analytic techniques to model events, trends, and behavior in support of national security objectives.
+Career:
+We’re very serious about professional development and continuing education. We offer everyone the opportunity to define their own career trajectory. Our group has some amazing resources at its disposal specifically for this purpose. You will work with your direct supervisor, and/or a mentor, to set appropriate goals and design a plan to help you make consistent progress.
+We offer:
+Dedicated professional development time.
+Conference attendance.
+Corporate partner/industry training.
+Peer groups.
+Paid certifications.
+Education reimbursement.
+Student loan forgiveness.
+and much more...
+Day-to-day with your colleagues:
+You'll join a skilled team applying cutting edge research in a complex and evolving data environment, develop code to perform complex modeling to detect and characterize objects (using python, tensorflow, pytorch and related software packages) and enhance an evolving analytic tradecraft. You will integrate data from a variety of sources, formats and disciplines into coherent databases, train foundation models to advance the Intelligence Community, fine-tune models to address real intelligence questions, and write compelling documentation and reports for decision makers.
+Our team’s minimum requirements for this position:
+Current/active TS/SCI security clearance with required Polygraph.
+Bachelor's degree in a related field (Computer Science, mathematics, statistics, etc.). Relevant professional experience may be substituted for a degree.
+8+ years of relevant professional experience.
+Recent experience with some of the following technologies:
+Performing complex modeling.
+Machine Learning/Object Detection/Computer Vision.
+Python, R or related software packages.
+Creating code and models.
+If you also had these skills that’d be amazing:
+Experience with Pytorch, keras
+Experience with overhead imagery platforms and types
+Experience initiating AI/ML projects with little oversite
+#cjpost
+#LI-RD
+#LI-Onsite
+In support of pay transparency at Maxar, we disclose salary ranges on all U.S. job postings.  The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions. Candidates with the minimum necessary experience, qualifications, knowledge, and skillsets for the position should not expect to receive the upper end of the pay range.
+● The base pay for this position within the Washington, DC metropolitan area is: $131,000.00 - $219,000.00 annually.
+For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range.
+We offer a comprehensive package of benefits including paid time off, health and welfare insurance, and 401(k) to eligible employees. You can find more information on our benefits at: https://www.maxar.com/careers/benefits
+Additionally, this position is incentive eligible with a target based on contribution, company performance, and/or individual results achieved; the specific incentive plan and target amount will be determined based on the role and breadth of contributions.
+The application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire.  If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire.
+The date of posting can be found on Maxar’s Career page at the top of each job posting.
+To apply, submit your application via Maxar’s Career page.
+Maxar Technologies
+values diversity in the workplace and is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.
+        

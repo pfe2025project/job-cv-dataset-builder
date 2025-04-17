@@ -1,0 +1,67 @@
+Title: Cloud Ecosystem Engineer - Apache Spark
+        Company: Intel
+        Location: Holy, Santa Clara County
+        
+        Description:
+        Job Details:
+Job Description:
+Join Intel and build a better tomorrow. Intel is in the midst of an exciting transformation, with a vision to create and extend computing technology to connect and enrich the lives of every person on Earth. So join us and help us create the next generation of technologies that will shape the future for decades to come.
+We are seeking a Senior Engineer who is an expert in Apache Spark workloads and actively participates in Spark open-source communities. The ideal candidate will have a deep understanding of distributed data processing, performance optimization, and a passion for contributing to open-source projects. This customer facing role will involve working directly with some of the most successful partners and customer companies to optimize Spark workloads, make improvements to open-source software, and identify bottlenecks for system and hardware optimization. It will require leadership and mentoring of junior engineers and collaborating with cross-functional teams.
+Intel Corporation's state of the art facilities gives you the opportunity to learn a variety of technical and operational skills to develop, operate, maintain, and repair the world's most advanced facility equipment, in a demanding and challenging operations environment.
+Life at Intel link: https://www.intel.com/content/www/us/en/jobs/life-at-intel.html
+As a Cloud Ecosystem Engineer, your responsibilities will include but are not limited to:
+- Design and develop Apache Spark and other big data software optimizations, features, and recommendations.
+- Collaborate with cloud engineers, data scientists, and other engineers to implement data processing solutions that feed AI workflows.
+- Contribute to the Apache Spark open source community by participating in discussions, submitting patches, and attending relevant conferences or meetups.
+- Lead performance tuning and troubleshooting efforts to ensure high availability and reliability of Spark workloads.
+- Mentor and guide junior engineers, fostering a culture of continuous learning and improvement.
+- Stay up-to-date with the latest advancements in Apache Spark and related technologies, and evaluate their potential impact on our systems.
+- Run and analyze Spark benchmarks such as TPC-DS.
+- Stay up-to-date with the latest advancements in Apache Spark and related technologies, and evaluate their potential impact on our systems.
+Behavioral traits that we are looking for:
+- Excellent problem-solving skills and the ability to work independently and as part of a team.
+- Strong communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders.
+Intel invests in our people and offers a complete and competitive package of benefits employees and their families through every stage of life.
+See https://www.intel.com/content/www/us/en/jobs/benefits.html for more details.
+Qualifications:
+Qualifications
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. This position is not eligible for Intel immigration sponsorship.
+Minimum skills and experience that will get you noticed:
+- Bachelor's Degree in Computer Science, Engineering, or a related field.
+- Candidate must have 7+ years of experience in the following:
+- Senior Engineer position or an equivalent role, with a strong emphasis on expertise in Apache Spark.
+- Programming languages such as C/C++, Scala, Java (including JNI and native library), or Python.
+- 2+ years of experience in Apache Spark open-source communities (by participating in discussions, submitting patches) or related software companies
+Preferred skills and experience that will make you stand out :
+- Master degree or PhD in Computer Science, Engineering, or a related field.
+- Strong In-depth knowledge of distributed computing principles and big data technologies.
+- Hands on experience with native SQL acceleration libraries such as Velox or Photon
+- Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) and containerization technologies (e.g., Docker, Kubernetes).
+- Performance profiling proficiency.
+- Proven record of active participation in Apache Spark open-source communities (by participating in discussions, submitting patches) or related software companies for 2+ years.
+- Experience with Apache Gluten and Substrait
+- Design and develop Apache Spark and other big data software optimizations, features, and recommendations
+- Collaborate with cloud engineers, data scientists, and other engineers to implement data processing solutions that feed AI workflows
+Job Type:
+Experienced Hire
+Shift:
+Shift 1 (United States of America)
+Primary Location:
+US, Oregon, Hillsboro
+Additional Locations:
+US, Arizona, Phoenix, US, California, Santa Clara, US, Washington, Multiple Cities
+Business group:
+The Data Center & Artificial Intelligence Group (DCAI) is at the heart of Intel's transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies-spanning software, processors, storage, I/O, and networking solutions-that fuel cloud, communications, enterprise, and government data centers around the world.
+Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+Benefits:
+We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here:
+https://jobs.intel.com/en/benefits
+Annual Salary Range for jobs which could be performed in the US:
+$196,830.00-$277,880.00
+S* *al ary range dependent on a number of factors including location and experience.
+Work Model for this Role
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change.
+        

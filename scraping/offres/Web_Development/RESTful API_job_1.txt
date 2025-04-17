@@ -1,0 +1,41 @@
+Title: Site Reliability Engineer - REST API
+        Company: Apple
+        Location: Huntington, Orange County
+        
+        Description:
+        Site Reliability Engineer - REST API
+Irvine, California, United States Software and Services
+Summary
+Posted: Mar 28, 2025
+Role Number: 200597464
+Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you'll do more than join something - you'll add something. Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible - all while staying connected to the people around us. This Apple Vision Pro team is seeking a skilled Site Reliability Engineer to join our team and provide comprehensive support for event operations. This role involves a combination of development work, automation, API/REST integration, monitoring, and network engineering tasks. The ideal candidate will have a strong background in operations, with a keen ability to innovate, streamline, and enhance various aspects of our pipeline. While the primary focus is not solely on operation, the ability to code and work with various development tools and processes is essential.
+Description
+Support streaming metadata, REST API framework and automated processes critical to media distribution. Develop and maintain automation scripts, tools, and integrations to streamline workflows and improve operational efficiency. Monitor event-related systems and infrastructure to quickly identify and resolve issues. Collaborate with cross-functional teams to enhance existing pipelines and drive innovation in streaming workflows. Contribute to the continuous improvement of operational processes through automation and scripting. Stay up-to-date with industry trends and best practices in DevOps, automation, and event support.
+Minimum Qualifications
+- Proficiency in at least one programming/scripting language (e.g., Python, C++, JavaScript).
+- Experience with automation tools and technologies (e.g., Jenkins, Ansible, Saltstack, Terraform).
+- Strong understanding of API/REST integration and working with cloud-based services.
+- Familiarity with DevOps principles, including CI/CD pipelines, containerization, and infrastructure as code.
+- Experience monitoring systems using tools such as Prometheus, Splunk, Grafana, or similar.
+- Experience with NoSQL databases like Cassandra or MongoDB
+- Ability to work effectively under pressure and deliver on critical deadlines.
+- Excellent problem-solving skills and a proactive approach to troubleshooting.
+- Familiarity with video streaming technologies or content delivery networks (CDNs) is a plus.
+- Ability to work onsite 5 days a week.
+Preferred Qualifications
+- 5 years of professional experience.
+- Knowledge of networking concepts and protocols.
+Pay & Benefits
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $135,400 and $250,600, and your base pay will depend on your skills, qualifications, experience, and location.
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088\EEOC\KnowYourRights6.12ScreenRdr.pdf)
+Apple Footer
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you're applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+        

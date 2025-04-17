@@ -1,0 +1,42 @@
+Title: Full-Stack Engineer for IoT Security Platform
+        Company: Cylera
+        Location: US
+        
+        Description:
+        What Cylera does
+Cylera is a healthcare cybersecurity company that helps hospitals understand and manage their attack surface area. Our offering has three main use cases:
+Identify the attack surface area
+: assess where and how the enterprise network is likely to be attacked, by identifying assets and detecting risks.
+Harden the attack surface area
+: recommend preventative measures to reduce the opportunities for a malicious actor to breach the network, such as patching and segmentation.
+Monitor the attack surface area
+: real-time monitoring for exploitation attempts, including both proactive and reactive alerting.
+Why it matters
+In the last half decade or so, hospitals have increasingly adopted connected IoT devices to improve the quality and robustness of patient care. This has come with unintended consequences, primarily by increasing the attack surface area for malicious actors to take advantage of. Hospital IT staffs aren’t equipped to handle this problem with limited resources, leading to a trend of ransomware attacks that are increasing in frequency and effectiveness. Hospitals are aware of this gap and are eager to find a comprehensive solution that protects them.
+What we do
+We have a team of engineers that work across the full tech stack. Our responsibilities include, but are not limited to, real-time & batch processing in the cloud, building APIs, front-end development, and application support / monitoring. The languages we primarily work with are Python and Javascript. Our infrastructure is hosted in Google Cloud Platform, and we deploy primarily to Kubernetes, including components such as Kafka, Elasticsearch, PostgreSQL, Airflow, and Redis.
+Requirements
+What we’re looking for (technical)
+We’re looking for an application developer to join our engineering team. This developer must be very strong with Python, as a majority of the work will be backend-focused.
+Additional required skills:
+Flask API framework
+Competency and comfort with ReactJS.
+Differentiating skills:
+Experience building distributed microservice architectures
+Experience building high-performance data pipelines
+Familiarity working with large time-series datasets
+TypeScript
+TailwindCSS
+What we’re looking for (soft skills)
+We value the soft skills in an engineer as much as, if not more than, any technical skill. The must haves for a candidate include:
+Strong communication skills:
+Can you communicate complex technical concepts simply? Do you successfully resolve disagreements in a professional manner?
+Passion and curiosity
+: Are you hungry to contribute? Are you eager to tackle difficult problems? Do you enjoy learning from and teaching others?
+Small ego:
+Do you demonstrate respect for your peers? Would you be happy if you had to work with yourself?
+Benefits
+Private Health Insurance
+Paid Time Off
+Work From Home
+        

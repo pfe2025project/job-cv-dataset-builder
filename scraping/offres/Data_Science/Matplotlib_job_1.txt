@@ -1,0 +1,42 @@
+Title: AI/ML Engineer
+        Company: XSITE LLC
+        Location: San Diego, San Diego County
+        
+        Description:
+        Job DescriptionJob Description
+Who We Are:
+XSITE LLC is a dynamic Department of Defense (DoD) contractor specializing in advanced software information systems, systems engineering, and modeling and simulation support. We are Service-Disabled Veteran-Owned company headquartered in San Diego. We provide full spectrum systems and systems-of-systems engineering and integration services and solutions for space, C5ISR, cyber and enterprise information systems.
+We offer an exciting opportunity for growth in a collaborative, cutting-edge and supportive environment where our engineers tackle complex, mission-critical challenges. As a small business, we offer a unique opportunity for individuals to gain hands-on experience in a dynamic and highly technical environment.
+Position Overview:
+XSITE is seeking a highly motivated and detail-oriented AI/ML Engineer to join our San Diego team full-time. This role offers the opportunity to support the Department of Defense by developing AI and ML tools, along with working to create tools for internal business development. These projects will follow an agile methodology by organizing work into “sprints”, with the scope for contract work decided by the Government, in order to adjust to changing circumstances or to capitalize on new opportunities discovered during the project.
+Key Responsibilities:
+Design, develop, and implement AI/ML models for government and internal use
+Work with large datasets to preprocess and clean data
+Optimize and fine-tune AI/ML models for performance, accuracy, and scalability
+Develop and maintain documentation, testing procedures, and monitoring strategies for deployed applications
+Leverage DevSecOps for all software development
+Work as part of a contractor team alongside a broader team of government and contract staff
+Stay up-to-date with the latest AI/ML trends, tools, and best practices
+Performs other related duties as assigned by management
+Basic Qualifications:
+Bachelor’s degree in computer science, Data Science, Mathematics, or a related field
+1+ years of experience in developing AI applications
+2+ years of experience with Python and popular ML frameworks, such as PyTorch, TensorFlow, or Scikit-learn (can include academic experience)
+2+ years of experience with data manipulation and visualization libraries, such as Pandas, NumPy, Matplotlib, and Seaborn (can include academic experience)
+2+ years of experience with VCS, such as Git (can include academic experience)
+Strong understanding of fundamental AI and machine learning principles
+Strong analytical and problem-solving skills, with attention to detail
+Excellent communication and collaboration skills, both written and verbal
+Ability to work collaboratively in a team environment
+U.S. Citizenship (required for this role)
+Ability to obtain and maintain a TOP SECRET security clearance and willingness to sign a Non-Disclosure Agreement (NDA)
+Preferred Qualifications:
+Master’s degree in computer science, Data Science, Mathematics, or a related field
+3+ years of experience in developing AI applications
+Experience deploying and maintaining applications on a company server or cloud environment
+Experience with UI development (HTML, Javascript, CSS, Flask, Streamlit)
+Experience with SQL or other relational databases
+Experience working in an agile development environment
+Experience working with the federal government, either as a government civilian or a contractor
+Active U.S. SECRET or TOP SECRET Clearance
+        

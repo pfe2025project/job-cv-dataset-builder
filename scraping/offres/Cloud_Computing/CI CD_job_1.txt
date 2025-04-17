@@ -1,0 +1,77 @@
+Title: Intermediate CI/CD Pipeline Engineer
+        Company: VES LLC
+        Location: Aberdeen Proving Ground, Harford County
+        
+        Description:
+        Job DescriptionJob Description
+Intermediate CI/CD Pipeline Engineer
+Location: APG, MD or Detroit, MI Metro area, remote considered for well qualified applicants
+VES, LLC is currently seeking a
+CI/CD Pipeline Engineer
+to design, develop, and maintain
+continuous integration and deployment (CI/CD) pipelines
+. This role is critical in ensuring the
+reliability, security, and automation
+of build processes for these mission-critical systems. You will work closely with software engineers, DevOps professionals, and systems architects to implement
+scalable and efficient build infrastructure
+supporting embedded Linux and real-time systems.
+General Job Duties:
+Design and maintain
+CI/CD pipelines
+for
+Yocto-based Linux builds and GCIA software components
+.
+Automate software
+build, testing, and deployment
+Configure and optimize
+Jenkins, GitLab CI, or similar CI/CD platforms
+.
+Develop and manage
+infrastructure-as-code (IaC)
+solutions to support software deployment.
+Implement
+artifact management, version control policies, and reproducible builds
+.
+Collaborate with software teams to
+integrate build and release automation
+into their workflows.
+Monitor and optimize
+pipeline performance, security, and reliability
+.
+Document and maintain build infrastructure configurations for long-term maintainability.
+Desired Requirements:
+3+ years
+of experience in CI/CD pipeline development.
+Strong proficiency with
+Jenkins, GitLab CI, or other CI/CD automation tools
+.
+Experience with
+Yocto build environments, Linux-based build systems, and embedded software pipelines
+.
+Familiarity with
+Docker, Kubernetes, and cloud-based CI/CD environments
+.
+Knowledge of
+artifact repositories (Artifactory, Nexus)
+and version control systems (Git).
+Understanding of
+DevSecOps best practices
+and security hardening for CI/CD pipelines.
+Security clearance eligibility (active clearance preferred).
+Required Education and Experience:
+Bachelor's degree
+in Computer Science, Software Engineering, or a related field.
+3+ years
+of experience in CI/CD pipeline engineering, DevOps, or software build automation.
+Scripting experience with
+Bash / Python
+for automation.
+Benefits of Working at VES, LLC:
+401(k) match
+Highly Competitive Salary
+Health Benefits
+Up to 15 Paid Vacation days/year
+11 Paid Holidays
+VES is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+Job Posted by ApplicantPro
+        

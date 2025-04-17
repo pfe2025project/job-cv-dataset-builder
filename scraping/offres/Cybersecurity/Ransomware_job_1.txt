@@ -1,0 +1,37 @@
+Title: Ransomware Engineer
+        Company: Fenix24 LLC
+        Location: Chattanooga, Hamilton County
+        
+        Description:
+        Fenix24 is raising the bar for post-incident disaster recovery and restoration with a fast, thorough and professional operation. Our battle-tested professionals execute the most intelligent and strategic recovery playbook for minimal cost of incident response and business interruption. We provide the army victims of threat actors/cyber terrorists to fully restore IT operations.
+We have a rapidly growing practice going toe-to-toe with the world's biggest threat actors as we help companies restore operations following a ransomware attack in partnership with some of the industries biggest IR firms.
+We are searching for DEEPLY TECHNICAL LEADERS AND TEAM MEMBERS WHO ARE ALSO HANDS ON KEYBOARD 50% of their time who are looking for more than just a job, but rather to join our mission of saving companies after they have been attacked by cyber-terrorists (aka threat actors). We consider ourselves a defensive army, we engage rapidly, move forward with precision and efficiency, and hold ourselves and our technical leaders to the highest standards.
+This team is seeking highly motivated TECHNICAL leaders and engineers who can manage small, fast-acting teams in providing ongoing incident response and disaster recovery support and service to our growing list of clients. In this role, you work directly with clients to respond to security incidents that require the restoration of services including, security applications, systems, and services, in addition to traditional IT systems and services. You will be involved in assisting forensics teams capture applicable evidence of unauthorized access to computing systems using current acceptable practices. You will work with other members of our engineering, sales, and project management teams to ensure our team meets the clients’ goals and objectives of full restoration of infrastructure and security services.
+Responsibilities:
+Restoration of endpoint applications and security controls (Antivirus, DNS Services, VPN infrastructure and clients, endpoint detection and response, e.g. Crowdstrike, FortiEDR).
+Restoration of directory services such as Windows AD
+Restoration of Certificate Services such as PKI
+Restoring email infrastructure such as Microsoft Exchange and/or Microsoft Exchange Online
+Monitoring and remediation of security control alarms to aid in Forensics
+Restoration of all virtual environments such as Server, Desktop, Storage, etc. virtualization
+Restoration and operations of Firewall Infrastructure, such as Palo Alto, CheckPoint, and FortiNet
+Restoration of Microsoft Windows Operating Systems (Server 2012/2016/2019, Windows 7/10).
+Restoration and operation of Cloud Infrastructure such as Microsoft Azure, AWS, etc.
+Restoration, installation and operation of Two-Factor and Multi-Factor services such as Okta, DUO, Microsoft Authentication, Ping, RSA, etc.
+Restoration and operation of remote gateway solutions such as Citrix, F5, etc.
+Other duties as required.
+Qualifications:
+7+ Years of relevant IT infrastructure engineering experience
+3+ years installing and restoring endpoint security tools.
+3+ years experience with perimeter security firewalls.
+3+ years installing, operating and restoring Microsoft Exchange and Office 365.
+3+ years installing, operating and restoring Microsoft Windows Server operating systems.
+3+ years installing, operating and restoring Microsoft Windows workstation operating systems.
+Previous experience on a Managed Services team is a plus!
+Previous experience with Incident Response and Disaster Recovery a PLUS!
+Excellent analytical, organization, and problem-solving skills.
+Demonstrated ability to plan, organize, train, evaluate and direct work of less experienced staff.
+Demonstrated strong written and oral communication skills, including strong relationship building skills.
+Ability to form relationships across all levels of the company while modeling Fenix24’s culture and values.
+Bachelors or Associate degree in Information Technology, Business, Operations, or relevant field experience strongly preferred.
+        

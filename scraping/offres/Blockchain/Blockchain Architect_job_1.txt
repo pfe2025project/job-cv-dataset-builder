@@ -1,0 +1,24 @@
+Title: Blockchain Architect Engineer, Smart Contracts
+        Company: Limit Break
+        Location: US
+        
+        Description:
+        Blockchain Architect Engineer, Smart Contracts
+Location: Remote
+About us:
+Deep expertise. Personal and Industry evolution. Impeccable craft. These are Limit Break’s founding principles.Limit Break is founded by global industry leaders in mobile gaming. We are unlocking its potential beyond games to transform digital markets into real-world economies and digital worlds into vibrant communities who will take gaming economies for both players and traders to new limits. We combine the power of technology, crypto currency, and creative vision to create experiences that connect people from all corners of the globe.
+Limit Break is backed by leading investors that include Buckley Ventures & Paradigm Ventures. The total crypto market capitalization increased by 25 times in a single year. The adoption rate and a number of public and private partnerships is proving it to be the next wave of technology of the future and Gaming is leading the way.
+About the Role:
+Limit Break is looking for a Blockchain Architect Engineer, Smart Contract Engineer to be part of a team that is revolutionizing crypto standards. As a team member, you will contribute to existingand new smart contract development that is impacting the next generation of digital economies.This is a unique opportunity for an intellectually curious and hardworking individual to help the organization shape engineering with games in blockchain technologies
+Responsibilities: What you’ll do
+●       Build next-generation blockchain products that will power a new wave of Web3 games.●       Implement and maintain smart contract applications with an emphasis on security, performance, and scalability.●       Partner with the design, product, and engineering teams to translate their vision into effective blockchain experiences.●       Identify opportunities to incorporate new technologies and techniques to maximize workflow efficiencies and to provide effective, maintainable, and secure smart contract applications
+Requirements: Who you are and what you’ve done
+●       B.S. in Computer Science, or a related field●      5+ years of software engineering experience. ●       Expertise in Solidity development, including the deployment of high-quality, well-tested, and audited mainnet smart contracts. ●       Experience with smart contract development design patterns, industry standards (ERCs/EIPs), and best practices●       A "roll up your sleeves" mindset to get any job done
+Nice to have: What an ideal candidate looks like
+●       Passion for smart contract development, demonstrating an awareness and following of industry trends and best practices.
+●       Experience in distributed systems, peer to peer networking, consensus mechanisms and/or cryptography.●       Strong background in general software engineering and systems architecture●       Significant contributions to open sourced blockchain software and technology stacks.●       Proven record of building secure and scalable applications and infrastructure, especially in a project with significant TVL ●       Strong sense of initiative and ownership. ●       Experience with Open Zeppelin contracts and offerings, including Upgradeable Contracts, as well as Hardhat and/or Foundry and related tooling and plugins.
+What you’ll Get in Return:
+●       Competitive U.S. Base Salary between $185,000 and $195,000●       Generous paid time off●       Industry-leading health benefits that are applicable per country of residence for all our full-time employees●       Company-paid Life Insurance Health & wellness stipend●       Cell phone stipend●       Company-paid identify theft/credit monitoring service●       Generous home office reimbursement.
+Apply now:
+If you are confident, driven and are looking for an exciting role, this job could be a great opportunity for you. Apply now to explore this new opportunity. This is an international blockchain gaming company that operates regionally, and is opening offices in multiple locations around the globe. We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.
+        

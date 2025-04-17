@@ -1,0 +1,45 @@
+Title: MySQL Database Administrator
+        Company: bcore
+        Location: Savage, Anne Arundel County
+        
+        Description:
+        Location: Annapolis Junction (25 mile radius)
+Security Clearance Required:
+TS-SCI and FS poly
+**This position is not open for any clearance upgrades or sponsorship.**
+Required Certification
+: Must be COMPTIA Security Plus certified At Bcore, our strength comes from how we deliver impact to the mission. Whether it’s architecting critical IT solutions, producing actionable intelligence, or developing cutting edge technology, we succeed because of the expertise, collaboration, and agility of our teams. Our Mission Services division combines enterprise IT, cloud solutions, DevSecOps, systems engineering, software development, and operational support. Our goal is not to simply support efforts, but to ignite a technology revolution, bridging the growing technology gap between the Government and commercial space.  Do you want to join a team that is building tailored technical solutions to modernize our government’s mission and our client’s business?  Do you have a desire to change how people work?  Are you interested in helping to protect our nation’s cyber interests? Join our growing team supporting the National Security Group customer missions as a
+MySQL Database Administrator
+.
+What you get to do every day:
+Managing/Senior Principal Consultant designs and implements individual components of the Oracle products based on area of expertise.
+Analyzes detailed requirements and develops detailed design for a specific Oracle product or technology.
+Provides implementation services for a specific product to include extensions and additional configurations necessary to implement customer unique business processes and workflows.
+Performs routine health checks and optimizations of system performance, availability, access controls and security.
+Performs system optimization, performance tuning and assists in capacity planning.
+Performs proactive analysis of potential issues, risks and roadblocks during system implementation and operations.
+Security Clearance Required:
+TS-SCI with FS poly
+**This position is not open for any clearance upgrades or sponsorship.**
+Education/Experience:
+Bachelors Degree or the equivalent combination of education, technical training, or work/military experience
+Required Certification
+: Must be COMPTIA Security Plus certified
+Required Skills:
+10+ years experience administering to, and engineering solutions with, Oracle MySQL.
+Extensive experience with database design and modeling; as well as, the collection and interpretation of customer requirements relevant to database migration, troubleshooting, performance observation and tuning.
+Installing and configuring new MySQL servers (5.x and 8.x)
+Design and development of MySQL stored procedures.
+Upgrading MySQL databases, both major and minor revisions
+Administering MySQL account access, backups and table spaces
+Migrating MySQL databases
+Monitoring MySQL server performance
+Must be an independent worker with strong communications skills.
+What is ideal?
+Experience in technical operations at DOD agencies, particularly NGA and DIA
+Recognizing great achievements do not go unnoticed by teKnoluxion through service anniversaries, spot awards, and employee referral bonuses
+You’ll join a growing organization of passionate, top-shelf, IT engineering professionals with extensive experience in actively developing the technology revolution in the Intelligence community
+Highlights of our benefits include Health/Dental/Vision, 401(k) match and potential Profit Sharing, Universal Leave, STD/LTD/Life Insurance/Voluntary Life Insurance, Stipends, Referral Bonuses, and more!
+Compensation is unique to each candidate and compensation packages are based on education, experience, and other requirements.
+BCore is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.
+        

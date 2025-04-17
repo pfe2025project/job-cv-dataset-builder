@@ -1,0 +1,47 @@
+Title: Smart Contract Engineer
+        Company: Plume Network
+        Location: New York City, New York
+        
+        Description:
+        About Plume
+Plume is the first fully-integrated and modular blockchain optimized for real world assets (RWAs). We’ve built an EVM-compatible blockchain that’s fast, efficient, and incredibly cheap, along with an end-to-end onboarding platform that lets asset issuers deploy their RWAs onchain. We’re proud of our rapidly growing network, which includes:
+180+ RWA companies building dapps and tokenizing assets on Plume’s testnet, ranging from collectibles and real estate to equities and private credit
+50+ technology partners working with Plume and offering special services to our ecosystem partners
+Experienced team of 20+ crypto, finance, and tech professionals from:
+Crypto: Coinbase, dYdX, LayerZero, Binance, Galaxy Digital, Kraken
+Finance/Tech: JP Morgan, Robinhood, Google, Coupa, Affirm
+Backed by great investors and operators including:
+YZi Labs, Brevan Howard, Haun Ventures, Galaxy Digital, Lightspeed, Faction, Superscrypt, SV Angel, and more
+You are:
+Highly motivated, independent engineer who enjoys shipping fast and constantly iterating. As an early engineer at Plume, you will work closely with the CTO to deploy core EVM (Solidity) smart contracts for Plume and support our ecosystem.
+Overall Responsibilities
+Deploy smart contracts for core Plume features like RWA tokenization, KYC attestations, and account abstraction
+Work with product engineers to integrate smart contract functions into core Plume apps like our end-to-end onboarding platform
+Design and implement the smart contract, indexing, and offchain architecture to support a robust incentivized testnet campaign
+Build the next-generation of smart contracts and standards for tokenized capital markets
+Within 1 month, you should expect to…
+Onboard to the team and learn our existing code
+Learn our roadmap, QA, and shipping cadence, and how we prioritize our core product areas
+Support companies deploying on Plume with smart contract issues and feature requests
+Design smart contracts for core Plume features and the incentivized testnet campaign
+Within 3 months, you should expect to…
+Prepare code for auditors and iterate on preliminary audit reports
+Brainstorm novel dApps to build for Plume mainnet and propose how they should work
+Mentor and give guidance to junior smart contract engineers
+Interview prospective engineering hires
+Qualifications
+3+ years of experience in software engineering at a reputable startup or a large tech company
+1+ years of experience in smart contract development, with at least one live deployed project on a mainnet EVM chain
+You must be based out of Canada or the US
+Candidates without a Bachelor’s degree in a computer science / engineering-related field must have an exceptional work history
+You must pass three rounds of interviews:
+Automated coding screen (any language)
+One-hour phone screen with a member of Plume’s engineering team
+Four-hour paid onsite work trial
+More details are available in the Plume Engineering Interview Guide
+What to expect from Plume
+Salary ranges are competitive with top startups.
+As an early employee, you will receive a competitive equity grant.
+Fully remote with the option to come into the NYC office any time.
+Full medical, dental, and vision benefits for US based employees.
+        

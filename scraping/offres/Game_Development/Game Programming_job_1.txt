@@ -1,0 +1,30 @@
+Title: Online Instructor-Game Programming
+        Company: Hussian College, Inc.
+        Location: Penn Ctr, Philadelphia County
+        
+        Description:
+        Full Time Instructor- Game Programming
+Remote Position
+If you have experience with Game Programming and have a passion for teaching and training others, then this may be the opportunity for you!
+Position Summary:
+Faculty deliver quality instruction to students by utilizing approved course curriculum and instructional methods that accommodate multiple learning styles.
+All teaching is delivered online;
+teaching is primarily asynchronous, with a weekly synchronous component.
+Position Responsibilities:
+Conduct weekly synchronous sessions with students
+Monitor and evaluate student progress; provide feedback to students on a weekly basis
+Assess student learning
+Monitor student attendance
+Collaborate with academic leadership team and student success department to provide appropriate student support
+Participate in professional development activities to maintain currency in the field and with instructional and educational practices and methods
+Other duties as required
+Education:
+Certificate, Diploma, or degree in Game Programming or related discipline preferred but not required.
+Experience:
+Minimum of three years’ coding experience in game development
+Experience in a Lead or Supervisory role highly desirable
+Highly proficient in C++
+Experience in Unity or Unreal Engine
+Experience in other languages (C#, Java, Python, etc) preferred but not required
+Prior online teaching experience preferred, but Hussian College provides training for those with no prior teaching experience
+        

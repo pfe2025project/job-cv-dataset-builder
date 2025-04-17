@@ -1,0 +1,46 @@
+Title: Senior Manager, Offensive Security (Penetration Tester)
+        Company: Capital One
+        Location: Plano, Collin County
+        
+        Description:
+        Senior Manager, Offensive Security (Penetration Tester)
+Capital One Offensive Security reduces cyber risk by uncovering vulnerabilities and weaknesses in the enterprise cyber environment through coordinated ethical hacking and penetration testing scenarios. This position works closely with team members to plan, coordinate, execute and report on sophisticated ethical hacking exercises, to identify cyber vulnerabilities and reduce the risk posture of enterprise systems. This role will be responsible for the identification and exploitation of security weaknesses, providing actionable recommendations, and collaborating with various teams to enhance our security posture.
+The successful candidate for this position will be part of an exciting and dynamic environment to build and deliver industry leading ethical hacking capabilities to continuously protect and defend Capital One brand, systems and data. Offensive Security is part of the Cyber Operations and Intelligence program and assists with identifying opportunities to enhance Capital One’s information security posture against a broad range of cyber threats, and develop strategies to most effectively address the threats.
+Primary responsibilities for this position include
+Leading and overseeing penetration testing of enterprise networks, services, applications, and infrastructure.
+Contributing to the development of a comprehensive penetration testing strategy that aligns with the organization's overall security objectives.
+Analyzing penetration testing results and providing actionable insights to relevant stakeholders to drive remediation efforts and improve the organization's security posture.
+Staying abreast of emerging threats and attack techniques to ensure that the team’s strategy and techniques remain relevant and effective.
+Providing mentorship and guidance to foster professional development and enhance the team's overall capabilities.
+Working with developers on remediation guidance and improvements throughout the Software CI/CD pipeline.
+Clearly and effectively conveying technical information and results to diverse audiences, including senior management and those without a technical background.
+Basic Qualifications:
+High School Diploma, GED, or equivalent certification
+At least 6 years of experience working in cybersecurity or information technology
+At least 4 years of experience in Penetration Testing
+At least 3 years of experience in People Management
+At least 2 years of experience with public cloud environments (AWS, Azure, GCP)
+At least 1 year of experience scripting with Python, Golang, or C#
+Preferred Qualifications:
+Bachelor's Degree
+6+ years of security testing experience​ (red teaming, cloud security, application security, or network security)
+6+ years of experience with threat modeling concepts and frameworks (CVSS, MITRE ATT&CK, DREAD, or STRIDE)
+Experience developing Offensive Security tools
+Experience with code review and secure coding standards
+OSCP, OSWA, OSWE, OSCE3, GPEN, GXPN, CRTO certification
+At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+McLean, VA: $225,400 - $257,200 for Sr Manager, Cyber Technical
+New York, NY: $245,900 - $280,600 for Sr Manager, Cyber Technical
+Plano, TX: $204,900 - $233,800 for Sr Manager, Cyber Technical
+Richmond, VA: $204,900 - $233,800 for Sr Manager, Cyber Technical
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+This role is expected to accept applications for a minimum of 5 business days.
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+        

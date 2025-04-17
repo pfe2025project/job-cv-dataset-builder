@@ -1,0 +1,30 @@
+Title: Senior Game Physics Engineer
+        Company: Roblox
+        Location: San Mateo, San Mateo County
+        
+        Description:
+        From the early days, simulated physics has been the foundation of the way users build in Roblox. Our physics engine enables dynamic environments with emergent behavior making games more immersive and exciting.
+The Physics team develops Roblox's proprietary distributed physics engine. Our team implements the mathematical models behind our multifaceted simulation engine, and ships engine APIs and tools that developers use every day. These models incorporate rigid body dynamics arising from external forces, collisions, and constraints while optimizing for real-time performance. We work on integrating the low level physics solver into the rest of the engine for online gameplay across multiple platforms. You will report to the Physics Environment Engineering Manager.
+You Will:
+Innovate and implement powerful physics features
+that empower Roblox developers to create immersive and dynamic experiences.
+Drive innovation through research and rapid prototyping
+, translating new ideas into practical solutions that stand the test of time.
+Optimize and enhance the robustness and performance
+of the physics engine and its integrations, ensuring a seamless user experience.
+Collaborate with internal teams and external developers
+, providing expert support and guidance to improve feature utilization and resolve technical challenges.
+You Have:
+Extensive C++ Development:
+4+ years of professional experience writing high-performance, optimized C++ code (2+ years if with an advanced degree).
+Performance Engineering:
+Demonstrated ability to use multithreading and SIMD optimization techniques to enhance application efficiency with knowledge of modern computer architecture and its impact on software performance.
+Physics and Numerical Methods Experience:
+Practical experience applying numerical methods to solve problems in real-time physics simulation.
+Real-Time Physics Expertise:
+Proven experience developing and deploying real-time and online multiplayer physics simulations.
+Physics SDK Familiarity:
+Hands-on experience integrating and applying physics SDKs such as PhysX, Havok, and Bullet.
+Educational Background:
+Bachelor's or advanced degree in Computer Science, Mathematics, Physics, Engineering, or equivalent experience.
+        

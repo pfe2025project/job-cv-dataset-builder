@@ -1,0 +1,24 @@
+Title: Cryptography Engineer
+        Company: Renegade
+        Location: San Francisco, California
+        
+        Description:
+        What is Renegade?
+Renegade is building an unstoppable network for the anonymous exchange of value. Our core permissionless protocol, the Renegade dark pool, solves many problems in current decentralized exchange design: front-running, quote fading, copy trading, toxicity discrimination, and fragmented liquidity.
+Based on zero-knowledge and multi-party cryptography, Renegade allows for complete trade privacy during the entire trade lifecycle. Zero information about orders, balances, past trade history, or collateral values can leak to third-parties, allowing for strong anonymity guarantees and best execution for large whale traders.
+Dark pools are well-understood pieces of traditional finance market structure, accounting for 20-40% of TradFi equities volume. We are building the crypto-native analog of dark pools.
+Renegade is a seed-stage startup backed by some of the best crypto investors, including Naval Ravikant, Dragonfly Capital, Balaji Srinivasan, Tarun Chitra, and Lev Livnev. We work in-person in downtown San Francisco, 6 days a week.
+What You'll Do
+As a cryptography engineer, you will work closely on our ZKP and MPC proving stacks. You will implement core cryptographic primitives (SPDZ, Bulletproofs, ElGamal, etc.) and optimize them for low-latency execution. In addition, you will help with internal audits, ensuring that Renegade maintains consistent state while being as flexible and expressive as possible.You'd be a good fit if..
+You have a background in pure math, cryptography, or security research.
+Have familiarity with zero-knowledge proofs and multi-party computation, or can pick it up quickly.
+Able to work with zero-knowledge cryptography libraries, including Arkworks, Circom, and Dalek.
+Able to work with StarkNet and the Cairo language.
+Have worked on practical zero-knowledge proof implementations, being able to write latency-optimized code in addition to understanding the core cryptography.
+Our Stack
+Cryptography: Maliciously-secure SPDZ for MPC, and Bulletproofs for ZKP verification.
+Languages: Rust for the protocol-layer, Typescript for interfaces and CLI.
+Networking: libp2p for peer discovery.
+Settlement: StarkNet for scalability and consensus.
+We very much look forward to chatting further!
+        

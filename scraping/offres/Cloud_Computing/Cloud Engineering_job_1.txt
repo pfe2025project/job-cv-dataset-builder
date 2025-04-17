@@ -1,0 +1,50 @@
+Title: SR AWS Cloud Engineer
+        Company: BJ's Wholesale Club
+        Location: Marlborough, Middlesex County
+        
+        Description:
+        Join our team of more than 34,000 team members, supporting our members and communities in our Club Support Center, 235+ clubs and eight distribution centers. BJ’s Wholesale Club offers a collaborative and inclusive environment where all team members can learn, grow and be their authentic selves. Together, we’re committed to providing outstanding service and convenience to our members, helping them save on the products and services they need for their families and homes.
+The Benefits of working at BJ’s
+•        BJ’s pays weekly
+•        Eligible for free BJ's Inner Circle and Supplemental membership(s)*
+•        Generous time off programs to support busy lifestyles*
+o Vacation, Personal, Holiday, Sick, Bereavement Leave, Jury Duty
+•        Benefit plans for your changing needs*
+o Three medical plans**, Health Savings  Account (HSA), two dental plans, vision plan, flexible spending ​
+•        401(k) plan with company match (must be at least 18 years old)
+*eligibility requirements vary by position
+**medical plans vary by location
+Senior AWS Cloud Engineer
+Position Overview:
+We are seeking a highly skilled Senior AWS Cloud Engineer with a minimum of 5 years of experience. The ideal candidate will have deep expertise in AWS services, cloud architecture, automation, and troubleshooting within complex production environments. This role involves designing, implementing, and managing scalable and reliable cloud solutions, collaborating closely with cross-functional teams to enhance infrastructure and support business growth.
+Key Responsibilities:
+AWS Cloud Implementation: Deploy and manage scalable, secure, and high-performance cloud infrastructures using AWS services such as VPC, EC2, EKS, ECS, Lambda, S3, DynamoDB, MSK, and more. Ensure high availability, fault tolerance, and disaster recovery capabilities.
+Automation and Infrastructure as Code (IaC): Implement and manage Infrastructure as Code using tools like AWS CloudFormation and Terraform. Automate cloud infrastructure deployment and management to minimize manual intervention and improve reliability.
+DevOps and CI/CD Pipeline Management: Build, manage, and optimize CI/CD pipelines using tools like Bitbucket, Jenkins/Bamboo, and Nexus/SRM/Blackduck. Collaborate with development and operations teams to integrate DevOps best practices into workflows.
+Containerization: Manage and support containerized applications using AWS EKS (Elastic Kubernetes Service) and ECS. Optimize the orchestration and deployment of microservices within containerized environments.
+Security and Compliance: Implement security best practices across cloud environments, including network security (security groups), encryption (KMS), and IAM policies. Ensure compliance with industry standards and regulations such as PCI and HIPPA.
+Monitoring, Performance, and Optimization: Leverage monitoring, logging, and alerting tools such as AWS CloudWatch, New Relic, OpsRamp, and Scalyr. Proactively monitor system performance and implement optimizations to ensure maximum efficiency and cost-effectiveness.
+Troubleshooting and Incident Response: Diagnose and troubleshoot complex cloud infrastructure and application issues. Provide root cause analysis for cloud infrastructure failures and work on continuous improvements.
+Cloud Cost Management and Optimization: Understand cloud spend and recommend areas for cost reduction and performance improvement. Ensure efficient use of cloud resources by leveraging AWS cost management tools and best practices.
+On-Call Support: Participate in a 24/7 on-call rotation to provide support for production environments and ensure high availability of services.
+Required Skills and Experience:
+Expert-level experience across a broad range of AWS services.
+Hands-on experience designing and deploying infrastructure using CloudFormation, Terraform, or other IaC tools.
+Extensive experience with CI/CD pipeline tools for automating software delivery.
+Strong expertise in Docker, Kubernetes, and managing containerized workloads in AWS EKS or ECS.
+Experience with cloud security best practices and compliance frameworks.
+Exposure to monitoring and logging tools to ensure optimal system performance.
+Basic experience with Linux system administration and troubleshooting in cloud environments.
+Hands-on experience in scripting languages such as Python or shell scripting.
+Preferred Qualifications:
+AWS certifications such as AWS Certified Solutions Architect (Professional) or AWS Certified DevOps Engineer.
+Experience with blue-green deployments, canary releases, and other deployment strategies.
+Familiarity with serverless technologies such as AWS Lambda and API Gateway.
+Soft Skills:
+Strong problem-solving abilities and a proactive mindset.
+Excellent communication and collaboration skills with both technical and non-technical teams.
+Ability to lead technical discussions and guide decision-making processes.
+If you're passionate about cloud engineering and excited to take on challenging projects in a dynamic environment, we'd love to hear from you!
+This is a hybrid role. Tuesday through Thursday are in-office days at BJ's Club Support Center in Marlborough, MA and Monday and Friday are remote days.
+In accordance with the Pay Transparency requirements, the following represents a good faith estimate of the compensation range for this position. At BJ’s Wholesale Club, we carefully consider a wide range of non-discriminatory factors when determining salary. Actual salaries will vary depending on factors including but not limited to location, education, experience, and qualifications. The pay range for this position is starting from $98,000.00.
+        

@@ -1,0 +1,44 @@
+Title: Unreal Engine Level Designer
+        Company: Epoch Games
+        Location: Winston Salem, Forsyth County
+        
+        Description:
+        Company Description
+Epoch Games is a volunteer-based, all-online, global game development team. The Co-Founders of Epoch Games were originally part of a Modding Team developing the total conversion Middle Earth Roleplaying Project (MERP) mod for the Elder Scrolls V: Skyrim:
+http://www.moddb.com/mods/merp-middle-earth-roleplaying-project
+Currently Epoch Games is developing The Lays of Althas: Sundered Order (LoA:SO). LoA:SO is an in-development indie open-world RPG set in an original fantasy world:
+http://www.indiedb.com/games/the-lays-of-althas-sundered-order
+The game is being developed using Epic Games' Unreal Engine 4 (UE4):
+https://www.unrealengine.com/
+See our Benefits page for more information about what we can (and can't) offer Team Members at this time:
+https://epochgames.co.uk/wordpress/benefits
+NOTE:
+The address listed is our central office, but we are working as a completely remote development team at this time. No relocation is necessary.
+Job Description
+In this volunteer position you will be asked to create landscapes and building interiors for The Lays of Althas: Sundered Order (LoA:SO), based off concepts and layouts, in the Unreal Engine. We are still building a long list of assets; we expect our Level Designers to be resourceful with the assets they use. We also expect you to use various Houdini Tools that we've built, so Houdini is recommended, but not required. Blueprint Scripting and Quixel Megascans experience is also recommended.
+Communication is key to a smooth and efficient pipeline. You must be able to communicate clearly and effectively with other team-members. Don't be afraid to ask questions. We are an English-speaking team, so English fluency is a must. All of this is especially important for Level Designers as we expect them to communicate with 3D Artists letting them know assets that are still needed.
+If you are comfortable with teaching, you may be called upon to aid the more junior members of the team in any relevant area.
+Other duties include following team policies (given through team orientation as upon acceptance to the team) as well as attending meetings through Slack (our instant message program that we use to communicate).
+Qualifications
+Minimum Requirements:
+Ability to create detailed landscapes and building interiors in Unreal Engine 4
+Ability to optimize with use of LODs (Level of Detail)
+Recommended Requirements:
+Houdini experience, used for creating Procedural Development tools to be used in Unreal Engine
+Unreal Engine 4 Blueprint Scripting experience
+Quixel MegascansAsset Library usage
+Heightmap development experience
+Required Software:
+Epic Games' Unreal Engine 4:
+https://www.unrealengine.com/register
+Optional Software:
+SideFX's Houdini:
+https://www.sidefx.com/products/houdini/ - we can provide Level Designer with a copy if needed
+Heightmapping Software (such as
+QuadSpinner Gaea : https://quadspinner.com/)
+Minimum Hardware Requirements:
+The ability to run
+Unreal Engine 4
+The disk space and Internet Speeds to download (Git Pull) at least 25 GB of game files
+Additional Information
+        

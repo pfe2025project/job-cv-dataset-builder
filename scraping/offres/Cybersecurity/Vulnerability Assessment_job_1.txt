@@ -1,0 +1,35 @@
+Title: Security Engineer (Penetration Testing / Vulnerability Assessment)
+        Company: RightStaff, Inc.
+        Location: Irvine, Orange County
+        
+        Description:
+        Job DescriptionJob Description
+NO CTC or 3rd Apply - USC or GC Only !!!
+Security Engineer (Penetration Testing / Vulnerability Assessment)
+· At least two years of experience working with cybersecurity.
+· Understanding of security vulnerabilities associated with common web technologies (e.g., OWASP Top 10)
+· Proven experience with vulnerability scanners (Nmap, Burp Suite, etc.)
+- Development experience using programming languages such as Python, Java, C++, C#, JavaScript, PowerShell, etc. (preferred)
+PRIMARY RESPONSIBILITIES
+· Presenting service capabilities, defining the scope of work, and drawing up proposals for new and existing clients.
+· Create and enhance sales materials of our cyber security services.
+· Give presentations of our services to customers and prospective customers, adjusting scope of work and methodologies as necessary.
+· Collaborate with other security engineers to define statements of work for projects and draw up proposals for customers.
+· Respond to inquiries regarding service capabilities as necessary.
+· Providing support for conducting the vulnerability assessment and penetration testing.
+· Prepare and gather information in advance for the vulnerability assessment and penetration testing with the customer. Coordinate with outsourcers for scheduling and providing required information.
+· Conduct the vulnerability scanning and penetration testing under the supervision of a Penetration Testing Engineer.
+· Check reports on the results of the vulnerability assessment and penetration testing created by another engineer.
+· Provide additional support as needed to the Penetration Testing Engineer conducting cybersecurity consulting with the customer.
+OTHER & MISCELLANEOUS
+· Seeks constant improvement, more efficient, and less expensive ways and means in work processes.
+· Performs special projects and other miscellaneous duties as assigned by management.
+· Maintains high ethical standards in the workplace.
+· Reports all irregular issues and problems to management for resolution.
+· Maintains good communication with management, office staff members and outside contacts.
+· Complies with all company policies and procedures.
+· Maintains a clean and safe working area.
+Company DescriptionRightStaff was recognized by INC 5000 as one of the fastest growing companies in the nation. RightStaff's unique process and approach to staffing has enabled us to provide services that far exceed our competitors in the areas of resource qualification, delivery and performance measurement.
+Voted Best Places to work in the Dallas/Fort Worth area. RightStaff is a nationwide IT solutions partner. We offer a full range of services, covering recruitment, project management, rollouts, project deployment, staffing, consulting services, and direct hire placement.
+RightStaff is continuing to grow our service offerings every year, offers excellent compensation, and a great opportunity for career growth.Company DescriptionRightStaff was recognized by INC 5000 as one of the fastest growing companies in the nation. RightStaff's unique process and approach to staffing has enabled us to provide services that far exceed our competitors in the areas of resource qualification, delivery and performance measurement.\r\n\r\nVoted Best Places to work in the Dallas/Fort Worth area. RightStaff is a nationwide IT solutions partner. We offer a full range of services, covering recruitment, project management, rollouts, project deployment, staffing, consulting services, and direct hire placement. \r\n\r\nRightStaff is continuing to grow our service offerings every year, offers excellent compensation, and a great opportunity for career growth.
+        

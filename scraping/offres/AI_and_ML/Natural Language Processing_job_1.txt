@@ -1,0 +1,28 @@
+Title: Natural Language Processing Engineer
+        Company: Beyond SOF
+        Location: Washington, D.C., US
+        
+        Description:
+        Role Summary:
+The Natural Language Processing
+(NLP) Engineer is responsible for
+developing and implementing NLP
+solutions to support the
+company's projects.
+Main Responsibilities and duties:
+Develop and implement NLP
+solutions.
+Collaborate with the engineering
+team to integrate NLP solutions
+into projects.
+Conduct research on NLP
+technologies and trends.
+Stay updated on the latest NLP
+technologies and trends.
+Develop and implement
+quantum-enhanced NLP
+solutions. Collaborate with
+quantum engineers to integrate
+quantum technologies into NLP
+projects.
+        

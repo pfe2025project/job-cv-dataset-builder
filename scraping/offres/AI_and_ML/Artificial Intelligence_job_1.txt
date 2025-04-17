@@ -1,0 +1,34 @@
+Title: Artificial Intelligence Engineer
+        Company: Ampersand Solutions Group
+        Location: Huntsville, Madison County
+        
+        Description:
+        Job DescriptionJob DescriptionSalary:
+Contingent on award, Ampersand Solutions Group (
+AMPERSAND
+) has a requirement for one or more Artificial Intelligence Engineers who will support a critical DoD mission providing expert engineering and/or scientific solutions for highly complex software applications requiring Artificial Intelligence (Rule Based) implementations.
+Scope
+: Designs, develops, and implements complex hardware, software, and database applications or advanced techniques in investigating solutions to system requirements and problems. Has experience and skills for the development of applications that are Business Rule driven applications and are required to perform Best Case Scenarios, and applications that are required to provide inconsistencies and / or optimized scheduling of resources in a very dynamic CONOPS. The ideal candidate will have experience in development of robust Optimization Engines and optimization algorithm implementation into large scale software packages.
+Required Qualifications
+Minimum 0-10 years of relevant, related experience plus:
+Bachelors degree from an accredited institution in engineering, science, or other relevant field or:
+Associates Degree in a relevant field from an accredited institution plus 2 years relevant, related experience
+High School Diploma / GED from an accredited institution plus 4 years relevant, related experience
+Ability to obtain and maintain a DoD Security Clearance at the appropriate level
+Willing to periodically travel in support of test events
+Desired Qualifications
+Masters degree from an accredited institution in engineering, science, or other relevant field
+ACTIVE DoD SECRET or TOP SECRET Clearance
+Experience supporting the US Ballistic Missile Defense System
+DoD Instruction 8570.01M IA certification
+AI industry relevant certifications
+Experience handling classified data
+AWS, Azure, VMWare experience
+Necessary Qualifications
+Honesty, superior ethics
+Interpersonal savvy, excellent communication skills
+Ability to work as a team
+Initiative
+Positive attitude
+Professionalism
+        

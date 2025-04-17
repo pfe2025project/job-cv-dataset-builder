@@ -1,0 +1,50 @@
+Title: Senior Lead Software Engineer – IoT Platforms & Services
+        Company: Schlage Lock Company
+        Location: Hales Location, Carroll County
+        
+        Description:
+        Creating Peace of Mind by Pioneering Safety and Security
+At Allegion, we help keep the people you know and love safe and secure where they live, work and visit. With more than 30 brands, 12,000+ employees globally and products sold in 130 countries, we specialize in security around the doorway and beyond. Additionally, in 2024 we were awarded the Gallup Exceptional Workplace Award, which recognizes the most engaged workplace cultures in the world.
+Senior Lead Software Engineer – IoT Platforms & Services
+Design, develop, and evolve the company’s Internet of Things (IoT) platform to deliver seamless access. Support product and development teams by coaching, evaluating, and documenting design decisions. Build proofs-of-concepts, prototypes, reference architectures, and implementations as needed to support the technical planning of platform and business projects. Serve as industry expert in the field of IoT by researching and evaluating emerging IoT and mobile technologies, protocols, and vendor solutions. Build relationships with internal customers and product managers to understand the business needs and priorities, articulating the technical roadmap for success, and making strategy recommendations. Partner with other technical architects, platform leadership, and product management to deliver robust, scalable, and secure products.
+Job Requirements:
+Bachelor’s degree in Computer Science, Computer Engineering, or closely related field.
+Ten (10) years of combined progressive experience developing and providing technical leadership for software and embedded software programs.
+Three (3) of the ten (10) years of progressive experience must have specifically included embedded software experience.
+Software experience must include:
+Developing Saas Solutions build on Kubernetes and/or “serverless” technologies in Azure cloud (IoT Hub, Device Provisioning Service, Event Hub)
+Developing cloud applications using both .Net Core (C#) and Node.js (Typescript)
+Event-driven architectures built around Kafka, AMQP, and MQTT
+AWS and Azure
+Working in the Internet of Things (IoT) industry
+Authentication for SaaS (OAuth, Open-Id) as well as Identity providers (Azure AD, ADB2C or Auth0)
+Incorporating cloud design patterns (CQRS,  Bulkhead, Cache-aside, Saga, Sharding, Valet key) into SaaS solutions
+Azure IOT software suite of tools including Azure IOT Hub and Device Provisioning Service
+CI/CD for Azure cloud in using Azure DevOps
+Terraform/ARM templates and maintain Azure Infrastructure as a code (IaC)
+Developing and supporting SoC II Type1/2 audit for SaaS solutions
+Integration of payment gateways into a SaaS solution and build customer billing platform
+Technical leadership experience must include:
+Guiding/supporting development teams in making appropriate design decisions for scalable, available, security cloud solutions
+Recommending improvements to processes, products, or services.
+Leading three or more project teams, developing execution strategies, and providing thought leadership.
+Setting direction and allocating resources to support company goals.
+Identifying emerging technologies and recommending their integration into the technical ecosystem.
+Building cross-functional teams to create systems that mitigate organizational risk and reduce costs.
+Embedded software (firmware) experience must include:
+Developing high security end to end solutions including symmetric and asymmetric cryptography, digital signatures, and hashing algorithms
+Firmware development for cloud connected embedded, low memory footprint devices using an integrated development environment (IDE)
+Embedded software development in C and C++
+Developing with RTOS or bare metal implementations
+Developing a device firmware bootloader
+Developing custom protocols for WiFi, BLE, JTAG, USB; and serial protocols such as RS232, I2C, and SPI
+Developing embedded software using device connectivity protocols (MQTT, HTTPs, Websocket) and device authentication methods (X509, symmetric key, token based auth) for cloud connectivity
+May work remotely.
+Must have current authorization to be employed in the U.S. without employer sponsorship.
+Employer: Schlage Lock Company, LLC (Allegion)
+We Celebrate Who We Are!
+Allegion is committed to building and maintaining a diverse and inclusive workplace.  Together, we embrace all differences and similarities among colleagues, as well as the differences and similarities within the relationships that we foster with customers, suppliers and the communities where we live and work. Whatever your background, experience, race, color, national origin, religion, age, gender, gender identity, disability status, sexual orientation, protected veteran status, or any other characteristic protected by law, we will make sure that you have every opportunity to impress us in your application and the opportunity to give your best at work, not because we’re required to, but because it’s the right thing to do.   We are also committed to providing accommodations for persons with disabilities. If for any reason you cannot apply through our career site and require an accommodation or assistance, please contact our Talent Acquisition Team.
+© Allegion plc, 2023 | Block D, Iveagh Court, Harcourt Road, Dublin 2, Co. Dublin, Ireland
+REGISTERED IN IRELAND WITH LIMITED LIABILITY REGISTERED NUMBER 527370
+Allegion is an equal opportunity and affirmative action employer
+        

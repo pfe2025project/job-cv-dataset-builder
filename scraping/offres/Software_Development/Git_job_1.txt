@@ -1,0 +1,34 @@
+Title: Site Reliability Engineer (SRE), Git Action and AWS DevOps Engineer
+        Company: Avance Consulting
+        Location: Raleigh, Wake County
+        
+        Description:
+        Job DescriptionJob Description
+Job Title:
+Site Reliability Engineer (SRE), Git Action and AWS DevOps Engineer
+Job Summary
+We are seeking a skilled Site Reliability Engineer (SRE) with expertise in GitHub Actions, AWS DevOps, Helm Charts, and YAML configuration. The ideal candidate will be responsible for ensuring the reliability, scalability, and efficiency of our cloud-based applications. You will work closely with development teams to implement and manage automation processes, infrastructure, and deployment strategies.
+Key Responsibilities
+◦ Develop and maintain CI/CD pipelines using GitHub Actions to streamline the software development lifecycle.
+◦ Design, deploy, and manage AWS infrastructure, ensuring high availability and security.
+◦ Implement and manage Helm Charts for Kubernetes to automate the deployment of applications.
+◦ Utilize YAML configuration files for defining and managing infrastructure and application settings.
+◦ Apply SRE principles to enhance system reliability, performance, and capacity through automation and monitoring.
+◦ Collaborate with development teams to integrate reliability and scalability into the software development process.
+◦ Collaborate with development teams to integrate reliability and scalability into the software development process.
+◦ Monitor application and infrastructure performance, troubleshoot issues, and implement solutions to improve system reliability.
+◦ Implement infrastructure as code (laC) using tools like Terraform or CloudFormation for efficient resource management.
+Required Skills and Qualifications
+◦ Proven experience in Site Reliability Engineering (SRE) practices.
+◦ Strong expertise in GitHub Actions for CI/CD pipeline development.
+◦ Working experience with AWS services, including EC2, S3, Lambda, RDS, and VPC.
+◦ Proficiency in Helm Charts for Kubernetes deployment and management.
+◦ Strong knowledge of YAML for configuration management.
+◦ Experience with infrastructure as code tools such as Terraform or CloudFormation.
+◦ Some Exp in scripting and automation using languages such as Python, Bash, or PowerShell.
+◦ Understanding of containerization technologies like Docker and orchestration with Kubernetes.
+◦ Excellent problem-solving skills and ability to work collaboratively in a fast-paced environment.
+◦ Strong communication and collaboration skills.
+Preferred Qualification
+AWS Certified Solutions Architect or AWS Certified DevOps Engineer certification.
+        

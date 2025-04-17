@@ -1,0 +1,38 @@
+Title: Cyber Network Defense Analyst
+        Company: ManTech
+        Location: Herndon, Fairfax County
+        
+        Description:
+        ManTech
+seeks a motivated, career and customer-oriented
+Cyber Network Defense Analyst
+to join our team in
+Herndon, Virginia
+.
+As a CND Analyst on our team, you will use your expertise in Host Based Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) and specialized network defense to provide innovative and creative solutions to challenging cyber security problems. You will utilize the latest cyber tools available and assist with creating new ones while allowing you to advance the nation's information security posture.
+Responsibilities include but are not limited to:
+Provide malicious code detection, intrusion detection, and information security tool development and integration
+Utilize forensic analysis to identify malware, misuse, and unauthorized activity
+Investigate and report on virus and malware alerts or incidents to determine root cause, entry point of code and damage risk
+Analyze all data sources, including Internet, Intelligence Community (IC) reporting, security events, firewall logs, open source, classified sources and other data sources to identify malware, misuse, unauthorized activity or other cyber security related concerns
+Manage and administer the tuning of rules, signatures, and custom content for CND applications and systems and identify potential conflicts with implementation of any CND tools within the enterprise and develop recommendations to remediate these conflicts
+Prepare data analytics and reporting and provide logical use case development
+Identify gaps in visibility or coverage of cyber defense systems
+Minimum Qualifications:
+High School Diploma and 2+ years of experience in Network Defense or Cybersecurity Analysis or Bachelor’s degree in Computer Science, Cybersecurity or related technical field
+Experience writing script in programming languages such as Python, JavaScript, Yara or Snort
+Experience using SIEM tools for case development and application
+Experience with network security applications, protocols, and associated hardware
+Experience with one or more of the following classes of enterprise cyber defense technologies: SysMon, Network and Host based IDS and IPS, Network and host-based malware detection and prevention, Endpoint Detection & Response (EDR) and Network Detection & Response (NDR), Network and Host malware detection and prevention (EDR/NDR) tools, Forensics tools and applications, Web/Email gateway security technologies, Security Orchestration, Automation and Response (SOAR), Cloud Based platforms such as Azure, AWS, or Google
+Preferred Qualifications:
+Experience with digital forensics or reverse engineering
+Experience with .NET
+Experience with using the Atlassian Product Suite (Confluence, Jira, Bitbucket., etc.)
+Experience with developing in C# on Linux
+Experience with Visual Studio on Windows
+Clearance Requirements:
+Must have a current/active TS/SCI w/Polygraph
+Physical Requirements:
+The person in this position must be able to remain in a stationary position 50% of the time.
+Move about inside the office to access file cabinets, office machinery, or to communicate with co-workers, management, and customers, via email
+        

@@ -1,0 +1,7 @@
+Title: Automation Maintenance Technician
+        Company: Ryder System
+        Location: Whitestown, Boone County
+        
+        Description:
+        check url => https://www.adzuna.com/land/ad/5125808194?se=9qqBU5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=F84A208822CC2ADFCC939EC91C13B3E5D68EC894
+        

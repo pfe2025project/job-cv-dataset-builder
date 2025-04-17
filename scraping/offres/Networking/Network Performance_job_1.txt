@@ -1,0 +1,51 @@
+Title: Network Performance Engineer
+        Company: Ubiquiti Inc.
+        Location: Salt Lake City, Salt Lake County
+        
+        Description:
+        About Ubiquiti
+At Ubiquiti Inc., we create technology platforms for Businesses, Smart Homes, and Internet Service Providers, driven by our goal to connect everyone, everywhere. To date, Ubiquiti has shipped over 100 million devices worldwide, from ISP networking products to next generation of IT solutions. Our growth is made possible by the dedicated team of hundreds behind the scenes. From software developers and product managers to designers and strategists, Team UI is driven to achieve our common goal: Rethinking IT.
+At Ubiquiti, you’ll heighten your potential and broaden your horizons - all while shaping the future of connectivity.
+About the Role
+As a Network Performance Engineer at Ubiquiti Inc., you will play a crucial role in ensuring the quality and reliability of our products and applications. You will be responsible for conducting performance and stability tests on both new and existing products and the implementation of test plans. Your commitment in assuring a reliable high performance product to the end user will be essential in this role.
+Responsibilities
+Turn technical testing outcomes into rapid feedback to improve excellent User Experience (UX) that is the foundation of Ubiquiti’s brand
+Conduct performance and stability tests for NPI (New Product Introduction)
+Perform performance and stability tests on products/applications that have already launched prior to releasing new versions to General Availability.
+Calculate client and device management capacity under high load setups
+Simulate high user traffic, resource scarcity, and extreme data inputs
+Build, plan, and run automated, semi-automated, and manual test cases simulating high-stress scenarios and observing system behavior
+Run existing automation tests and contribute to the development of new ones to improve testing efficiency
+Assist in the creation of comprehensive test plans for various products and applications
+Report findings with clear visualizations and accurate details
+Collaborate with development teams to identify and resolve root causes of issues discovered during testing
+Replicate user-reported issues to facilitate troubleshooting and resolution
+Knowledge and Experience
+Bachelor’s or master’s degree in Computer Networks, Wireless Networks, Computer Science/Engineering, IT or a related field
+1-5 years of work experience, or an upcoming/recent graduate
+Understanding of system architecture, user behavior, CSS and XPath selectors, and scripting
+Background in Network application management; proficiency with UniFi considered an advantage
+Excellent communication abilities, encompassing both verbal and written
+Skilled in various networking technologies, such as WiFi, TCP/IP, switching, and routing
+Knowledge of WiFi networks and RF systems
+Experience with network test tools like Wireshark, iPerf3, and WiFi analyzers
+Hands-on experience with Linux, shell scripts, and Python programming
+Continuous integration (CI) experience
+Understanding of Enterprise Networks and their infrastructure
+Understanding of throughput testing
+Ability and willingness to work in a fast-paced environment and learn quickly
+Creative thinker and strong problem solver with meticulous attention to detail
+Capacity and eagerness to adapt quickly in a dynamic, fast-paced environment
+Upbeat and results-oriented with a positive attitude
+Benefits
+Work with top-notch technologies
+Competitive compensation package
+Fully paid, high-coverage medical insurance including dental and vision
+401k contribution from the company
+Unlimited PTO
+Modern office with a great location
+Company products for home lab setups
+Flexible working hours and terms
+Snacks and drinks in the office
+Powered by JazzHR
+        

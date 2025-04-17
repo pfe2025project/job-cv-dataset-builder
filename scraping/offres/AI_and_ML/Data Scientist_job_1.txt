@@ -1,0 +1,31 @@
+Title: GEOINT Data Scientist
+        Company: ManTech
+        Location: West Springfield, Fairfax County
+        
+        Description:
+        ManTech seeks a GEOINT Data Scientist to join our team in Tampa, FL or Springfield, VA!
+Responsibilities include, but are not limited to:
+Provide technical knowledge at the specified level of expertise:  Analytical processes and techniques, Collection and tasking principles, Data evaluation principles, Geographic Information System (GIS) principles, GEOINT doctrine, Intelligence issues, Data attribution schema, Data conversion and transfer tools, Data dissemination requirements and procedures, Data mining techniques, Data modeling, Data storage processes, Data synchronization practices, Data visualization, Database design principles, Database statistics, Database performance analysis and reporting, Graph theory, Multivariate correlation, Network analysis technique, Quality control principles, Regression analysis, Relational databases, Sampling techniques and methods, Script writing, search and retrieval strategies, spatial databases, spatial statistics, statistical software, trend analysis techniques, and validation procedures.
+Develop tradecraft techniques and solutions for discovery, preparation, manipulation, and normalization of big data.
+Ad-hoc informational briefings and training for the purpose of educating analysts and managers as to the capabilities of data science methodologies, processing, visualization and its benefit, to include presentations to the Commonwealth countries
+Providing Subject Matter Expert (SME) support to the Community, and other GEOINT components and Contractors.
+Minimum Requirements
+:
+10+ years of GEOINT experience
+GEOINT Education/Training in lieu of experience:
+Associate’s degree can be substituted for 2 years.
+Bachelor’s degree can be substituted for 3 years of experience.
+Master’s degree can be substituted for 2 years.
+PhD can be substituted for 3 years.
+Professional certifications can account for 0.5 years.
+Experience with Python and data mining
+Strong writing and briefing skills consistent with national-level performance
+Security Clearance Requirements:
+Active TS/SCI with ability to obtain & maintain a Polygraph.
+Physical Requirements:
+Remain in a stationary position 50%.
+Communicate, converse, and exchange information with peers and senior personnel.
+Constantly operates a computer and other office productivity machinery, such as a calculator, copy machine and computer printer.
+#GEOINTopportunities
+#LI-JJ1
+        

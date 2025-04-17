@@ -1,0 +1,34 @@
+Title: Senior Principal Azure Cloud Engineer
+        Company: ManTech
+        Location: Chantilly, Fairfax County
+        
+        Description:
+        ManTech seeks a motivated, career and customer-oriented
+Senior Principal Azure
+Cloud Engineer
+to join our team in Chantilly, VA.
+Responsibilities include but are not limited to:
+Work with Azure cloud services and infrastructure and knowledge of Infrastructure as Code (IaC) tools like Terraform or ARM templates.
+Troubleshoot and resolve cloud infrastructure issues.
+Implement Azure security best practices and Windows and Linux server management.
+Use Azure data services and containerization technologies and DevOps tools such as Azure DevOps, Jenkins, and GitHub. Proficient in scripting languages such as PowerShell, Python, or Azure CLI.
+Help with network security groups (NSGs) and application gateways.
+Work with Azure services including compute, storage, networking, and databases.
+Provide knowledge of security best practices and compliance standards, Excellent problem-solving skills and communication and collaboration skills.
+Minimum Qualifications:
+Bachelor’s degree in computer science, Information Technology, a related field or 5+ years of additional Azure Cloud experience in lieu of degree
+5+ years of experience in cloud computing with a focus on Microsoft Azure.
+Experience with designing and implementing Azure-based solutions with Experience in DevOps practices and tools (e.g., Azure DevOps, Jenkins, Git) and infrastructure as code tools like ARM templates, Terraform, or Ansible.
+Experience with Azure Resource Manager templates, BICEP, or similar cloud templates, GitHub Enterprise, GitLab, Azure DevOps, architecture frameworks like TOGAF or Zachman or other code repositories experience.
+Experience with PowerShell, Bash, Python, YAML, JSON or Ansible for automation
+Minimum DoD 8570 IAT Level 2 certification required (CCNA Security, GICSP, GSEC, Sec+, CND, SSCP) or DoD 8570 Computing Environment certification within 6 months of hire
+Preferred Qualifications:
+Master’s degree
+Knowledge of containerization technologies such as Docker and Kubernetes with experience with other cloud platforms (e.g., AWS, Google Cloud Platform).
+Knowledge of Federal Information Processing Standards (FIPS)-199, NIST SP 800-53, NIST SP 800-53A, NIST SP 800-37, and DoD Cloud Security Requirements Guide.
+Microsoft Certified Azure Administrator Associate, Microsoft Certified Azure Security Engineer Associate, Microsoft Certified Solutions Expert Cloud Platform and Infrastructure, or Azure Solutions Architect Expert
+Clearance Requirements:
+Must have a current/active TS/SCI w/Polygraph
+Physical Requirements:
+The person in this position must be able to remain in a stationary position 50% of the time. Occasionally move about inside the office to access file cabinets, office machinery, or to communicate with co-workers, management, and customers, via email, phone, and or virtual communication, which may involve delivering presentations.
+        

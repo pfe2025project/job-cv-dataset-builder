@@ -1,0 +1,42 @@
+Title: Data Scientist, Reinforcement Learning
+        Company: Blizzard Entertainment
+        Location: Irvine, Orange County
+        
+        Description:
+        Team Name:
+Job Title:
+Data Scientist, Reinforcement Learning
+Requisition ID:
+R024633
+Job Description:
+It takes a Blizzard to make a Blizzard game, and that level of effort doesn’t end once the game is released; we support our games for years after they’re in the hands of gamers world-wide. Global Insights works closely with the game development, business, and internal service teams at Blizzard to produce insights and models that enable us to make the most epic player experiences. The AI&ML(machine learning) team within Global Insights focuses on applying the latest in key research areas to build lasting data products and tools for our game development and business teams.
+We are looking for a Data Scientist who has experience in reinforcement learning to join our AI&ML team. Blizzard data scientists design and deploy data-powered products and services that scale to the terabytes of data that Blizzard games generate every day. The ideal candidate is passionate about applying machine learning, specifically reinforcement learning, to gameplay AI and has experience developing and deploying the solutions to real-world problems.
+Responsibilities
+Research and develop state-of-the-art machine learning solutions for reinforcement learning based gameplay AI to enhance game development and gameplay objectives.
+Work closely with machine learning engineers and software engineers to deploy, automate, and maintain models seamlessly on production systems.
+Communicate about machine learning models and products to both technical and non-technical audiences.
+Minimum Qualifications
+Master’s or PhD in computer science and machine learning related field with a specialization in single-agent and multi-agent RL in games or robotics.
+Hands-on applied or research experience with one or more of the following: reinforcement learning, imitation learning, optimization, supervised/unsupervised learning, etc.
+Proficient in Python and experienced in at least one other higher-level programming language like Java, C++, C#, Scala, etc.
+Preferred Qualifications
+Experience with game engines like Unreal or Unity.
+Experience with cloud computing services like Google Cloud, AWS (Amazon Web Service), or Azure.
+Experience applying reinforcement learning to a real-time application or environment.
+Experience working with headless cloud computing resources in a parallelized compute environment.
+A track record of original contributions to research communities of ML, AI, and reinforcement learning.
+Practical experience with Tensorflow, Pytorch or Keras.
+The Global Insights team prides in its dedication to fostering a healthy work-life balance, promoting mentorship at every level, and prioritizing mental and physical wellbeing. We offer a robust mentorship program for career development and provides opportunities to build rapport among team members. We are committed to providing growth opportunities for team members to look forward to.
+Blizzard Entertainment is a global company committed to growing our employees along with the business.
+We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences…ever. Join us!
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.
+Rewards
+We provide a suite of benefits that promote physical, emotional and financial well-being for ‘Every World’ - we’ve got our employees covered!  Subject to eligibility requirements, the Company offers comprehensive benefits including:
+Medical, dental, vision, health savings account or health reimbursement account, healthcare spending accounts, dependent care spending accounts, life and AD&D insurance, disability insurance;
+401(k) with Company match, tuition reimbursement, charitable donation matching;
+Paid holidays and vacation, paid sick time, floating holidays, compassion and bereavement leaves, parental leave;
+Mental health & wellbeing programs, fitness programs, free and discounted games, and a variety of other voluntary benefit programs like supplemental life & disability, legal service, ID protection, rental insurance, and others;
+If the Company requires that you move geographic locations for the job, then you may also be eligible for relocation assistance.
+Eligibility to participate in these benefits may vary for part time and temporary full-time employees and interns with the Company.  You can learn more by visiting https://www.benefitsforeveryworld.com/.
+In the U.S., the standard base pay range for this role is $77,500.00 - $143,376.00 Annual. These values reflect the expected base pay range of new hires across all U.S. locations. Ultimately, your specific range and offer will be based on several factors, including relevant experience, performance, and work location. Your Talent Professional can share this role’s range details for your local geography during the hiring process. In addition to a competitive base pay, employees in this role may be eligible for incentive compensation. Incentive compensation is not guaranteed. While we strive to provide competitive offers to successful candidates, new hire compensation is negotiable.
+        

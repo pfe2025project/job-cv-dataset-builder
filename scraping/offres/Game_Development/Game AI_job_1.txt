@@ -1,0 +1,49 @@
+Title: Senior Software Developer, Amazon Games AI
+        Company: Amazon
+        Location: International, King County
+        
+        Description:
+        Description
+Amazon Games is seeking a highly effective Senior Software Development Engineer to lead the implementation of innovative Machine Learning (ML), Reinforcement Learning (RL), and Generative AI techniques for game development applications. In this role, you will bridge the gap between our AI/ML science advancements and practical game development, creating reusable engine components and middleware. You will drive the development of AI technologies to enhance gameplay, optimize development workflows, and push the boundaries of interactive entertainment.
+At Amazon Games, our ambition is to create bold new experiences that foster community in and around our games. Our team of game industry veterans develops AAA multiplayer games and original IPs, with teams in Seattle, Orange County, San Diego, Montreal, and Bucharest. Amazon Games, through its Studios, Publishing, and Prime Gaming divisions collaborating with external partners, aims to develop, publish, and deliver compelling AAA games and content experiences for gamers to discover.
+Key job responsibilities
+- Lead the design and development of robust, scalable, and reusable engine components that implement ML, RL, and Gen AI techniques that will be used by game teams using engines such as Unreal and Unity.
+- Collaborate closely with Applied Scientists to translate their research and prototypes into production-ready game engine features.
+- Develop a reusable middleware layer that facilitates the integration of AI technologies across multiple game projects and platforms.
+- Collaborate with game teams to deliver AI-driven features into their workflows and game systems.
+- Optimize AI implementation for performance, ensuring they meet the real-time requirements of game engines
+- Contribute to the architecture and design of game systems that leverage AI technologies.
+- Collaborate with other Amazon teams to identify and develop sharable AI technologies and tools.
+- Stay current with advancements in game engine technologies, ML/RL/Gen AI, and their applications in gaming.
+- Evaluate and integrate third-party AI solutions when appropriate, ensuring they meet our quality and performance standards.
+- Mentor junior engineers and promote best practices in software engineering and AI implementation within the game development context.
+- Champion the responsible implementation of AI in games, considering player experience, fairness, and potential biases.
+A day in the life
+- You thrive in a collaborative environment where your decisions have significant impact and influence.
+- You are passionate about building game experiences that delight players.
+- You deliver great workflows, tools, and game innovations to your fellow developers and constantly seek improvement.
+- You want to be part of something exciting and unique in the gaming ecosystem.
+About the team
+The Amazon Games Studio AI Research team focuses on artificial intelligence innovation in gaming. Our highly skilled, multi-discipline team works across Machine Learning, Reinforcement Learning, and Generative AI to reimagine game development. We work closely with first-party game developers and partner studios to bring creative visions to life. Our mission is to use AI responsibly to transform gameplay experiences, enrich narratives, and provide creators with practical tools to optimize their production pipelines.
+Basic Qualifications
+- Bachelor's degree in Computer Science, Software Engineering, or related field
+- 8+ years of professional software development experience, with at least 3 years in game development
+- Proficiency in C++ and experience with game engines (Unreal, Unity, or proprietary)
+- 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience in designing and developing reusable software components and APIs
+- Experience as a mentor, tech lead or leading an engineering team
+Preferred Qualifications
+- Master's degree in Computer Science, Software Engineering, or related field
+- Experience working with ML frameworks (PyTorch, TensorFlow, etc.) and integrating them into game engines
+- Experience with designing and deploying services and products that leverage generative AI models
+- Experience with cloud-based AI services and their integration into game systems
+- Familiarity with GPU programming and optimization techniques for AI in games
+- Solid understanding of computer graphics, game physics, and real-time systems
+- Shipped games that incorporate advanced AI techniques
+- Contributed to open-source projects or game development tools
+- Proven track record of leading complex software projects and mentoring junior engineers
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company's reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you're applying in isn't listed, please contact your Recruiting Partner.
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits . This position will remain posted until filled. Applicants should apply via our internal or external career site.
+        

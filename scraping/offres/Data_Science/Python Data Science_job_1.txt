@@ -1,0 +1,36 @@
+Title: Manager, Data Science (Python and Pipelines)
+        Company: Recorded Future
+        Location: Boston, Suffolk County
+        
+        Description:
+        With 1,000 intelligence professionals, over $300M in sales, and serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company!
+Manager, Data Science
+Recorded Future gathers millions of structured data records every day, reporting internet threats like malware files, compromised websites, phishing pages, and suspicious network traffic. The Data Science team builds the analytics that convert these raw data streams into evidence-backed risk scores, enabling our customers to protect their people and networks. As the engineering manager in Data Science, you will expand the coverage, accuracy, and speed of these critical platform capabilities.
+What You'll Do :
+Guide and develop a team of 5  DS engineers, and two contractors
+Plan, manage, and deliver DS pipelines in a Python Agile SDLC environment
+Design analytics and monitoring to support uptime of department processes over the next 6 months
+Become an expert on existing processes that data science owns.
+What You'll Bring :
+Engineering management 2+ years of experience managing and/or  Data Engineering with fast pace deliverables
+You enjoy coaching, and take pride in your people’s growth.  You are skilled at turning requirements into work plans and driving incremental delivery, sprint by sprint.
+Experience managing remote teams (strongly desired): You have managed fully remote or hybrid teams in the past
+Python programming. You can write production-grade python code and will be a part-time player / full-time coach.
+Excellent communication: Your clear thought is apparent in crisp emails, Slack chats, phone calls, and in-person conversations.
+Why should you join Recorded Future?
+Recorded Future employees (or “Futurists”), represent over 40 nationalities and embody our core values of having high standards, practicing inclusion, and acting ethically. Our dedication to empowering clients with intelligence to disrupt adversaries has earned us a 4.8-star user rating from Gartner and more than 45 of the Fortune 100 companies as clients.
+Want more info?
+Blog & Podcast: Learn everything you want to know (and maybe some things you’d rather not know) about the world of cyber threat intelligence
+Linkedin, Instagram & Twitter: What’s happening at Recorded Future
+The Record: The Record is a cybersecurity news publication that explores the untold stories in this rapidly changing field
+Timeline: History of Recorded Future
+Recognition: Check out our awards and announcements
+We are committed to maintaining an environment that attracts and retains talent from a diverse range of experiences, backgrounds and lifestyles.  By ensuring all feel included and respected for being unique and bringing their whole selves to work, Recorded Future is made a better place every day.
+If you need any accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to our recruiting team at careers@recordedfuture.com
+Recorded Future is an equal opportunity and affirmative action employer and we encourage candidates from all backgrounds to apply. Recorded Future does not discriminate based on race, religion, color, national origin, gender including pregnancy, sexual orientation, gender identity, age, marital status, veteran status, disability or any other characteristic protected by law.
+Recorded Future will not discharge, discipline or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant.
+Recorded Future does not administer a lie detector test as a condition of employment or continued employment. This is in compliance with the law of the Commonwealth of Massachusetts, and in alignment with our hiring practices across all jurisdictions.
+Notice to Agency and Search Firm Representatives:
+Recorded Future will not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to Recorded Future, including those sent to our employees or through our website, will become the property of Recorded Future. Recorded Future will not be liable for any fees related to unsolicited resumes.
+Agencies must have a valid written agreement in place with Recorded Future's recruitment team and must receive written authorization before submitting resumes. Submissions made without such agreements and authorization will not be accepted and no fees will be paid.
+        
