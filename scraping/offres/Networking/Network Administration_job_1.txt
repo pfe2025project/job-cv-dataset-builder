@@ -3,5 +3,212 @@ Title: Network Administrator
         Location: Savage, Anne Arundel County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5129975452?se=MuTKmZUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=44C4AFD30D7752DF2C393D6EFEBCB28777C56ADB
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Network Administrator
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Wednesday, April 2, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Annapolis Junction
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ MD
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+Maximus is seeking a Network Administrator to provide expertise to a federal client in support of their mission-critical systems in defense of our Homeland.
+As a Network Admin, you will implement and maintain our organization's network infrastructure. Your role will involve overseeing network administration, troubleshooting complex issues, and ensuring the performance, availability, and security of our network systems.
+This position is an on-site role, 5 days a week, and requires a secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS135, T3, Band 6
+Job-Specific Essential Duties and Responsibilities:
+-
+Configure and maintain network devices such as routers, switches, firewalls, load balancers, and VPN concentrators.
+- Monitor network performance, identify bottlenecks, and implement optimization strategies to ensure optimal throughput and reliability.
+- Troubleshoot and resolve network issues using firewall logs, switch packet capture tools; engaging with cross-functional teams to leverage support and collaboration when necessary
+- Conduct network capacity planning and bandwidth management to accommodate future growth and changing business needs.
+- Collaborate with other teams to integrate network infrastructure with cloud services, storage systems, and other IT components.
+- Stay updated on emerging technologies, industry trends, and best practices in networking and recommend their adoption as appropriate.
+- Create and maintain documentation related to network configurations, diagrams, standard operating procedures, and troubleshooting guides.
+-  Provide technical leadership, guidance, and mentorship to junior network engineers.
+- Managing, monitoring, maintaining, and securing networks and tenant network segments that integrate the transport of networks and data.
+- Organizing, documenting, and managing the delivery of Network load balancing services
+- Document and Manage Internet Protocol Addresses
+Job-Specific Minimum Requirements:
+-
+Seven (7)+ years of experience in a Network Administrator role or in a related field
+- Active Secret clearance.
+- Due to federal requirements, all candidates must be US Citizens without Dual Citizenship to another country.
+- This is an on-site position at a government facility.
+- Requires presence on-site five days per week in Annapolis Junction, MD.
+- Candidates must reside within a commutable distance.
+- Participation in a rotational on-call schedule for emergency page-outs is required.
+- Five (5) or more years of experience in the following:
+- Cisco ASA
+- Cisco FirePOWER
+- Cisco Catalyst
+- Cisco Nexus
+- Avaya PoE Switches
+- F5 LTM and GTM load balancers
+- KEMP load balancers
+- Juniper SRX firewall
+- Extreme Network IPS
+- ION SAL Modem SA5610
+- Raritan Secure Console Server
+- Avocent KVM Switch
+- RedSeal Appliance SYS‐1027R‐WRF4+
+- SafeNet 7000
+- Avaya Media Gateway G450
+- IBM DataPower XML Firewall
+- SolarWinds - NPM, SAM, IPAM, Netflow
+- IBM Netcool
+#techjobs #clearance #APPCASTDTO
+Minimum Requirements
+ 
+ 
+ 
+ TCS135, T3, Band 6
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 85,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 110,000.00
         

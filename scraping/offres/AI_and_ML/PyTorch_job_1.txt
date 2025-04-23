@@ -3,5 +3,29 @@ Title: Senior Performance Engineer - Deep Learning
         Location: Mount Eden, Alameda County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/4998749879?se=Rr7r5ZQb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=6E47E567D9DA14987FCB7652A514D945022897E2
+        NVIDIA is hiring senior software engineers to build and optimize the tools Deep Learning engineers use across the world to design, develop, and deploy AI applications. We are an ambitious, forward-thinking and diverse team that influences all areas of NVIDIA's AI platform and directly contributes to premiere Deep Learning frameworks - PyTorch, JAX and TensorFlow. We work with multiple teams both inside and outside of NVIDIA across fields, as well as collaborate with the open-source community to optimize the best AI platform in the world!
+What you will be doing:
+Develop and optimize open-source libraries, like Transformer Engine, which enables the fastest training of Large Language Models using low precision data formats, and TensorFlow Distributed Embeddings, providing ability to easily scale training of huge recommender systems on multiple GPUs.
+Study and tune Deep Learning training workloads at large scale, including important enterprise models.
+Build and support NVIDIA submissions to community benchmarks like MLPerf.
+Optimize the performance of influential, modern Deep Learning models coming out of academic and industry research, for NVIDIA GPUs and systems.
+Explore new technologies and advise design of new hardware generations and core platform software components.
+What we need to see:
+BS in Computer Science, Electrical Engineering or a related field (or equivalent experience).
+Demonstrated ability with 6+ years of C++ and Python programming.
+Strong background with parallel programming, preferably on GPUs.
+Knowledge of Computer Architecture and/or Operating Systems.
+Proven experience developing large software projects.
+Excellent verbal and written communication skills.
+Ways to stand out from the crowd:
+Experience with Deep Learning Frameworks, like PyTorch, JAX, Tensorflow or MXNet.
+Experience training language models.
+Background with performance analysis and profiling of workloads.
+Participation in the open-source community.
+Proven experience working with multidisciplinary teams.
+The base salary range is 184,000 USD - 425,500 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+You will also be eligible for equity and benefits.
+NVIDIA accepts applications on an ongoing basis.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning
         

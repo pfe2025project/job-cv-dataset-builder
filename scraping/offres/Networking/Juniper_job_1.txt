@@ -3,5 +3,34 @@ Title: Juniper Engineer
         Location: Long Beach, Los Angeles County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5145820427?se=IukxmJUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=C038A9E079413D89EACD585CCAC5E1A5D5305485
+        Job DescriptionJob Description
+Responsibilities:
+Network Infrastructure Management:
+Design, configure, and maintain Juniper switching infrastructure across multiple locations to ensure optimal performance and reliability.
+Implement and manage network protocols, including VLANs, Spanning Tree Protocol (STP), and Link Aggregation (LAG) for efficient data transmission.
+Scripting and Automation:
+Develop and implement scripts using Juniper scripting languages (e.g., Junoscript, SLAX) to automate network configuration and management tasks.
+Create custom scripts to streamline network provisioning, monitoring, and troubleshooting processes.
+Network Monitoring and Troubleshooting:
+Monitor network performance and health using Juniper monitoring tools and platforms.
+Troubleshoot network issues, identify root causes, and implement corrective actions to minimize downtime and disruption.
+Security and Compliance:
+Implement and maintain network security measures, including firewalls, access control lists (ACLs), and VPN configurations, to protect against security threats and vulnerabilities.
+Ensure compliance with industry regulations and standards, such as PCI DSS and GDPR, related to network security and data privacy.
+Documentation and Reporting:
+Create and maintain documentation, diagrams, and standard operating procedures (SOPs) for network infrastructure and configurations.
+Generate regular reports on network performance, capacity, and utilization to support decision-making and planning activities.
+Requirements:
+Bachelor's degree in Computer Science, Information Technology, or related field (preferred) or equivalent experience.
+5+ years of experience in network engineering with a focus on Juniper switching and scripting.
+Proficiency in Juniper Junos operating system and configuration management.
+Strong scripting skills using Juniper scripting languages (e.g., Junoscript, SLAX).
+Knowledge of network protocols and technologies, including TCP/IP, BGP, OSPF, and MPLS.
+Excellent problem-solving and analytical skills.
+Effective communication and collaboration abilities.
+Working Conditions:
+This is a contract full-time position based in Long Beach.
+Occasional travel to remote locations may be required for network installations, upgrades, and maintenance.
+Powered by JazzHR
+VTSRrVMKYI
         

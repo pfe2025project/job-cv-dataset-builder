@@ -3,5 +3,42 @@ Title: Full Stack Developer (Flutter)
         Location: New York City, New York
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5139943864?se=-rUzC5Ub8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=F82B457D32BF24739272126440A239F2F1795F97
+        Job DescriptionJob Description
+About Us
+We are a rapidly-growing company based in New York City, pioneering in our field and looking to add a full-time, experienced Flutter Developer to our dynamic team. Our engineers thrive on solving the many challenges and puzzles that come with our rapidly evolving tech stack. If you're ready to work with cutting-edge technologies and architectures in a forward-thinking organization, and want to grow your career with a company that's the first of its kind in the space, we want to hear from you!
+Role Overview
+You'll be initially joining a small team working on the development and implementation of our innovative video & ecommerce platform, impacting both the front-end and back-end architecture. This role offers an opportunity to work with a diverse tech stack and potentially expand your skills across multiple programming languages. Our fast-paced environment involves daily deployments, so you should be comfortable with rapid iterations and continuous improvement.
+Key Responsibilities
+Develop and maintain front-end and back-end applications using the Flutter framework for front-end and Springboot for back-end for our video and ecommerce platform
+Collaborate with cross-functional teams to define, design, and ship new features
+Ensure the performance, quality, and responsiveness of applications
+Maintain a high quality of user experience and application aesthetics
+Identify and correct bottlenecks and fix bugs
+Help maintain code quality, organization, and automatization
+Participate in daily deployments and continuous integration processes
+Coordinate with team members to ensure latest application features for clients
+Required Skills and Experience
+3+ years of proficiency in Flutter and Dart programming specifically for web deployment
+5+ years of Springboot framework development
+Strong knowledge of Git version control
+Good understanding of Unix-based operating systems (Apple, Linux)
+Solid grasp of front-end and back-end architecture
+Experience working with SQL and NoSQL databases (e.g., MySQL, MongoDB)
+Understanding of architectural patterns such as MVC, object-oriented programming, and functional programming
+Familiarity with RESTful APIs and HTTP basics
+Familiarity with fundamental UI/UX design principles.
+Ability to write clean, maintainable, and efficient code
+Comfortable working in a fast-paced environment with daily code pushes
+Preferred Qualifications
+Experience with one or more of the following: Rust & Python
+Knowledge of WebGL or OpenGL ES is a plus
+Willingness to learn and work with multiple programming languages
+Experience with video streaming or content delivery platforms
+Familiarity with agile or xp development methodologies
+What We Offer
+Opportunity to work on an innovative video platform with a cutting-edge tech stack
+Collaborative and growth-oriented work environment
+Chance to make a significant impact in a rapidly growing company
+Fast-paced, dynamic work culture with daily deployments
+If you're passionate about application development, thrive in fast-paced environments, and are ready to take on exciting challenges in the video platform space, we'd love to hear from you. Apply now and help shape the future of our technology!
         

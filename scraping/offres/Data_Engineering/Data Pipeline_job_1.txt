@@ -3,5 +3,17 @@ Title: Data Pipeline Developer
         Location: Minnetonka Mills, Hennepin County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5130999421?se=kH44f5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=E09BC4B526AF029DE4D000A36B12EC3235527DF0
+        Data Pipeline Developer
+Job Summary: Talent Software Services is in search of a Data Pipeline Developer for a contract to hire position in Minnetonka, MN.
+Position Summary: The Data Pipeline Developer will develop and manage scalable data pipelines and infrastructure to support data-driven decision-making processes. This role requires collaboration with cross-functional teams to ensure data availability, reliability, and optimal performance.
+Primary Responsibilities/Accountabilities:Data Pipeline Development: Design, implement, and optimize end-to-end data pipelines for ingesting, processing, and transforming large datasets from various sources.
+ETL Processes: Develop robust ETL (Extract, Transform, Load) processes to integrate data into the organization
+Data Modeling and Architecture: Design and maintain data models, schemas, and database structures to support analytical and business intelligence needs.
+Data Quality Assurance: Implement processes and systems to monitor data quality, ensuring production data is accurate and available for key stakeholders and business processes.
+Collaboration: Work closely with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions that meet business objectives
+Performance Optimization: Identify, design, and implement internal process improvements, such as re-designing infrastructure for greater scalability and optimizing data delivery.
+Preferred Cloud: Snowflake , Azure: 1-2 cloud integrations experience is a must
+Data integration tools : PowerCenter, IDMC , snowSQL
+If this job is a match for your background, we would be honored to receive your application!
+Providing consulting opportunities to TALENTed people since 1987, we offer a host of opportunities including contract, contract to hire and permanent placement. Let's talk!
         

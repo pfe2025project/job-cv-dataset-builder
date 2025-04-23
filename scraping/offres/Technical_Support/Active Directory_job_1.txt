@@ -3,5 +3,78 @@ Title: Active Directory Domain specialist
         Location: Pontiac, Oakland County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5148991155?se=ZnsiwpUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=2C47AC95C9CDF1EA408502D969DC8E627067200B
-        
+
+
+        Job Description
+
+Job Title: Expert Active Directory Domain Specialist About Us:
+
+    Seeking a highly skilled Active Directory Domain Specialist to join our team.
+    This role is ideal for someone with a deep understanding of Active Directory, DNS, DHCP, and modern identity management solutions.
+    The right candidate will play a key role in modernizing our Active Directory infrastructure and aligning it with industry best practices. 
+
+Position Overview:
+
+    Looking for an expert Active Directory Domain Specialist with significant experience in modernizing AD environments and integrating with cutting-edge identity management solutions.
+    In this role, you will be responsible for designing and modernizing our Active Directory solution while ensuring they integrate seamlessly with modern identity technologies like Entra ID and Okta.
+    You will also leverage your expertise in DNS and DHCP to ensure network reliability and optimization. 
+
+Key Responsibilities: Active Directory Management & Modernization:
+
+    Lead efforts to modernize and optimize the Active Directory (AD) to meet the organization's evolving needs.
+    Integrate AD with modern identity management platforms such as Entra AD, Okta, and other solutions to support hybrid and cloud environments.
+    Plan and implement the modernized AD environment.
+    Develop and enforce AD domain security policies, ensuring secure authentication, authorization, and compliance with best practices.
+    Conduct AD audits and monitoring to ensure integrity, performance, and security of the AD environment. DNS & DHCP Administration:
+    Manage and troubleshoot DNS and DHCP services within the organization, ensuring reliability, security, and performance.
+    Maintain DNS zones, records, and troubleshooting DNS issues related to AD integration.
+    Ensure proper DHCP configuration, including IP address management, scope setup, and failover configurations.
+    Work with network and infrastructure teams to maintain DNS/DHCP scalability, redundancy, and performance. 
+
+Collaboration & Support:
+
+    Collaborate with the security and infrastructure teams to develop and enforce identity and access management policies.
+    Provide expert-level support to resolve complex issues related to AD, DNS, and DHCP.
+    Deliver technical guidance and mentorship to junior staff on AD, DNS, and DHCP best practices. 
+
+Documentation & Best Practices:
+
+    Develop and maintain clear documentation for AD, DNS, and DHCP configurations, procedures, and disaster recovery plans.
+    Promote best practices in Active Directory management, including security policies, schema management, and replication strategies.
+    Provide recommendations for continuous improvement based on industry trends and emerging technologies. 
+
+Required Skills & Qualifications:
+
+Experience:
+
+    Extensive experience managing and modernizing Active Directory environments (at least 7+ years).
+    Proven experience integrating AD with modern identity management solutions such as Entra ID, Okta, or similar platforms.
+    Strong background in DNS and DHCP management within large-scale, complex network environments.
+    In-depth understanding of AD infrastructure, Group Policy, Trusts, Replication, Sites, and Organizational Units (OUs).
+    Experience migrating and restructuring Domain objects to conform to Best Practices. 
+
+Technical Skills:
+
+    Expert-level knowledge of Windows Server (2012/2016/2019/2022) and AD-related services. o Familiarity with cloud-based identity solutions (Entra ID, AWS IAM, etc.).
+    Expertise in DNS (including DNSSEC) and DHCP configuration, management, and troubleshooting.
+    Experience with PowerShell scripting for automation and reporting within AD/DNS/DHCP.
+    Strong understanding of security protocols, Kerberos, LDAP, and AD Certificate Services (ADCS). 
+
+Certifications:
+
+    Microsoft Certified: Azure Solutions Architect, Microsoft Certified: Security, Compliance, and Identity Fundamentals, or similar certifications are highly desirable.
+    ITIL, CISSP, or other related certifications are a plus. 
+
+Soft Skills:
+
+    Strong problem-solving skills with the ability to think analytically and troubleshoot complex issues.
+    Excellent communication skills, with the ability to collaborate effectively across teams.
+    Proven ability to work in high-pressure situations, providing timely solutions to critical issues. 
+
+Preferred Qualifications:
+
+    Experience with hybrid cloud and multi-cloud environments.
+    Familiarity with automation tools (e.g., Ansible, Terraform) to manage AD infrastructure.
+    Knowledge of identity federation, SSO, and Multi-Factor Authentication (MFA).
+    Experience with monitoring and performance tuning of AD, DNS, and DHCP.
+    

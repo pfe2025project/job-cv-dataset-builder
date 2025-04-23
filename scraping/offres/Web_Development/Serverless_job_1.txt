@@ -3,5 +3,36 @@ Title: Senior Engineer - Serverless / Cloud Native
         Location: Herndon, Burke County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5146531731?se=3pSeAJUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=E83F3C22E7BF89C2429521FA0C6C801719BF5D0D
-        
+        Job DescriptionJob DescriptionAWS / Serverless / .NET / remote (1 day a month in office)
+
+This Jobot Consulting Job is hosted by: Katrina McFillin
+Are you a fit? Easy Apply now by clicking the "Apply Now" buttonand sending us your resume.
+Salary: $60 - $80 per hour
+
+A bit about us:
+
+
+We are a non-profit setting high standards for patient care in radiology through education, research, and advocacy.
+
+Why join us?
+
+
+What we do is life-changing, meaningful work while also being at the forefront of technology in the radiology field.
+We offer a remote culture only having to go into the office once per month for architectural meetings.
+Premium health, dental, and vision.
+401(k)
+
+Job Details
+
+
+You are someone who is a team player and thrives in ambugious environments where challenges are thrown your way. We are in the process of migrating our platforms to AWS, serverless and cloud native. We are looking for folks who are equally excited about working for a mission driven organization and building modern platforms.
+
+tech: Angular18 / .NET8 / MySQL / AWS / Python / Lambdas
+
+You are someone who has worked in a cloud-native, serverless environment using AWS. This role will primarily be new development.
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.

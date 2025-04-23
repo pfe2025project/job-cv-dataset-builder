@@ -3,5 +3,44 @@ Title: Lead Android Engineer
         Location: New York City, New York
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5144009529?se=YhJVB5Ub8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=EDAA32CB40C3D5C7B56BFE8FEE8DB4DCFFFF0319
+        Lead Android Engineer
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs.  As a Capital One Android Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+At Capital One, the iOS and Android platforms are recognized as an opportunity to reach our customers in unique, personal and engaging ways.  Nothing is off limits as we explore exciting ways to take advantage of the full ecosystem of mobile devices including Watch, TV, and whatever future developments Apple or Google creates.  Our engineers are provided with top of the line Macbook Pros, multiple high-end monitors and the necessary tooling to develop the best possible products with the least amount of friction.  We operate in small, productive agile teams and use the best industry tools to collaborate across teams.
+Responsibilities:
+Develop Android client code solutions that deliver on Product Strategy and adhere to established engineering best practices, design guidelines and principles
+Partner with Software Engineers, UX/UI, Quality Engineers, Product Owners/Analysts to deliver high performing quality customer experiences that are engaging, purposeful and powerful in their simplicity
+Actively participate in all team agile ceremonies, contributing to ensure that all team commitments are delivered on time and of the highest quality
+Be an active advocate of the mobile platform through both internal and external developer communities
+Remain an active learner in all technologies related to mobile development (Kotlin, Swift, 3rd party libraries, etc.)
+Influence and contribute to group discussions and incorporate feedback/communication from the broader team
+Mentor junior to mid-level members of the team
+Actively engage with developers outside of the local sprint team across various disciplines (Android, iOS, APIs, Web, etc.)
+Own and lead delivery of major components and platform needs in partnership with senior engineers and Architects
+Consistently share best practices and improve processes within and across sprint teams
+Identify technical obstacles early and work closely with the team to find creative solutions
+Review pull requests and ensure adherence to Kotlin and other language idioms
+Grow and provide SME level leadership
+Basic Qualifications:
+Bachelor’s Degree
+At least 4 years of professional software engineering experience (Internship experience does not apply)
+At least 3 years of experience building Android applications
+At least 3 years of experience with Kotlin
+Preferred Qualifications:
+Master’s Degree
+5+ years of experience building Android applications
+4+ years of experience with Kotlin
+4+ years of experience in open source frameworks
+2+ years of experience with Agile practices
+At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+New York, NY: $211,000 - $240,800 for Manager, Lead Software Engineer; $211,000 - $240,800 for Lead Software Engineer
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+This role is expected to accept applications for a minimum of 5 business days.
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
         

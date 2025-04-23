@@ -3,5 +3,45 @@ Title: Sr. Site Reliability Engineer
         Location: Ashburn, Loudoun County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5122041113?se=Tm2Sr5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=FBF48ABD096963DE6C1B1E26A102995AF386750F
+        Job DescriptionJob DescriptionCompany Description
+Visa is a world leader in payments and technology, with over 259 billion payments transactions flowing safely between consumers, merchants, financial institutions, and government entities in more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive while driven by a common purpose – to uplift everyone, everywhere by being the best way to pay and be paid.
+Make an impact with a purpose-driven industry leader. Join us today and experience Life at Visa.
+Job Description
+Collaborate with all Business and Technology units within VISA to identify critical, time-sensitive functions. Define associated recovery time objectives (RTOs) and recovery point objectives (RPOs).
+Develop and implement a best-practices Disaster Recovery (DR) program to safeguard VISA’s information assets.
+Ensure appropriate information security measures and disaster recovery processes are in place. Regularly validate and maintain the disaster recovery plan and program through rigorous testing, plan updates, and maintenance.
+Lead annual DR testing activities to ensure VISA's readiness to maintain or restore systems online during a DR event.
+Apply knowledge of network configurations, VPNs, firewalls, and other network components to investigate and provide guidance on potential network issues.
+Utilize cloud-hosted services expertise in the implementation and management of disaster recovery processes.
+Employ knowledge of storage devices and systems to define protective measures for data, including backups, replication, and encryption.
+Utilize knowledge of databases like MySQL, Oracle, PostgreSQL, or MongoDB to provide expertise on data backup, restoration, replication, and database failover procedures.
+Effectively collaborate with middleware teams, utilizing platforms such as Java Web Services, Apache Kafka/Tomcat, Hazelcast to integrate diverse and complex systems.
+Develop and maintain necessary documentation, including impact analysis, risk assessment, and DR/resiliency standards for service architecture and technology domain patterns.
+Lead governance, documentation, and coordination with various technology teams and stakeholders in executing Visa’s Offline Backup & Recovery program.
+This is a hybrid position. Expectation of days in office will be confirmed by your Hiring Manager.
+Qualifications
+Basic Qualifications:
+2 or more years of work experience with a Bachelor’s Degree or an Advanced Degree (e.g. Masters, MBA, JD, MD, or PhD)
+Preferred Qualifications:
+3 or more years of work experience with a Bachelor’s Degree or more than 2 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD)
+Business continuity and disaster recovery planning.
+Experience working with IT departments in building Disaster Recovery/BC plans.
+Experience as a Technical Architecture with strong application of Resiliency Architecture and Design Patterns.
+Excellent verbal/written communication, administrative, and computing skills.
+Capable of developing strong and cooperative inter-departmental partnerships for joint actions.
+Experience with creating, presenting, and deploying an enterprise business disaster recovery and contingency plans.
+Experience with monitoring DR programs including audit and regulatory compliances.
+Ability to create and implement related DR/BC standards and procedures.
+Strong analytical skills needed to identify business process improvements, separate key issues, consider alternatives or multiple solutions, and effectively make recommendations.
+Additional Information
+Work Hours:
+Varies upon the needs of the department.
+Travel Requirements:
+This position requires travel 5-10% of the time.
+Mental/Physical Requirements:
+This position will be performed in an office setting.  The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+Visa is an EEO Employer.  Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.  Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.
+U.S. APPLICANTS ONLY: The estimated salary range for a new hire into this position is 105,800 to 149,550
+per year, which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.
         

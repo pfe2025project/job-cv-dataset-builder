@@ -3,5 +3,23 @@ Title: Technical Documentation Specialist
         Location: Bowling Green, Warren County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5120823643?se=cqlZv5Ub8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=0BA096D838FB745592EAF9CBA5C09FC78F51E1F4
-        
+
+
+1. Collaborate with stakeholders to understand process requirements and translate them into proposed technical solutions, seeking out and recommending existing organizational tools when available
+2. Assist in evaluating the benefits and risks of proposed technical solutions.
+3. Develop end-to-end technical solutions as requested, ensuring scalability, performance, and alignment with best practices in sustainability and user experience.
+4. Maintain technical solutions, using emerging features to improve efficiency and user experience.
+5. Produce accessible and up-to-date Life-Cycle Management documentation for technical solutions.
+6. Produce high-quality procedural documentation that meets applicable standards and is appropriate for its intended audience.
+7. Create easy-to-understand training materials, best practices, and internal communication as requested.
+8. Develop content in alternative media forms for maximum engagement, including graphics, flow charts, visuals, and video.
+9. Update content as requested.
+10. Work with R&D and Quality teams to facilitate process ownership and divisional work instruction maintenance.
+11. Support knowledge digitization by participating in the evaluation of new organizational technologies and tools, providing feedback that drives value.
+12. Assist in non-complex quality investigations as needed.
+13. Complete monthly data reporting as requested.
+14. Maintain a clean and safe working environment.
+
+Nesco Resource offers a comprehensive benefits package for our associates, which includes a MEC (Minimum Essential Coverage) plan that encompasses Medical, Vision, Dental, 401K, and EAP (Employee Assistance Program) services.
+
+Nesco Resource provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.

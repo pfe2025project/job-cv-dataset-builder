@@ -3,5 +3,82 @@ Title: Senior Platform Engineer - VPN (Cisco, F5, Palo Alto) (Cloud Operations R
         Location: Plano, Collin County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5144008995?se=gDpgkpUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=4456249A5137D76C3FAF03E90C46B16DFCE9B20E
-        
+        Senior Platform Engineer - VPN (Cisco, F5, Palo Alto) (Cloud Operations Resilience Engineering)
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex technical problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking an experienced Platform Engineer with expertise in network security technologies cloud, enterprise, and data center to join our team! This is an opportunity to design, deploy, and manage VPN technologies that drive the enhancement and evolution of our network security infrastructure. As a Platform Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One. You will be working with the engineering team to integrate and manage new technologies into the existing production environment; gathering requirements, developing designs to meet documented requirements, and implementing those designs. The Platform Engineer will also function as a mentor and escalation resource for the operations team; developing/presenting training curriculums, mentoring less experienced engineers, and providing on-call incident support.
+
+You will collaborate and innovate with smart and passionate people within Capital One to deliver results that have a direct impact on the company’s bottom line while challenging yourself by learning new technologies and seeking opportunities to advance and improve our enterprise infrastructure.
+
+The Cloud Operations Resilience Engineering (CORE) Technology division is responsible for enabling and evolving Capital One’s foundational cloud infrastructure layer, including observability, connectivity, resilience and availability.
+
+The VPN Engineering team provides secure Virtual Private Network (VPN) connectivity at the Enterprise level that allows associates to access Capital One’s network remotely via home based networks, public Wi-Fi networks and smartphone hot spots.
+
+General Responsibilities:
+
+    Help in designing, implementing, and maintaining high quality VPN infrastructure solutions.
+
+    Support enterprise network security infrastructure, regional hubs, and cloud environments.
+
+    Enforce cyber security standards, automation of security services, and deployment of security solutions.
+
+    Work collaboratively across teams and LOBs spanning multiple time zones.
+
+    Consult with various technology support groups as part of network security design and development efforts.
+
+    Identify gaps in current design and research/propose appropriate solutions based on technical and business drivers.
+
+    Lead/contribute to security solutions development, optimizations, network and cyber security standards, and technology refresh efforts. The
+
+    Provide input to design standards and maintain network security topology diagrams and technical design documents.
+
+    Participate in technology integration efforts with other engineering and support teams.
+
+    Provide direct support of audit and ad hoc consulting engagements.
+
+    Ensure compliance with departmental and enterprise security configuration standards.
+
+    Engage with all internal and external parties as necessary to drive and complete work.
+
+    Represent the team and share technical information to a variety of individuals, peers, and stakeholders.
+
+    Solve problems in a complex and ever changing environment.
+
+    Update and contribute to living engineering documentation.
+
+    Work flexible hours and adjust to changing environments.
+
+    Lifting, moving, racking, installing and carrying equipment of up to 50lbs.
+
+Basic Qualifications:
+
+    High School Diploma, GED, or equivalent certification
+
+    At least 3 years of experience implementing and troubleshooting network security platforms and VPN technologies (Cisco, f5, Palo Alto)
+
+    At least 2 years of experience leveraging network security management tools and performing packet analysis during incident/problem resolution.
+
+    At least 2 years of experience with IPSec tunnels and encryption (VRF, TCP/IP, OSI model, IPv6, cloud based network security architecture, VPN deployment strategies & migrations, data traffic manipulation, Proxy, Load Balancers, DNS / Route53, VPCs)
+
+Preferred Qualifications:
+
+    4+ years of Palo Alto and f5 VPN administrator experience
+
+    2+ years of experience in Jira, Confluence, ServiceNow, and Observe88
+
+    2+ years of scripting and automation experience (BASH, Powershell, Ansible, Terraform) and a variety of AWS/GCP tools and services
+
+    2+ years of experience in migrating and supporting enterprise computing platforms and systems for Desktop (macOS, Windows) and Mobile (iOS, Android), and SASE based solutions by test driving proof of concept and deployment of security solution
+
+At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, or another type of work authorization).
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+McLean, VA: $127,500 - $145,500 for Senior Platform Engineer
+
+
+Plano, TX: $115,900 - $132,200 for Senior Platform Engineer
+
+
+Richmond, VA: $115,900 - $132,200 for Senior Platform Engineer
+
+

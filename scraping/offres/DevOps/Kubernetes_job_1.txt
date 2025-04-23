@@ -3,5 +3,33 @@ Title: Kubernetes Engineer, Senior - Remote
         Location: Sacramento, Sacramento County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5120010986?se=qHvfMZUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=1E75BF2ABB690F906E8EBE6C36BECB4AF5EB853E
+        Job DescriptionJob Description
+OVERVIEW
+FULLY REMOTE OPPORTUNITY: The Developer & Experience Team at a leading healthcare system is seeking a Senior Platform Engineer with deep Kubernetes expertise to support their cloud transformation journey. Reporting to the Sr. Manager of Technical Engineering, you will play a key role in designing, building, and maintaining the Internal Developer Platform, with a strong focus on Kubernetes orchestration and cloud-native solutions. Your work will drive operational excellence across the organization, benefiting not only internal teams but also trading partners and provider networks. This contract-to-hire position offers an exciting opportunity to join a forward-thinking organization during their cloud transformation.
+***Must be able to work in the United States without sponsorship***
+Duration: 6 months contract to hire
+Location: Remote, but must reside in Arizona, Colorado, Connecticut, Florida, Georgia, Illinois, Maryland, Minnesota, Nevada, Oregon, or Washington. Preference for West Coast. Working hours will be PST.
+Rate: $60/hr to $76/hr DOE
+RESPONSIBILITIES
+Design and build technical specifications: Design and implement scalable, robust Kubernetes solutions using OpenShift, Azure AKS, and Google GKE to support application deployment and management
+Deployment and Management: Deploy and manage self-service Kubernetes clusters across various environments, ensuring optimal performance, security, and reliability
+Containerization: Develop and maintain Docker container images, implementing best practices for image management, security, and performance optimization
+Monitoring and Optimization: Implement monitoring and logging solutions to track performance, identify issues, and optimize Kubernetes environments for efficiency and scalability to realize observability
+Automation and Scripting: Create automation scripts and tools using languages such as Python, Bash, or Go to streamline cluster management, deployment, and scaling processes
+Security and Compliance: Ensure that Kubernetes clusters adhere to security policies and compliance standards, implementing security best practices and conducting regular audits
+Collaboration: Work closely with development, operations, and security teams to align Kubernetes solutions with business needs and integrate them into existing workflows.
+Troubleshooting and Support: Provide support and troubleshooting for Kubernetes-related issues, working to resolve incidents quickly and efficiently.
+Documentation: Maintain comprehensive documentation of Kubernetes configurations, procedures, and best practices to facilitate knowledge sharing and onboarding.
+Help to establish, operate and continuously improve within a GitOps framework, leveraging your expertise to accelerate capabilities and practices for the product, team, department, and the client’s partners across the organization
+QUALIFICATIONS
+Requires a bachelor's degree or equivalent experience
+Requires 5+ years of professional experience serving as a technical expert and thought leader in enterprise Platform development, and maintenance
+Requires hands on experience managing cloud environments in a heavily regulated, DevOps environment
+Requires proficiency in at least one relevant programming language (Python, C#, Java, etc.)
+Requires in depth knowledge of cloud hosting providers, including Microsoft Azure
+Requires current CKA Certification or equivalent knowledge
+Additional Kubernetes certifications strongly preferred
+Experience working in an agile development environment is strongly desired
+Experience working remotely is strongly desired
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other non-merit factor. We are committed to creating a diverse and inclusive environment for all employees.
         

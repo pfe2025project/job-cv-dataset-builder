@@ -3,5 +3,213 @@ Title: Senior Network Engineer
         Location: Colorado Springs, El Paso County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5103937130?se=ah0wm5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=22DC520094A23B8FA442668BBB5FB6F3312107B4
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Senior Network Engineer
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Thursday, February 20, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Colorado Springs
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ CO
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximus is seeking a Senior Network Engineer to provide expertise to a federal client in support of their mission critical systems in defense of our Homeland. 
+We are seeking an experienced Senior Network Engineer to join our team. As a Senior Network Engineer, you will be responsible for designing, implementing, and maintaining our organization's network infrastructure. Your role will involve overseeing network administration, troubleshooting complex issues, and ensuring the performance, availability, and security of our network systems.
+This position is an onsite role, 5 days a week and requires a Secret Clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS167, T5, Band 8
+Job-Specific Essential Duties and Responsibilities:
+- Configure and maintain network devices such as routers, switches, firewalls, load balancers, and VPN concentrators.
+- Monitor network performance, identify bottlenecks, and implement optimization strategies to ensure optimal throughput and reliability.
+- Troubleshoot and resolve network issues using firewall logs, switch packet capture tools, and Wireshark; engaging with cross-functional teams to leverage support and collaboration when necessary
+- Conduct network capacity planning and bandwidth management to accommodate future growth and changing business needs.
+- Collaborate with other teams to integrate network infrastructure with cloud services, storage systems, and other IT components.
+- Stay updated on emerging technologies, industry trends, and best practices in networking and recommend their adoption as appropriate.
+- Create and maintain documentation related to network configurations, diagrams, standard operating procedures, and troubleshooting guides.
+- Provide technical leadership, guidance, and mentorship to junior network engineers.
+- Managing, monitoring, maintaining, and securing networks and tenant network segments that integrate the transport of networks and data.
+- Organizing, documenting, and managing the delivery of Network load balancing services.
+- Document and Manage Internet Protocol Addresses
+Job-Specific Minimum Requirements:
+- 12+ years of experience in a Senior Network Engineer role or in a related field.
+- Must possess ONE of the following certifications: Certified as a Cisco Certified Network Professional (CCNP) OR Cisco Certified Design Expert (CCDE) OR Cisco Certified Internetwork Expert (CCIE).
+- An active Security clearance is required.
+- Due to federal requirements, only US Citizens can be considered. Candidates with dual citizenship cannot be considered.
+- A High School diploma or GED is required.
+- This is an on-site position at a government facility.
+- Requires presence on-site five days per week.
+- Candidates must reside within a commutable distance to Colorado Springs
+- Participation in a rotational on-call schedule for emergency page-outs is required
+Preferred Skills and Qualifications:
+- DHS Suitability
+#HotJobs0311LI #HotJobs0311FB #HotJobs0311X #HotJobs0311TH #TrendingJobs #techjobs #clearance
+Minimum Requirements
+ 
+ 
+ 
+ TCS167, T5, Band 8
+ 
+ 
+ 
+ 
+ 
+ #APPCASTDTO #ITCO #HotJobs0415LI #HotJobs0415FB #HotJobs0415X #HotJobs0415TH #TrendingJobs #MT430
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 90,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 130,000.00
         

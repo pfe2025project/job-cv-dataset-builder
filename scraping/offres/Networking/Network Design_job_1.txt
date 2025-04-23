@@ -3,5 +3,13 @@ Title: Network Design Engineer
         Location: Minneapolis, Hennepin County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5140829921?se=8mw7lZUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=D8020B0E0037ED6D86CFD129B8EEC0ADD1C52896
+        Job DescriptionJob Description
+JOB OBJECTIVE/PURPOSE:
+Design Engineer skill set Must haves:
+Arista, Cisco CCIE, Data Center (or equivalent experience)
+BGP expertise Python.
+Ansible would be considered.
+Excellent oral and written skills.
+Python, Contact Center Cisco
+Teamware Solutions, a business division of Quantum Leap Consulting Private Limited, offers cutting edge industry solutions for deriving business value for our clients'? IT initiatives. Offering deep domain expertise in Banking, Financial Services and Insurance, Oil and Gas, Infrastructure, Manufacturing, Retail, Telecom and Healthcare industries, Teamware leads its service in offering skills augmentation and professional consulting services. With over 1700 professionals deputed across India, USA, Middle East and APAC, our major clients include Captive IT units in North America, India, Product Companies and IT Services firms. Our Vision Our Vision is to be among the top 10 largest global Professional Services firm in the Information Technology Space; we aim to achieve this by 2023, when we complete 20 years.
         

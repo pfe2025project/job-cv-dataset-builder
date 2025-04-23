@@ -3,5 +3,19 @@ Title: MongoDB Developer
         Location: Princeton Junction, Mercer County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5140392600?se=_NvLqZUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=42112C2F9DD8C2419B4CB08B2AD5B72D5B1C95E6
+        Design and implement MongoDB databases: Create scalable and efficient database architectures to support application requirements.
+Develop and optimize MongoDB queries: Write efficient MongoDB queries, aggregations, and indexing strategies to ensure high performance.
+Integrate MongoDB with applications: Integrate MongoDB with various applications, services, and frameworks, ensuring seamless data exchange.
+Ensure data security and integrity: Implement data encryption, access controls, and backup strategies to ensure data security and integrity.
+Troubleshoot and optimize performance: Identify and resolve performance bottlenecks, optimizing database configuration and queries for high performance.
+Collaborate with development teams: Work with development teams to ensure MongoDB is integrated into applications and provide technical guidance on database design and development.
+Required Skills:
+MongoDB expertise: Strong knowledge of MongoDB, including data modeling, query optimization, and indexing strategies.
+Database design: Experience with database design principles, data modeling, and schema design.
+Performance optimization: Knowledge of performance optimization techniques, including query optimization, indexing, and caching.
+Data security: Understanding of data security best practices, including encryption, access controls, and backup strategies.
+Nice to Have:
+Experience with MongoDB Atlas: Knowledge of MongoDB Atlas, including cluster management, monitoring, and scaling.
+Familiarity with DevOps tools: Experience with DevOps tools like Docker, Kubernetes, or Ansible.
+Agile development methodologies: Familiarity with agile development methodologies, including Scrum or scaled agile.
         

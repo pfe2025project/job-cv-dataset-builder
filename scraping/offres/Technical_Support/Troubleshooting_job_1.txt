@@ -3,5 +3,58 @@ Title: Test Troubleshooter Technician
         Location: Thousand Oaks, Ventura County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5131272041?se=xqO-u5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=A69B25FBA400B98D031089DDA7AF9644DE556588
-        
+        Job DescriptionJob DescriptionSummary: The primary responsibility of the Production Troubleshooter/Technician is to operate electronic testing equipment and apply testing procedures to manufactured electrical products (PWB board assemblies and final assemblies) and report results based on established standards.Duties:
+
+    Perform electrical tests to ensure standards (internal and customer) are met
+    Troubleshoot production units and RMAs to the component level. Work with Engineering to determine root cause when products do not pass.
+    Record pass/fail results of products.
+    Operate test equipment and testing fixtures as required.
+    Follow test procedures provided from Engineering (ATP, ESS, HI-Pot, Burn-in loads, Thermal Cycles, Vibration, etc.).
+    Complete Test Discrepancy Report for failed items.
+    Comply with ESD and FOD requirements.
+    Complete work consistent with the Master Schedule.
+    Review new products and test to engineering schematics.
+    Communicate with customers, as required to clarify testing processes.
+    Other duties as assigned. 
+
+Qualifications:
+
+    Education/ Experience: High school diploma or General Education Degree (GED); two years minimum related experience and/or training; or equivalent combination of education and experience. Electronics Trade School is desired.
+    Language Ability: Read and understand English/test procedures are written in English.
+    Math Ability: Good math and analytical skills.
+    Reasoning Skills: Able to read and interpret written instructions. 
+
+    Supervisory Responsibilities: This job has no supervisory responsibilities. 
+
+Additional Requirements:
+
+    Familiar with electronic tests, test equipment, and test fixtures.
+    Familiar with electrical components, PCB assemblies, reading electrical drawings and schematics.
+    Valid work permits.
+    Able to travel locally, typically to outside processing test locations.
+    Will be building test fixtures for custom product.
+    IPC- Standards knowledge preferred.
+    Familiar with AS9100/ISO 9001 requirements.
+
+    General PC Knowledge. 
+
+Work Environment:
+
+    While performing the duties of this job, the employee is occasionally exposed to minimal fumes or airborne particles and toxic or caustic chemicals. The noise level in the work environment is usually moderate. 
+
+Physical Demands:
+
+    The employee must regularly lift and/or move up to 10 pounds and occasionally lift and or move up to 25 pounds.
+    Specific vision abilities required by this job include Close vision, Distance vision, Peripheral vision, Depth perception and Ability to adjust focus.
+    While performing the duties of this job, the employee is regularly required to sit for prolonged periods of time; use hands to finger, handle, or feel and reach with hands and arms.
+    The employee is frequently required to talk or hear. The employee is occasionally required to stand and walk.
+    Must be able to work Four 10 hour shifts per week. 
+
+Measures of Performance:
+
+    Accurately records test results.
+    Completes and accurately documents root cause analysis results.
+    Accurately troubleshoots failed products.
+    Communicates well with other personnel.
+    Attendance record.
+    Completes work within timeframes allotted from Master Schedule.

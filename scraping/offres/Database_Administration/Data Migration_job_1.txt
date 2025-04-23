@@ -3,5 +3,11 @@ Title: Data Migration Architect - W2 Contract
         Location: Irvine, Orange County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5131270835?se=_PAmspUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=58B1DC3D9C1538884AC776E9B0820F618C660AE2
+        Job DescriptionJob Description
+Role: Data Migration Architect
+Location – Irvine CA (Remote)
+Position Type: W2 Contract
+JOB DESCRIPTION:
+1. 8+ years of IT experience with at least 2 years of relevant experience in integratoin development with Cloud native architecture 2. 2-3 years of technical experience in migrating data from mainframe to Cloud native DBs like Azure SQL, DB2 LUW 3. Experience in customer facing role, with Cloud (GCP) expertize and lead the integration team 4. Strong modernization experience using Micro Focus COBOL, HCOSS and containers, DB migration 5. Management experience leading Application transformation resources using agile Methodology 6. Strong modernization experience using GCP stack and Azure SQL 6. Experienced in using Capgemini tools and accelerators 7.Build, recommend and implement Continuous Service Improvement Plans for a modern app dev platform.
+. 8+ years of IT experience with at least 2 years of relevant experience in integratoin development with Cloud native architecture 2. 2-3 years of technical experience in migrating data from mainframe to Cloud native DBs like Azure SQL, DB2 LUW 3. Experience in customer facing role, with Cloud (GCP) expertize and lead the integration team 4. Strong modernization experience using Micro Focus COBOL, HCOSS and containers, DB migration 5. Management experience leading Application transformation resources using agile Methodology 6. Strong modernization experience using GCP stack and Azure SQL 6. Experienced in using Capgemini tools and accelerators 7.Build, recommend and implement Continuous Service Improvement Plans for a modern app dev platform.
         

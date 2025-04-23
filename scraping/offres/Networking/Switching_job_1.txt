@@ -3,5 +3,47 @@ Title: Electrician
         Location: Evans, Weld County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5133363575?se=1nKxj5Ub8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=39E401E3F231B4097D2347E38A1E3A8E4B5C3CE2
+        Description
+Location:
+UCHealth UCHlth Greeley Hospital, US:CO:Greeley
+Department:
+GH Facilities Support Operatio
+FTE:
+Full Time, 1.0, 80.00 hours per pay period (2 weeks)
+Shift:
+Days
+Pay:
+$31.61 - $47.41 / hour. Pay is dependent on applicant's relevant experience
+Summary:
+Installs, troubleshoots, maintains, and repairs electrical circuits, appliances, systems, facilities, and related electrical controls and devices.
+Responsibilities:
+Installs disconnects, lights, devices, and electrical panels. Installs motors, motor control circuits, electrical systems in hazardous locations, and transformers. Installs battery banks, battery charges, and switch gear. Installs intrusion alarm systems and grounding systems in general facilities.
+Performs periodic operations, maintenance, and supervision of generators and switch gear relays, and control switches. Troubleshoots switch gear circuits, voltage regulators, and control switches.
+Replaces circuit components including instruments meter, voltage regulators, surge protectors, relays, and control switches. Troubleshoots motors and motor control circuit across the line starters, reduce voltage starters (auto transformer, resister), reversing starters, and electrical systems in hazardous locations, battery banks, and battery chargers.
+Plans, estimates, and commissions new installations or renovations of electrical systems or equipment.
+Within scope of job, requires critical thinking skills, decisive judgement and the ability to work with minimal supervision. Must be able to work in a fast-paced environment and take appropriate action.
+Requirements:
+Journeyman Electrician
+Master Electrician
+High School diploma or GED.
+State licensure as Journeyman Electrician or Master Electrician.
+3 years direct experience.
+We improve lives. In big ways through learning, healing, and discovery. In small, personal ways through human connection. But in all ways, we improve lives.
+UCHealth invests in its Workforce.
+UCHealth offers a Three Year Incentive Bonus to recognize employee's contributions to our success in quality, patient experience, organizational growth, financial goals, and tenure with UCHealth. The bonus accumulates annually each October and is paid out in October following completion of three years' employment.
+UCHealth offers their employees a competitive and comprehensive total rewards package:
+Medical, dental and vision coverage including coverage for eligible dependents
+403(b) with employer matching contributions
+Time away from work: paid time off (PTO), paid family and medical leave (inclusive of Colorado FAMLI), leaves of absence; start your employment at UCHealth with PTO in your bank
+Employer-paid basic life and accidental death and dismemberment coverage with buy-up coverage options
+Employer paid short term disability and long-term disability with buy-up coverage options
+Wellness benefits
+Full suite of voluntary benefits such as flexible spending accounts for health care and dependent care, health savings accounts (available with HD/HSA medical plan only), identity theft protection, pet insurance, and employee discount programs
+Education benefits for employees, including the opportunity to be eligible for 100% of tuition, books and fees paid for by UCHealth for specific educational degrees. Other programs may qualify for up to $5,250 pre-paid by UCHealth or in the form of tuition reimbursement each calendar year
+Loan Repayment:
+UCHealth is a qualifying employer for the federal Public Service Loan Forgiveness (PSLF) program! UCHealth provides employees with free assistance navigating the PSLF program to submit their federal student loans for forgiveness through Savi.
+UCHealth always welcomes talent. This position will be open for a minimum of three days and until a top applicant is identified.
+UCHealth recognizes and appreciates the rich array of talents and perspectives that equal employment and diversity can offer our institution. As an equal opportunity employer, UCHealth is committed to making all employment decisions based on valid requirements. No applicant shall be discriminated against in any terms, conditions or privileges of employment or otherwise be discriminated against because of the individual's race, color, national origin, language, culture, ethnicity, age, religion, sex, disability, sexual orientation, gender, veteran status, socioeconomic status, or any other characteristic prohibited by federal, state, or local law. UCHealth does not discriminate against any qualified applicant with a disability as defined under the Americans with Disabilities Act and will make reasonable accommodations, when they do not impose an undue hardship on the organization.
+Who We Are (uchealth.org)
+AF123
         

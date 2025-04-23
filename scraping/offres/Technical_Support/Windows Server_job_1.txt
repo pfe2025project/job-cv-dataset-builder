@@ -3,5 +3,72 @@ Title: Windows Server Platform Operations Engineer
         Location: Indianapolis, Marion County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5118778092?se=7Glrw5Ub8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=C7A789D734B24CBCDD54BB8FF58FE3D3F96332B5
-        
+        At Lilly, we unite caring with discovery to make life better for people around the world. We are a global healthcare leader headquartered in Indianapolis, Indiana. Our employees around the world work to discover and bring life-changing medicines to those who need them, improve the understanding and management of disease, and give back to our communities through philanthropy and volunteerism. We give our best effort to our work, and we put people first. We’re looking for people who are determined to make life better for people around the world.
+
+Join us in revolutionizing Infrastructure Operations with AI and Automation!
+
+The Cloud and Connectivity organization is actively looking for Multiple Windows Server Platform Operations Engineer to join them. Do you like to solve challenges and have an interest in large scale impact? Would you like the ability to impact a global public and private cloud infrastructure operations through AI and Automation? If so, please apply.
+
+What You’ll Be Doing
+
+We are seeking multiple Windows Servers Platform Operations Engineers with 4 plus years of experience to support and lead enterprise Windows Server environments. The ideal candidate will play a critical role in maintaining system stability, automating operational tasks, and ensuring high availability for critical workloads. This position requires both in-depth technical expertise and a proactive approach to problem-solving and operational excellence.
+
+This role will work with the latest Public and Private cloud IaaS services. Our goal is to improve the availability of infrastructure and reliability through repeatable patterns, new architectural designs, improvements in observability to prevent outages to help increase value across the organization. The role will partner with our global Lilly operations SMEs and other platform infrastructure operations SME to deliver the daily operations associated with this area.
+
+How You’ll Succeed
+
+    Be Bold: You will drive Infrastructure Operations to never have to fix the same problem twice through adoption of AI OPS, Event Driven Automation, and robust Observability.
+    Be Fast: You will accelerate initiatives in areas such as: Infrastructure AI OPS automation, cloud IaaS management, and cloud infrastructure as code to enable critical business projects.
+    Be Proactive: You will have groundbreaking chances to transform our operations processes using proactive, predictive, and automated AI & Observability capabilities.
+    Be Your Best: You will bring a high learning agility and Infrastructure operations / engineer skills to help us enable the Lilly Technology strategy, identifying tech opportunities, and accelerate our AI OPS journey.
+
+What You Should Bring
+
+    Validated experience in server operations and administration
+    Expertise in supporting and maintaining Windows Server environments, including versions 2016, 2019, and 2022.
+    Prior experience performing regular server administration duties, encompassing patch management, configuration updates, and compliance monitoring.
+    Demonstrated ability to resolve OS and hardware issues in collaboration with support engineers and vendors as the need arises.
+    Experience monitoring/optimizing server performance, ensuring high availability and stability.
+    Demonstrated experience in automation and scripting to streamline processes and improve efficiency.
+    Shown ability to develop and run Ansible playbooks for automation of system configurations and deployments.
+    Ability to apply PowerShell scripting for automating repetitive tasks.
+    Prior experience using Ansible Tower/AWX for centralized automation.
+    Prior experience following ITIL-based incident, problem, and change management processes using ServiceNow.
+    Experience addressing critical incidents and conducting detailed root cause analysis to prevent future occurrences.
+    Ability to coordinate change process, ensuring minimal impact to production environments.
+    Prior technical leadership supporting enterprise grade infrastructure solutions and leading the deployment at multiple global locations.
+    Strong hands-on experience performing troubleshooting and Windows Server system administration with automated infrastructure availability and resiliency at enterprise scale up to the AI/ML frameworks.
+    Consistent track record of high quality, agile focused, team-based solution delivery.
+    Strong experience with Windows Server administration, Active Directory, Group Policy, and patch management (WSUS).
+    Hands-on experience with virtualization platforms like VMware vCenter or cloud-based virtual machines.
+    Knowledge of backup solutions.
+    Expertise in leading endpoint security related OS configurations.
+    Expertise in Windows Failover clustering maintenance and troubleshooting
+    Experience with Server build automation resolutions and problem management
+    Basic understanding of cloud technologies (Azure, AWS) and hybrid cloud environments.
+    Proficient in using monitoring tools such as Splunk or similar platforms.
+    Experience leading and running operations of a global large-scale ESX Infrastructure service.
+
+Basic requirements
+
+    Bachelor’s degree in computer science, Information Technology, or related technical field.
+    4-7+ years’ experience as a Windows Server / Platform Engineer.
+
+Additional Information:
+
+    Onsite role located in Indianapolis, IN (relocation required).
+    Expected Shift Hours: 11:00am – 8:00pm US Eastern Standard Time (EST) / 12:00-9:00pm US Eastern Daylight-Saving Time (EDT)
+    Available Shifts: Monday to Friday or Thursday to Monday
+    Less than 5% travel.
+
+Lilly is dedicated to helping individuals with disabilities to actively engage in the workforce, ensuring equal opportunities when vying for positions. If you require accommodation to submit a resume for a position at Lilly, please complete the accommodation request form (https://careers.lilly.com/us/en/workplace-accommodation) for further assistance. Please note this is for individuals to request an accommodation as part of the application process and any other correspondence will not receive a response.
+
+Lilly is proud to be an EEO Employer and does not discriminate on the basis of age, race, color, religion, gender identity, sex, gender expression, sexual orientation, genetic information, ancestry, national origin, protected veteran status, disability, or any other legally protected status.
+
+
+Our employee resource groups (ERGs) offer strong support networks for their members and are open to all employees. Our current groups include: Africa, Middle East, Central Asia Network, Black Employees at Lilly, Chinese Culture Network, Japanese International Leadership Network (JILN), Lilly India Network, Organization of Latinx at Lilly (OLA), PRIDE (LGBTQ+ Allies), Veterans Leadership Network (VLN), Women’s Initiative for Leading at Lilly (WILL), enAble (for people with disabilities). Learn more about all of our groups.
+
+Actual compensation will depend on a candidate’s education, experience, skills, and geographic location. The anticipated wage for this position is
+$63,750 - $145,200
+
+Full-time equivalent employees also will be eligible for a company bonus (depending, in part, on company and individual performance). In addition, Lilly offers a comprehensive benefit program to eligible employees, including eligibility to participate in a company-sponsored 401(k); pension; vacation benefits; eligibility for medical, dental, vision and prescription drug benefits; flexible benefits (e.g., healthcare and/or dependent day care flexible spending accounts); life insurance and death benefits; certain time off and leave of absence benefits; and well-being benefits (e.g., employee assistance program, fitness benefits, and employee clubs and activities).Lilly reserves the right to amend, modify, or terminate its compensation and benefit programs in its sole discretion and Lilly’s compensation practices and guidelines will apply regarding the details of any promotion or transfer of Lilly employees

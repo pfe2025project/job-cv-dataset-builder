@@ -3,5 +3,56 @@ Title: Sr IoT Solution Engineer
         Location: Marysville, Union County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5045086776?se=jpXSQ5Ub8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=44026FEFADE813514DDA7FDD9FB155FADCA62BCE
+        What Makes a Honda, is Who makes a Honda
+**This role is not open to sponsorship**
+Honda has a clear vision for the future, and it’s a joyful one.  We are looking for individuals with the skills, courage, persistence, and dreams that will help us reach our future-focused goals. At our core is innovation. Honda is constantly innovating and developing solutions to drive our business with record success.  We strive to be a company that serves as a source of “power” that supports people around the world who are trying to do things based on their own initiative and that helps people expand their own potential. To this end, Honda strives to realize “the joy and freedom of mobility” by developing new technologies and an innovative approach to achieve a “zero environmental footprint.”
+We are looking for qualified individuals with diverse backgrounds, experiences, continuous improvement values, and a strong work ethic to join our team.
+If your goals and values align with Honda’s, we want you to join our team to Bring the Future!
+Location
+Raymond, Ohio
+Job Purpose
+The HDMA Digital Innovation Division, Digital Manufacturing Unit, IoT Solutions Development group was created to survey Honda’s manufacturing business and develop strategy for prioritized development of digital solutions that enable improved production efficiency, quality, and safety for a sustainable future. The IoT Solutions Engineer is engaging with NA regional plant floor customers to identify opportunities to develop and test technology/concepts and prove the ability to deliver reliable value to our customer. Ideal candidate for this role has a creator mindset, is excited to maintain awareness of digital technology developments, and then develop new, reliable solutions that enable Honda competitiveness, while also being risk averse.
+Key Accountabilities
+Development of new digital technology solutions such as vision inspection systems, AI and M/L analysis of machine/sensor data.
+Analyse user/customer needs along with manufacturing problems and align them with product/technology opportunities.
+Contribute to and execution of IoT strategy and roadmap for selected areas.
+Monitor developments of new technologies for IoT potential in future projects
+Support analytical processes, like machine learning in use within proof-of-technology concepts to deployed IoT projects.
+Qualifications, Experience, and Skills
+Bachelor’s degree in engineering or engineering-related areas: electrical, controls, systems, computer science, data science or equivalent experience
+2+ years’ experience in manufacturing equipment controls, network design, embedded systems, machine learning and/or data engineering with a focus on the automotive industry
+Understanding, extraction and interpretation of parameter data in a machine that represents the health of the machine components, proper operation, and effects on product quality.
+Knowledge of manufacturing equipment controls and logic – preferably in at least one of Mitsubishi, Rockwell, Siemens, or Omron PLCs.
+Understanding of computer vision algorithms such as segmentation, morphology, pose estimation, camera calibration, image enhancement, feature extraction, classification, 3D Vision and deep learning techniques.
+Experience implementing vision algorithms in C++, Python, HALCON, Matrox, Cognex, and/or Keyence, using traditional rules and/or deep learning.
+Experience with vibration, audio, or current signature analysis
+Workstyle
+Hybrid position, preferred Ohio site
+90% office, 10% production floor (go to the spot)
+Travel to plant or special assignment
+What differentiates Honda and make us an employer of choice?
+Total Rewards:
+•    Competitive Base Salary (pay will be based on several variables that include, but not limited to geographic location, work experience, etc.)
+•    Paid Overtime
+•    Regional Bonus (when applicable)
+•    Industry-leading Benefit Plans (Medical, Dental, Vision, Rx)
+•    Paid time off, including vacation, holidays, shutdown
+•    Company Paid Short-Term and Long-Term Disability
+•    401K Plan with company match + additional contribution
+•    Relocation assistance (if eligible)
+Career Growth:
+•    Advancement Opportunities
+•    Career Mobility
+•    Education Reimbursement for Continued Learning
+•    Training and Development programs
+Additional Offerings:
+•    Tuition Assistance & Student Loan Repayment
+•    Lifestyle Account
+•    Childcare Reimbursement Account
+•    Elder Care Support
+•    Wellbeing Program
+•    Community Service and Engagement Programs
+•    Product Programs
+•    Free Drinks Onsite
+Honda is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity and expression, age, disability, veteran status, or any other protected factor.
         

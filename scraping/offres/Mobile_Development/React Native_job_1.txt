@@ -3,5 +3,43 @@ Title: Senior Customer Experience Engineer-React Native
         Location: Atlanta, Fulton County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5120011074?se=gqjOCZUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=1C74CF75B669CB76526FA43E959DE751C955CC2F
+        Job DescriptionJob Description
+About Ditto:
+Ditto is on a mission to unleash the full power of edge devices by removing all the plumbing required to build amazing applications. We bridge the digital divide by enabling real-time data synchronization—even when internet connectivity is limited or non-existent. Our peer-to-peer technology is trusted by major customers like Chick-fil-A and Delta Airlines, and we also work closely with the U.S. military on mission-critical connectivity solutions. As a fast-growing startup poised for a future IPO, our team is globally distributed, and our core values are trust, communication, and continuous improvement. We celebrate diversity and strive to create a team that encompasses a wide range of backgrounds, skill sets, and perspectives.
+About the role:
+We're seeking an experienced Senior Customer Experience Engineer who is passionate about mobile development and has a strong background in building production applications. In this role, you'll work directly with Fortune 500 clients to help them design, implement, and optimize their applications using Ditto. You'll collaborate closely with skilled engineers and cross-functional teams to not only solve complex technical challenges but also influence the evolution of our platform.
+What You'll Do:
+Empower Developers
+- You will be the expert on best practices for developing mobile applications using Ditto at scale. Using that expertise you guide enterprise developers through their Ditto journey through solution design, demonstration of best practices. The delivery of this expertise will take a variety of forms including code examples, conducting both virtual and in-person workshops and creating engaging demonstrations and how-to materials.
+Deliver Quality Solutions
+- You will be the trusted advisor to the customer throughout their implementation and successful production deployment. You will be working alongside their developers providing guidance and input to their Ditto code base.
+Ensure Success
+- Working alongside our Technical Support team you will be on-hand to help navigate and complex technical issues in both functionality and performance. You will help overcome hurdles and accelerate the customer's journey into production and ongoing smooth operation .
+Drive Innovation and Adoption
+- Develop new use cases on Ditto and drive adoption of the Ditto platform. Collaborate with teams across backend, frontend, DevOps, design, product, sales, and marketing to create a first-class experience for developers.
+Opportunity for Travel
+- The strongest relationships are made in person and we like to bring our expertise to where our customers are.
+What You Bring:
+A genuine passion for helping others succeed with technology.
+5+ years of experience as a customer success engineer, solutions engineer, software engineering consultant, or similar
+Specialism in one or more of: Swift, Kotlin, React Native, JavaScript, C#/.NET, Rust
+Excellent written and verbal communication skills in English, enabling you to effectively engage with a diverse range of developers and technical teams.
+Broad familiarity with mobile software and hardware providers
+Working onsite with customers, flexibility for occasional travel is required.
+High level of proficiency in driving complex technical issues to resolution - e.g. the ability to analyse stack traces or identify novel ways of recreating and isolating issues.
+Bachelor's degree or equivalent
+Nice to Have:
+Experience contributing to open-source projects
+Benefits we offer:
+Competitive salaries
+Stock options
+Medical, dental, vision, life, and disability coverage
+Flexible spending account (FSA)
+Flexible vacation policy
+401(k) plan
+Office located in Atlanta, GA. Available for team member use.
+Come join our remote team and discover the possibilities of your best career!
+Equal Opportunity Employer:
+Ditto is proud to be an equal-opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristics. Ditto is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let us know.
+Ditto Recruiting Privacy Notice
         

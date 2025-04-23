@@ -3,5 +3,34 @@ Title: Sr. Java / PostgreSQL Software Engineer
         Location: Miamisburg, Montgomery County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5127188644?se=VoRrqJUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=5483390571C2B673C9E1A1EC340AEFAD702FCF25
+        We are seeking highly skilled and experienced Senior Java Software Engineers to join our dynamic, global, enterprise development team. The ideal candidate will play a key role in solution design, implementation, and backend development while ensuring seamless database development, microservices architecture, and cloud integration. The role involves working on highly scalable, high-transaction applications, implementing CI/CD pipelines, and optimizing performance for large-scale distributed systems. Additionally, the candidate will be responsible for driving best practices in software architecture, ensuring scalability, reliability, and security in all aspects of development. The Senior Java Software Engineer will also contribute to technical discussions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality software solutions.
+Required Skills:
+Must have at least 7 or more years experience as a full stack, Java software engineer using Java 11+
+Seasoned developer with heavy experience with Spring Boot and Spring framework
+Must have strong experience developing complex microservices and APIs utilizing REST, SOAP including new and existing integrations
+Advanced Database development within PostgreSQL databases
+Experience and strong knowledge of containerized application development using tools such as Docker, Kubernetes, Helm
+Experience with build and dependency scripting tools such as Maven, GitHub, JFrog Artifactory
+Understanding of SLA-driven development in high-transaction environments
+Proficiency in JDBC for database connectivity and management
+Strong problem-solving skills and ability to work in an agile environment
+Excellent communication and teamwork skills
+Desired Skills:
+Experience developing using Java 21 is a plus
+Oracle Database development skills are a nice to have
+Experience with Elasticsearch (legacy systems)
+Experience working within existing JSP code to provide occasional support on front end development
+Beacon Hill is an equal opportunity employer and individuals with disabilities and/or protected veterans are encouraged to apply.
+California residents:
+Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+If you would like to complete our voluntary self-identification form, please click here or copy and paste the following link into an open window in your browser: https://jobs.beaconhillstaffing.com/eeoc/
+Completion of this form is voluntary and will not affect your opportunity for employment, or the terms or conditions of your employment. This form will be used for reporting purposes only and will be kept separate from all other records.
+Company Profile:
+Beacon Hill Technologies, a premier National Information Technology Staffing Group, provides world class technology talent across all industries utilizing a complete suite of staffing services. Beacon Hill Technologies' dedicated team of recruiting and staffing experts consistently delivers quality IT professionals to solve our customers' technical and business needs.
+Beacon Hill Technologies covers a broad spectrum of IT positions, including Project Management and Business Analysis, Programming/Development, Database, Infrastructure, Quality Assurance, Production/Support and ERP roles.
+Learn more about Beacon Hill and our specialty divisions, Beacon Hill Associates, Beacon Hill Financial, Beacon Hill HR, Beacon Hill Legal, Beacon Hill Life Sciences and Beacon Hill Technologies by visiting www.bhsg.com.
+Benefits Information:
+Beacon Hill offers a robust benefit package including, but not limited to, medical, dental, vision, and federal and state leave programs as required by applicable agency regulations to those that meet eligibility. Upon successfully being hired, details will be provided related to our benefit offerings.
+We look forward to working with you.
+Beacon Hill. Employing the Future™
         

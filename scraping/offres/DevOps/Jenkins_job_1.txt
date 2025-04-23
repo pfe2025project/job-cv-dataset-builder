@@ -3,5 +3,32 @@ Title: MRI Technologist - Shawn Jenkins Children's Hospital - M-Th 8p-630a
         Location: James Island, Charleston County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5047491621?se=NOGmLZUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=BF188D23906B3747C7C193909CBF9EEEEB937764
+        Job Description Summary
+As an MRI Technologist at MUSC, you will be at the forefront of medical imaging, utilizing advanced MRI technology to generate detailed images crucial for accurate diagnosis and treatment planning. Your role involves working in a collaborative and patient-centric environment, contributing to the delivery of exceptional health care services and the advancement of medical knowledge.
+Entity
+Medical University Hospital Authority (MUHA)
+Worker Type
+Employee
+Worker Sub-Type​
+Regular
+Cost Center
+CC000526 CHS - MRI (SJCH)
+Pay Rate Type
+Hourly
+Pay Grade
+Health-28
+Scheduled Weekly Hours
+40
+Work Shift
+Job Description
+Utilize all MRI resources to perform high quality MRI examinations on entire patient population (neonate through geriatrics) for interpretation by a physician.
+THIS POSITION QUALIFIES FOR A $10,000 SIGN ON BONUS AND UP TO $5,000 RELOCATION BONUS
+Additional Job Description
+Required Licensure, Certifications, Registrations:  Must be registered with the American Registry of Radiologic Technologists. Current Basic Life Support (BLS) required, either a certification from an American Heart Association (AHA) BLS for Healthcare Providers (or AHA recognized equivalent) or an American Red Cross CPR/AED for Professional Rescuer and Healthcare Provider. Copy of academic degree or transcript required.
+Minimum Training and Education
+:
+Graduate from an accredited school of radiologic technology and one year of radiologic experience.  Must be registered with the American Registry of Radiologic Technologists (ARRT) or American Registry of Magnetic Resonance Imaging Technologist (ARMRIT), and licensed by the South Carolina Radiation Quality Standards Association. Must be able to produce very high-quality special imaging with little supervision.  Must be able to function effectively in a team-oriented environment.  Must be familiar with age specific criteria.
+If you like working with energetic enthusiastic individuals, you will enjoy your career with us!
+The Medical University of South Carolina is an Equal Opportunity Employer. MUSC does not discriminate on the basis of race, color, religion or belief, age, sex, national origin, gender identity, sexual orientation, disability, protected veteran status, family or parental status, or any other status protected by state laws and/or federal regulations. All qualified applicants are encouraged to apply and will receive consideration for employment based upon applicable qualifications, merit and business need.
+Medical University of South Carolina participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees. For further information about the E-Verify program, please click here: http://www.uscis.gov/e-verify/employees
         

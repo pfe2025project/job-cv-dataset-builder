@@ -3,5 +3,26 @@ Title: Go Developer Remote USA (Blockchain-Defi)
         Location: New York City, New York
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5135735264?se=4kAGIJUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=243751D5E054B85B40EE386BE66125BE992FD056
+        Job DescriptionJob Description
+Experienced Software Engineer
+Our client is on crypto’s cutting edge technology, and we’re looking for the right engineers to join them. This is a
+remote
+position for any US candidate.
+Our client's Blockchain Distribution Network (
+BDN
+) allows DeFi (Decentralized Finance) traders to make better trades by being better connected. The key difference is that in the decentralized world of DeFi, you need to be connected to
+everyone
+. Coinbase is one of their investors.
+Responsibilities
+As a member of an agile engineering team, you will help design, implement, test and deploy new features in very short cycles to an always-on critical-path infrastructure.
+Requirements
+4+ years of backend SW development
+Experience using Go (Golang)
+Creative, independent, and hardworking
+Bonus Qualifications
+Experience building arb-bots, liquidations-bots, wallets, and similar crypto products
+Experience running ETH nodes
+Experience modifying node codebase
+Experience in automated crypto trading and DeFi
+Great compensation package.If you think you fit the role please apply to join the blockchain journey.
         

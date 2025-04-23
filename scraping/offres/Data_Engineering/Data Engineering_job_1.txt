@@ -3,5 +3,39 @@ Title: Data Engineer (Hybrid)
         Location: South Boston, Suffolk County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5148960397?se=vsTSdZUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=3017EAD5E96030EC9B1244AF9922432C7D78DC76
+        This position collects, stores, processes and builds applications within our big data platform. Responsible for integrating these applications with the architecture used across the organization.
+This role supports the foundational data engineering needs for product (auto/home/commercial) and data science & modeling.
+You will bring 2+ years of experience in data engineering. You will have strong demonstrated work experience using GCP (or AWS), Python, Terraform, SQL, BigQuery, and Redshift.
+You will report to a Senior Manager, Engineering.
+Position Compensation Range:
+$78,000.00 - $128,000.00
+Pay Rate Type:
+Salary
+Compensation may vary based on the job level and your geographic work location.
+Relocation support is offered for eligible candidates.
+Primary Accountabilities
+•Performs exploratory data analysis to determine which questions can be answered effectively with a given dataset.
+•Develops highly scalable and extensible data pipelines from internal and external sources.
+•Works on cross-functional teams to develop and deploy data-driven applications and products, particularly within the space of data science.
+•Assists with prototyping emerging technologies involving data ingestion and transformation, distributed file systems, databases and frameworks.
+•Builds and maintains tools to increase the productivity of application development and client facing teams.
+•Develops and automates data quality checks.
+•Develops big data applications and data visualization tools.
+Specialized Knowledge & Skills Requirements
+•Demonstrated experience providing customer-driven solutions, support or service.
+•Knowledge of SQL and experience using a variety of data stores (e.g. RDBMS, analytic database, scalable document stores).
+•Hands-on programming experience in Python or java, with an emphasis towards building ETL workflows and data-driven solutions.
+•Working familiarity with Linux scripting to automate workflows.
+•Understanding of database internals, such as indexes, binary logging, and transactions.
+•Knowledge of cloud computing platforms (e.g. AWS, GCP, Azure).
+•Understanding of Infrastructure as Code (e.g. Docker, CloudFormation, Terraform, etc.)
+Travel Requirements
+•Up to 10%.
+In this hybrid role, you will be expected to work a minimum of 10 days per month from the office. Candidates should reside within approximately 35-50 miles of one of the following office locations: Madison, WI 53783; Boston, MA 02110.
+#LI-Hybrid
+Your offer will be made contingent on the results of applicable background checks and signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+We encourage you to apply even if you do not meet all of the requirements listed above. Skills can be used in many different ways, and your life and professional experience may be relevant beyond what a list of requirements will capture. We encourage those who are passionate about what we do to apply!
+We provide benefits that support your physical, emotional, and financial wellbeing. You will have access to comprehensive medical, dental, vision and wellbeing benefits that enable you to take care of your health. We also offer a competitive 401(k) contribution, a pension plan, an annual incentive, 9 paid holidays and a paid time off program (23 days accrued annually for full-time employees). In addition, our student loan repayment program and paid-family leave are available to support our employees and their families. Interns and contingent workers are not eligible for American Family Insurance Group benefits.
+We are an equal opportunity employer. It is our policy to comply with all applicable federal, state and local laws pertaining to non-discrimination, non-harassment and equal opportunity. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+#LI-DB1
         

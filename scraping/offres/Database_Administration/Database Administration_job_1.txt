@@ -3,5 +3,197 @@ Title: Database Administrator
         Location: Colorado Springs, El Paso County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5141715222?se=QEY-opUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=1F003B5BCF1D87500B1DCAB856F0DCB421A01464
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Database Administrator
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Wednesday, January 29, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Colorado Springs
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ CO
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+Maximus is seeking a skilled Database Administrator to support vital systems in the defense of our Homeland. In this role, you will be involved in ensuring databases are properly managed, maintained, and optimized to meet business needs.
+This position is an onsite role, 5 days a week and requires a secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS082, T4, Band 7
+Job-Specific Essential Duties and Responsibilities:
+- Strong knowledge and hands-on experience with Database Management Systems (DBMS) such as SQL-based systems and NoSQL databases
+- Understanding of database architecture, schemas, and normalization
+- Familiarity with database specific programming languages (PL/SQL for Oracle, T-SQL for SQL Server)
+- Ability to design, implement, and maintain database structures (e.g., tables, indexes, triggers, stored procedures)
+- Experience in database backup strategies, disaster recovery planning, and execution
+- Develop and maintain database backup and recovery strategies to ensure data availability and integrity
+- Knowledge of optimizing database performance by tuning queries, indexing, and managing database configurations
+- Experience using performance monitoring tools
+- Administer and maintain multiple Server database environments, including installation, configuration, and patch management
+- Create and maintain documentation related to database configurations, procedures, and troubleshooting guides
+Job-Specific Minimum Requirements:
+- 7+ years of work related experience required.
+- A High School diploma or GED is required.
+- Active Secret clearance is required.
+- Due to federal requirements, only US Citizens can be considered. Candidates with dual citizenship cannot be considered.
+- This is an on-site position at a government facility.
+- Requires presence on-site five days per week in Colorado Springs, CO.
+- Candidates must reside within a commutable distance.
+- Participation in a rotational on-call schedule for emergency page-outs is required.
+#techjobs #clearance #APPCASTDTO
+
+
+ 
+ 
+ 
+ 
+ 
+ Minimum Requirements
+ 
+ 
+ 
+ TCS082, T4, Band 7
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 73,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 87,000.00
         

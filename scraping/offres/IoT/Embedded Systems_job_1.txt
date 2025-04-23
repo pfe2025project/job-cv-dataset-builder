@@ -3,5 +3,57 @@ Title: Embedded Systems Engineer II
         Location: Benicia, Solano County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5128612009?se=fPy7RpUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=1155EF280DED65AC6BD0AB42320DF9A509A95D03
+        RIX Industries is a technology-focused company specializing in the design, development and manufacturing of gas generation systems, precision compressor solutions, and cryogenic cooling technologies for critical applications in Marine, Aerospace, Land, Energy, Industrial, Medical, and Critical Infrastructure markets. Founded in 1878, the company is headquartered in Benicia, CA, and operates additional facilities in Sparks, NV and Rockville, CA.
+Position Summary
+The Embedded Systems Engineer II is responsible for the design, development, coding, testing, and maintenance of embedded systems and their software. Experience with both hardware and software is required.
+Responsibilities
+Perform schematic capture, PCB layout, component selection, bill of material generation, and produce PCB fabrication documentation.
+Design and develop digital circuitry for real time control of systems using microcontrollers, digital signal controllers, or digital signal processors.
+Design and develop digital communication interfaces such as CAN, RS232, RS485, Ethernet, SPI, or I2C.
+Design and develop analog circuitry for signal measurement and signal generation for the integration with a wide range of sensors including temperature, pressure, force, flow, concentration, current, or frequency.
+Design and develop power electronics for powering or controlling of DC-DC converters or motor drivers (
+Perform thermal analysis of PCBA componentry for component selection or identification of thermal management requirements.
+Develop firmware and software for custom developed PCBAs to control and communicate with gas compression, gas generation, or cryogenic systems.
+Collaborate with engineers to integrate newly designed controllers into production units.
+Procure prototype quantities of components and PCBs and assemble/solder if required.
+Design and build functionally representative prototypes, both physical and computer models.
+Create test plans and procedures for the validation of new technologies.
+Perform tests using functionally appropriate prototypes and document results.
+Perform technical trade studies to support product development strategies.
+Prepare and present findings for comprehensive design reviews.
+Participate in technical problem solving for current products through cross departmental teams.
+Support Production and Supply Chain teams for production of PCBA designs through Contract Manufacturers.
+Support Test Engineering in EMC testing and qualification by designing immune and low EMI circuits or identifying necessary corrections or improvements.
+Perform Root Cause Analysis of electrical and electronic system failures.
+Focus on rapid prototyping.
+Minimum Qualifications
+Bachelor of Science in electrical engineering or related engineering field from an accredited engineering school and 2 years engineering experience.
+2+ years' experience with Altium Designer or equivalent schematic/layout tools.
+2+ years' experience in component selection and evaluating cost, availability, and modularity.
+2+ years' experience with programming in Embedded C, C and C++.
+2+ years' experience with electro-mechanical integration of PCB assemblies.
+Completed (designed/built/tested) controller assemblies.
+Experience with thermal analysis of power devices on PCB assemblies.
+Experience with digital hardware design (Microcontrollers and communication protocols such as Ethernet, RS485 etc.).
+Experience with analog hardware design (ADC measurements, sensor scaling, noise filtering)
+Strong written and verbal communication skills.
+Ability to work in a fast-paced environment including performing prototyping.
+Ability to travel up to 10% of the time based on company needs.
+Citizenship: U.S. Citizen or qualified U.S. Person in accordance with ALU 22CFR 120.15.
+Preferred Qualifications
+2+ years of working experience in relevant industry.
+2+ years' experience with Real-Time Operating System.
+2+ years' experience designing hardware testing systems for production.
+2+ years' experience working with high-power motor controllers
+2+ years' experience with first article design and testing.
+Physical Requirements
+Must have the following physical abilities:
+Ability to stoop, kneel, crouch, bend, stretch, reach, and lift.
+Ability to lift up to 50 pounds regularly.
+Ability to sit or stand for extended periods at a desk or table as well as machine tools or printers.
+Work Environment
+Office
+Equal Opportunity
+RIX Industries is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with RIX Industries, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin, ancestry, physical or mental disability, medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the applicable discrimination laws and regulations).
+PI72e73fa0df06-7329
         

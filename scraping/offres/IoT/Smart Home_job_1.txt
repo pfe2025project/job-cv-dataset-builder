@@ -3,5 +3,61 @@ Title: Director of Smart Home Engineering
         Location: Irvine, Orange County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5147479046?se=WuMeVpUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=E025E2F3BD8BB72A338D64D1F2573A7989AF2E60
+        Job DescriptionJob Description
+Headquartered in the United States, TP-Link Systems Inc. is a global provider of reliable networking devices and smart home products, consistently ranked as the world’s top provider of Wi-Fi devices. The company is committed to delivering innovative products that enhance people’s lives through faster, more reliable connectivity. With a commitment to excellence, TP-Link serves customers in over 170 countries and continues to grow its global footprint.
+We believe technology changes the world for the better! At TP-Link Systems Inc, we are committed to crafting dependable, high-performance products to connect users worldwide with the wonders of technology.
+Embracing professionalism, innovation, excellence, and simplicity, we aim to assist our clients in achieving remarkable global performance and enable consumers to enjoy a seamless, effortless lifestyle.
+As the
+Director of Smart Home Engineering
+, you will drive the engineering vision, ensuring alignment with company goals while leading high-performing teams. You will define the technology roadmap, oversee architectural decisions, and foster collaboration across Product Management, Security, and other departments. Your role includes optimizing development processes, managing budgets, and ensuring operational excellence. Additionally, you will attract and retain top talent, maintain rigorous code and design standards, and coordinate global teams to enhance knowledge sharing and efficiency.
+Key Responsibilities
+Strategic Leadership:
+Develop and execute the engineering vision, ensuring alignment with company goals and business needs.
+Team Development & Management:
+Build, mentor, and oversee multiple engineering teams, fostering a culture of innovation, collaboration, and continuous improvement.
+Technology Roadmap & Architecture:
+Define technical strategy, lead architectural decisions, and ensure scalable, efficient, and secure system designs.
+Cross-Functional Collaboration:
+Work closely with Product Management, Security and other departments to translate business needs into technical execution.
+Operational Excellence:
+Establish and refine engineering processes, including agile development, and quality assurance methodologies.
+Talent Acquisition & Retention:
+Attract, hire, and retain top engineering talent to support growth and product development.
+Stakeholder Communication:
+Act as a key technical advisor to executive leadership, presenting engineering progress, challenges, and strategic initiatives.
+Budget & Resource Management:
+Oversee engineering budgets, ensuring efficient allocation of resources and technology investments.
+Global Team Coordination:
+Establish unified workflows/comms protocols, bridge cultural gaps to drive collaboration/knowledge sharing.
+Code Review & Design Oversight:
+Lead rigorous code/architectural reviews, enforce quality standards through peer validation, and champion documentation best practices across deliverables.
+Requirements
+Qualifications & Experience
+10+ years
+of experience in software/hardware engineering, with at least
+5+ years
+in an engineering leadership role.
+Proven track record of
+building and scaling
+high-performing engineering teams.
+Strong technical background in
+embedded systems
+.
+Experience managing
+multiple engineering teams
+, driving large-scale projects, and ensuring on-time delivery of high-quality products.
+Deep understanding of
+software development lifecycles, agile methodologies, and modern engineering practices.
+Strong communication skills with the ability to present technical topics to executive stakeholders.
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field preferred.
+Bilingual skills in English and Mandarin are preferred, but not required.
+Benefits
+Salary range: $180,000-$250,000
+Free snacks and drinks, and provided lunch on Fridays
+Fully paid medical, dental, and vision insurance (partial coverage for dependents)
+Contributions to 401k funds
+Bi-annual reviews, and annual pay increases
+Health and wellness benefits, including free gym membership
+Quarterly team-building events
+At TP-Link Systems Inc., we are continually searching for ambitious individuals who are passionate about their work. We believe that diversity fuels innovation, collaboration, and drives our entrepreneurial spirit. As a global company, we highly value diverse perspectives and are committed to cultivating an environment where all voices are heard, respected, and valued. We are dedicated to providing equal employment opportunities to all employees and applicants, and we prohibit discrimination and harassment of any kind based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. Beyond compliance, we strive to create a supportive and growth-oriented workplace for everyone. If you share our passion and connection to this mission, we welcome you to apply and join us in building a vibrant and inclusive team at TP-Link Systems Inc.
         

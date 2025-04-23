@@ -3,5 +3,45 @@ Title: Kafka Engineer
         Location: Owings Mills, Baltimore County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5132104879?se=bCbUfZUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=43C6980C45127C3F9CF1219C304A52D2214BCEA3
+        Job DescriptionJob DescriptionKafka Engineering
+Job Description
+Role Description
+• The successful candidate will be responsible for developing and managing infrastructure as code (IaC), software development, continuous integration, system administration, and Linux.
+• The candidate will be working with Confluent Kafka, Confluent cloud, Schema Registry, KStreams, and technologies like Terraform and Kubernetes to develop and manage infrastructure-related code on AWS platform.
+Responsibilities
+• Support systems engineering lifecycle activities for Kafka platform, including requirements gathering, design, testing, implementation, operations, and documentation.
+• Automating platform management processes through Ansible, Python or other scripting tools/languages .
+• Troubleshooting incidents impacting the Kafka platform.
+• Collaborate with cross-functional teams to understand data requirements and design scalable solutions that meet business needs.
+• Develop documentation materials.
+• Participate in on-call rotations to address critical issues and ensure the reliability of data engineering systems.
+• Monitor, troubleshoot, and optimize the performance and reliability of Kafka in AWS environments.
+Experience
+• Ability to troubleshoot and diagnose complex issues (e.g. including internal and external SaaS/PaaS, troubleshooting network flows).
+• Able to demonstrate experience supporting technical users and conduct requirements analysis • Can work independently with minimal guidance & oversight.
+• Experience with IT Service Management and familiarity with Incident & Problem management • Highly skilled in identifying performance bottlenecks, identifying anomalous system behavior, and resolving root cause of service issues.
+• Demonstrated ability to effectively work across teams and functions to influence design, operations, and deployment of highly available software.
+• Knowledge of standard methodologies related to security, performance, and disaster recovery • Advanced understanding of agile methodologies such as CI/CD, Application Resiliency, and Security.
+Required Technical Expertise
+• Develop and maintain a deep understanding of Kafka and its various components.
+• Strong Knowledge in Kafka Connect, KSQL and KStreams.
+• Implementation experience in designing and building secure Kafka/streaming/messaging platform at enterprise scale and integration with other data system in hybrid multi-cloud environment.
+• Experience in working with Confluent Kafka, Confluent Cloud, Schema Registry, and KStreams Infrastructure as code (IaC) using tools like Terraform.
+• Strong operational background running Kafka clusters at scale.
+• Knowledge of both physical/onprem systems and public cloud infrastructure.
+• Strong understanding of Kafka broker, connect, and topic tuning and architectures.
+• Strong understanding of Linux fundamentals as related to Kafka performance.
+• Background in both Systems and Software Engineering.
+• Strong understanding and working knowledge, experience of containers and Kubernetes cluster.
+• Proven experience as a DevOps Engineer with a focus on AWS.
+• Strong proficiency in AWS services such as EC2, IAM, S3, RDS, Lambda , EKS and VPC. Working knowledge of networking - VPCs, Transit Gateways, firewalls, load balancers, etc.
+• Experience in monitoring and visualizing tools like Prometheus, Grafana, Kibana.
+• Competent developing new solutions in one or more of high-level language Java, Python.
+• Competent with configuration management in code/IaC including Ansible and Terraform • Hands on experience delivering complex software in an enterprise environment.
+• 3+ years of Python and Shell Scripting.
+• 3+ years of AWS DevOps experience.
+• Proficiency in distributed Linux environments.
+Preferred Technical Experience
+• Certification in Confluent Kafka and/or Kubernetes is a plus
+We offer Medical, Dental, Vision, Basic Life, Short-Term Disability, Accident, Term Life, Whole Life, and 401k for all W2 Consultants. A benefit overview will be provided as requested.
         

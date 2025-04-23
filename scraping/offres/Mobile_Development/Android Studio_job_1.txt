@@ -3,5 +3,33 @@ Title: Software Engineer - Typescript, Angular, Node, SQL, Snowflake
         Location: San Diego, San Diego County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5133610829?se=oDx6EJUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=FE4AA79343BC6D52C6C25C64D977EA474AA0C88B
+        Job DescriptionJob Description
+Why Work Here?
+FaceTec is the world leader in 3D Face Authentication software; anchoring digital identity, creating trust, and stopping fraud on any smart device, in any country. As digital transformation has accelerated, the need for Liveness Detection and Face Verification AI is growing faster than ever before. Joining FaceTec is your opportunity to play a major role in the global digital identity revolution and work with the most forward thinking brands and government agencies.
+Job Description
+FaceTec is seeking an experienced Angular / Node / Typescript / SQL / Snowflake Developer to join our R&D Team.
+You will develop and maintain large-scale web applications, REST APIs, internal tools, work with large scale databases, and work with a variety of core components of FaceTec's core products.
+The perfect candidate can develop both back-end and front-end code expertly.
+Qualifications
+Bachelors Degree in Computer Science.
+3+ years professional development experience developing enterprise-grade applications using Typescript, Angular, Node / NodeJS, SQL and/or Snowflake.
+Experience with Snowflake strongly preferred.
+Expertise designing large RESTful web applications that interface with databases.
+Strong knowledge of both SQL and NoSQL databases.
+Proficiency with VS Code, Postman, git, and unit testing.
+Experience with AWS - AWS CLI, EKS/ECS, AWS Dynamo DB, S3, Elastic Beanstalk, and RDS.
+Experience with Docker, Jenkins, and CI/CD pipelines.
+Expertise with git, branching, merging, pull requests, and code reviews.
+Excellent problem solving and debugging skills.
+Clear and concise verbal and written communication skills.
+3+ years of experience development on projects that use Java, C++, or other typed programming language also preferred.
+Proficient with the command line and scripting.
+Excellent skills with MacOS, iOS, Xcode, Android, Android Studio, Visual Studio Code, Typescript.
+Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+Knowledge of AI, Machine Learning, and Computer Vision is preferred.
+More Information
+For more information please visit www.FaceTec.com & www.Liveness.com
+Interested? Please submit your resume and we will contact you!
+About FaceTec, Inc.: www.FaceTec.com
+Company Descriptionhttps://www.facetec.com/Company Descriptionhttps://www.facetec.com/
         

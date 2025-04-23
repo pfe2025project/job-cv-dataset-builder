@@ -3,5 +3,40 @@ Title: Junior QA Analyst - Game & App Testing (QA Test Analyst 1)
         Location: Rapid City, Kalkaska County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5119462944?se=mp7Oc5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=12E662800189EAC4C26012D7751E687DDEF8CFB7
+        Job DescriptionJob Description
+Title: Junior QA Analyst – Game & App Testing (QA Test Analyst 1)
+Location: Onsite – SD-Rapid City-Engineering Design Center
+Duration: 24 months
+Rate: $15-17/hour W2 + Benefits or $20 C2C – to start, subject to rate increase within first 6mos.
+Job Description:
+The Junior QA Analyst (Game & App Testing) will be responsible for executing software test plans, identifying software issues, and supporting the development team by tracking and reporting bugs. This entry-level role is ideal for someone looking to build experience in software QA, game development environments, and cross-functional collaboration.
+Responsibilities:
+• Execute test plans, scenarios, scripts, and procedures
+• Test system modifications to prepare for implementation
+• Document and report software defects using a bug tracking system
+• Analyze and document program issues and ensure accurate resolution tracking
+• Plan test schedules and strategies aligned with project scope and timelines
+• Maintain databases of known test defects
+• Support bug resolution tracking and monitor successes
+Qualifications (Required):
+• Bachelor's degree in Computer Science, Computer Engineering, or a related field
+• 0–2 years of professional experience
+• Basic understanding of hardware/software components and development tools
+• Familiarity with game or software development pipelines
+• Verbal and written communication, interpersonal, and problem-solving skills
+• Basic knowledge of programming (e.g., Visual Basic, Linux, JavaScript)
+Qualifications (Desired):
+• Experience with Unity or Unreal engines
+• Experience testing desktop applications or VR experiences
+• Familiarity with QA standards and practices
+• Exposure to project tracking tools such as Zoho
+Soft Skills Required:
+• Strong communication and organizational skills
+• High attention to detail
+Nice to Haves:
+• Interest in gaming and emerging technology environments
+• Experience contributing to QA process improvements
+Disqualifiers:
+• No degree in relevant field
+• More than 2 years of experience
         

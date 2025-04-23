@@ -3,5 +3,73 @@ Title: Manager, Ontology and Data Modeling
         Location: Cambridge, Middlesex County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5144008902?se=7hnogJUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=3EE9944BF7806894FACDE3EAE6F0B237B56584DC
+        Manager, Ontology and Data Modeling
+The role of the Manager of Ontology and Data Modeling is to develop, implement, and maintain enterprise ontologies in support of Capital One's Data Strategy.
+The Manager of Ontology and Data Modeling, as part of Finance Products and Data Solutions, will be responsible for working collaboratively across Finance and Enterprise partners  to develop domain ontologies in support of our ERP replacement initiatives. With this replacement, we are looking for someone to champion the creation and adoption of standardized data. The Manager of Ontology and Data Modeling will be responsible for partnering with Technology, Product, and other Capital One teams to support the development and integration of semantic technology into Capital One products and services.
+The Manager of Ontology and Data Modeling should be capable of supporting an emerging and evolving semantic program at Capital One, capable of clearly communicating and advocating the value of using semantic technology and knowledge organization concepts.
+Primary Responsibilities
+Define clear and actionable problem statements to help teams deliver results while displaying a comprehensive understanding of ontologies and optimized data models
+Leverage customer insights to influence priorities and roadmap development while advocating for and driving alignment between stakeholders in the development of acceptance criteria
+Own and prioritize the near-term Ontology and Data Modeling roadmap to deliver on business outcomes, quickly identifying points of leverage in complex problems or systems, and utilizing data effectively to define success metrics and measurable outcomes
+Utilize balanced judgment in decisions about risks of both actions taken and not taken while innovating on ways to iterate faster in a well-managed way for the immediate team
+Understand and leverage technology and end-state architecture vision in partnership with Technology, Machine Learning, and other Capital One teams to support the development and integration of semantics in Capital One products and services, driving comprehensive design decisions out of white space technical problems
+Deliver value by creating reusable, extensible and resilient capabilities and proactively identify opportunities when key metrics are not performing
+Develop and communicate a 6-month vision to senior stakeholders and partner teams with accurate details and transparency on risks and impediments, and proactively build relationships with those outside of your immediate team resulting in horizontal influence
+Contribute to team culture and recruiting by leading activities to attract and retain top talent and mentoring and developing junior ontology and data modeling associates
+Manage teams that develop, implement and govern ontologies and optimized data models in consultation with stakeholder
+Contribute to data integration and mapping efforts to harmonize data with Capital One's upper and domain ontologies
+Communicate and advocate the value of Capital One's efforts in ontologies, semantics, and standardization across the business.
+Maintain awareness of competitor and industry developments related to ontology use, knowledge organization, data modeling, and machine learning
+Understand and adhere to W3C standards related to ontologies, in particular RDF, RDFS, OWL, SKOS, and SHACL
+Develop standards, guidelines, and direction for ontology, data modeling, semantics and Data Standardization in general at Capital One
+Role-Based Competencies
+Able to develop and implement ontologies and data models in consultation with stakeholders in teams dedicated to data management, search, product management, machine learning, and other enterprise initiatives.
+Able to communicate and advocate the value of using industry standards, applications, and open source data sets.
+Able to analyze and implement knowledge organization strategies using tools capable of machine learning and semantic enrichment.
+Able to maintain awareness of competitor and industry developments related to ontology use, linked data, semantic technology, graph databases, knowledge organization, data modeling, and metadata.
+Able to test/troubleshoot new or updated models and systems
+Able to create processes and tools to establish, maintain, and update ontology, taxonomy, and other data models.
+Able to maintain and update data and models according to industry best practice.
+Able to support knowledge organization workshops in order to further enhance enterprise ontology, taxonomy, or data models.
+Able to assist in the implementation and support of data standardization and ontology governance strategies and processes.
+Able to develop a strong understanding of the Capital One business, processes, customers, users, and business needs to better solve Data Management problems.
+Able to see and communicate the big picture in an inspiring way. Determines opportunity and risks through comprehensive analysis of current and future trends.
+Has very strong research skills.
+Able to communicate and present ideas clearly and with confidence. Delivers presentations and status updates suited to the characteristics and needs of the audience.
+Able to foster strong relationships with business partners, supporting semantic projects across departments. Develops a supportive and helpful culture for assistance in projects and daily support interactions.
+Continually focused on improving the responsiveness and quality of the solutions delivered.
+Exhibits high energy, passion, self-motivation, and creativity for problem solving.
+Basic Qualifications
+Bachelor’s degree in information science, computer science, engineering, library science, ontology, semantics or computational linguistics
+At least 4 years’ experience in a metadata field of work (ontology, taxonomy, semantics or computational linguistics)
+At least 4 years’ experience or training in using W3C standards including linked and canonical data and ontologies ( JSON, XML, RDF, RDFS, OWL, and SKOS)
+At least 4 years’ experience or training in ontology and linked data tools (Protégé, TopQuadrant, PoolParty, Stardog, AnzoGraph, Neptune, or Data.World)
+At least 4 years’ experience or training with SQL or SPARQL
+Preferred Qualifications
+Master’s degree or PhD in information science, computer science, engineering, library science, ontology, semantics or computational linguistics
+Understanding of the development of ontologies and the use of controlled vocabularies and thesauri in enhancing the discovery of management of enterprise data
+Familiarity with graph databases and technologies
+Familiarity with Python or R
+Familiarity with JSON, OpenAPI/YAML, AVRO
+Familiarity with Agile principles, processes, and methodologies
+Familiarity with Amazon Web Services
+Detail-oriented and an ability to problem-solve independently
+Strong reading and writing skills
+Strong project management experience
+Excellent communication skills and the ability to present ideas clearly and with confidence.
+Ability to work individually and with a team to meet deadlines
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+Cambridge, MA: $158,400 - $180,800 for Manager, Ontology and Data Modeling
+McLean, VA: $158,400 - $180,800 for Manager, Ontology and Data Modeling
+Richmond, VA: $144,000 - $164,400 for Manager, Ontology and Data Modeling
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+This role is expected to accept applications for a minimum of 5 business days.
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
         

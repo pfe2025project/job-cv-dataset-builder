@@ -3,5 +3,55 @@ Title: Digital Twin and IoT Integration Engineer
         Location: Columbia, Richland County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5119622681?se=oBziSpUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=439686C3EA8E24BCA40326861F9E7A9CE1D03A32
+        Job DescriptionJob Description
+The Nuclear Company is the fastest growing startup in the nuclear and energy space creating a never before seen fleet-scale approach to building nuclear reactors. Through its design-once, build-many approach and coalition building across communities, regulators, and financial stakeholders, The Nuclear Company is committed to delivering safe and reliable electricity at the lowest cost, while catalyzing the nuclear industry toward rapid development in America and globally.
+About the role:
+The Nuclear Company is seeking a highly motivated and innovative Digital Twin & IoT Integration Engineer to play a pivotal role in revolutionizing our construction and operational processes within the nuclear energy sector. This role will focus on developing and deploying cutting-edge digital twin technologies integrated with robust IoT sensor networks to synchronize physical construction with virtual models, enhancing efficiency, safety, and quality. This role reports into the Head of Technology.
+Responsibilities:
+Digital Twin Development:
+Design, develop, and deploy high-fidelity digital twins of nuclear power plants, including components, systems, and the entire facility.
+Integrate 3D models, simulation data, and real-time sensor data to create dynamic and interactive digital representations.
+Develop and implement advanced simulation models to predict system behavior, optimize performance, and identify potential issues.
+IoT Sensor Network Integration:
+Design, deploy, and maintain a robust IoT sensor network to collect real-time data from various sources (e.g., temperature, pressure, vibration, radiation levels).
+Develop and implement data acquisition, processing, and analysis pipelines to extract valuable insights from sensor data.
+Ensure data security, integrity, and compliance with relevant regulations.
+Construction Synchronization:
+Leverage digital twin technology to synchronize physical construction progress with the virtual model.
+Identify and resolve construction issues proactively by comparing actual progress with the digital twin.
+Optimize construction schedules and resource allocation based on real-time data and simulations.
+Operational Optimization:
+Utilize digital twin technology to optimize plant operations, improve maintenance planning, and enhance safety.
+Develop predictive maintenance models based on real-time sensor data and historical performance.
+Conduct virtual commissioning and testing to identify and resolve potential issues before physical commissioning.
+Research & Development:
+Stay abreast of the latest advancements in digital twin technology, IoT, and related fields.
+Explore and evaluate new technologies and their potential applications within the nuclear energy sector.
+Conduct research and development projects to advance the capabilities of the digital twin platform.
+Experience
+Education:
+Bachelor's degree in Mechanical Engineering, Civil Engineering, Computer Science, or a related field. Master's degree preferred.
+Experience:
+5+ years of experience in engineering, construction, or a related field.
+3+ years of experience working with digital twin technologies, IoT, or related fields.
+Experience with 3D modeling software (e.g., Autodesk Revit, Bentley MicroStation).
+Technical Skills:
+Proficiency in data analysis and visualization tools (e.g., Python, R, Tableau).
+Experience with data acquisition and processing techniques.
+Knowledge of cloud computing platforms (AWS, Azure, GCP).
+Leadership & Communication:
+Excellent communication, presentation, and interpersonal skills.
+Ability to work effectively with cross-functional teams (e.g., engineering, construction, operations).
+Strong analytical and problem-solving skills.
+Benefits:
+Competitive compensation packages
+401k with company match
+Medical, dental, vision plans
+Generous vacation policy, plus holidays
+Annual company retreats
+Estimated Starting Salary Range:
+The estimated starting salary range for this role is $150,000 - $173,000 annually less applicable withholdings and deductions, paid on a
+semi-monthly basis. The actual salary offered may vary based on relevant factors as determined in the Company's discretion, which may include experience, qualifications, tenure, skill set, availability of qualified candidates, geographic location, certifications held, and other criteria deemed pertinent to the particular role.
+EEO Statement:
+The Nuclear Company is an equal opportunity employer committed to fostering an environment of inclusion in the workplace. We provide equal employment opportunities to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic. We prohibit discrimination in all aspects of employment, including hiring, promotion, demotion, transfer, compensation, and termination.
         

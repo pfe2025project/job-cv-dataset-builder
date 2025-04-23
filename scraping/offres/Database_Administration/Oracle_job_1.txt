@@ -3,5 +3,207 @@ Title: Senior Oracle Database Administrator
         Location: Colorado Springs, El Paso County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5141715217?se=eA9Dq5Ub8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=0376ACF0DBAE6AA546DDA5CC14A71925E8082C53
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Senior Oracle Database Administrator
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Wednesday, January 29, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Colorado Springs
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ CO
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We are seeking a highly skilled and experienced Oracle DBA to join our team. Your role will involve overseeing database administration, performance tuning, troubleshooting, and ensuring the availability, integrity, and security of our Oracle databases.
+This position is an onsite role, 5 days a week and requires a secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS081, T3, Band 6
+Job-Specific Essential Duties and Responsibilities:
+- Administer and maintain Oracle database environments, including installation, configuration, and patch management.
+- Monitor database performance, identify bottlenecks, and implement optimization strategies to ensure optimal throughput and responsiveness.
+- Implement and maintain database security measures, including user access controls, data encryption, and auditing mechanisms.
+- Conduct database capacity planning and forecasting to accommodate future growth and changing business requirements.
+- Develop and maintain database backup and recovery strategies to ensure data availability and integrity.
+- Collaborate with development teams to optimize SQL queries, database code, and stored procedures for improved performance.
+- Stay updated on emerging technologies, industry trends, and best practices in Oracle database administration and recommend their adoption as appropriate.
+- Create and maintain documentation related to database configurations, procedures, and troubleshooting guides.
+Job-Specific Minimum Requirements:
+- 7+ years of work related experience required.
+- A High School diploma or GED is required.
+- Active Secret clearance is required.
+- Due to federal requirements, only US Citizens can be considered. Candidates with dual citizenship cannot be considered.
+- This is an on-site position at a government facility.
+- Requires presence on-site five days per week in Colorado Springs, CO.
+- Candidates must reside within a commutable distance.
+- Participation in a rotational on-call schedule for emergency page-outs is required.
+Preferred Skill and Qualifications:
+-Certified in Oracle Database Administration, Certified Professional (Oracle), RAC & Grid Certified Expert or equivalent
+- Proven experience as an Oracle DBA, with expertise in managing Oracle databases in enterprise environments.
+- Strong knowledge of Oracle database administration, including installation, configuration, and maintenance.
+- Knowledge in Oracle Exdata
+- Knowledge in programming languages, such as Python, to support scripting
+- Team player, fast learner with ability to work proactively and independently to support mission critical operations supporting geographically diverse locations.
+#techjobs #clearance #APPCASTDTO
+Minimum Requirements
+ 
+ 
+ 
+ TCS081, T3, Band 6
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 95,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 115,000.00
         

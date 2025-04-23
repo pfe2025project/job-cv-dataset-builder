@@ -3,5 +3,27 @@ Title: IOS developer
         Location: Burlingame, San Mateo County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5140187648?se=UEzYFZUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=815B684914FB0189B1107EEAAB3B96D3A5933CE6
+        Note: Seeking Objective-C/C /Swift with the iOS SDK and other frameworks.
+Location: Burlingame, CA (Day-1 onsite)
+Responsibilties:
+5 years of experience as an IOS developer
+Experience building complex applications for the iPhone or iPad or Apple Watch using Objective-C/C /Swift with the iOS SDK and other frameworks
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Good to have experience with WIFI, BLE, Networking in IOS App
+Ability to build products with a focus on Unit-testing code for robustness, including edge cases, usability, and general reliability
+Capable of building user interfaces programmatically
+Wide experience working in multi plugin environment projects.
+Experience with multithreading programming and mobile memory management
+Bachelor's degree in computer science, Computer Engineering, relevant technical field, or equivalent practical experience.
+Note: Seeking Objective-C/C /Swift with the iOS SDK and other frameworks.
+Location: Burlingame, CA (Day-1 onsite)
+5 years of experience as an IOS developer
+Experience building complex applications for the iPhone or iPad or Apple Watch using Objective-C/C /Swift with the iOS SDK and other frameworks
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Good to have experience with WIFI, BLE, Networking in IOS App
+Ability to build products with a focus on Unit-testing code for robustness, including edge cases, usability, and general reliability
+Capable of building user interfaces programmatically
+Wide experience working in multi plugin environment projects.
+Experience with multithreading programming and mobile memory management
+Bachelor's degree in computer science, Computer Engineering, relevant technical field, or equivalent practical experience.
         

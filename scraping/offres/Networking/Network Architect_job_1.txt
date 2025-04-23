@@ -3,5 +3,37 @@ Title: Senior Network Architect-SME LAN/WAN, and DW/DM
         Location: Westlake, Montgomery County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5122067823?se=btOSnJUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=71E5488A96ABE2F846FB2F06397083CCB5E24F8B
+        Overview:
+GovCIO is currently hiring for a Senior Network Architect/SME in Service Provider Backbone, LAN/WAN and DW/DM  for our NIH-CIT proposal. This position is located in Bethesda, MD and is a remote/hybrid position.
+Responsibilities:
+The SME role’s responsibilities include:
+Coordinate with the Section Manager to evaluate, design, and test architecture designs and services from the roadmap backlog
+Lead the transition of user accepted designs and services to the Operations and Security Teams
+Provide subject matter expertise in Service Provider backbone
+Provide subject matter expertise in Enterprise-level LAN/WAN
+Provide subject matter expertise in Enterprise-level DWDM (Dense Wave Division Multiplexing.
+The Network Architecture role's responsibilities include:
+Strategically plan, architect, design, engineer, develop, test, implement, modernize, and enhance the functional capabilities, capacity, and performance of the NIH Network and TIC Services in alignment with NIH future state architecture objectives
+Software and hardware installation, configuration, upgrades, and maintenance
+Team with the Security Section to achieve security architecture requirements
+Maintain technical architecture documentation
+Troubleshooting and problem resolution
+Change management
+Support resources responsible for security implementation, monitoring, maintenance, and vulnerability remediation
+Strategic & Transformative planning for network architecture services
+Qualifications:
+Bachelor's with 12+ years (or commensurate experience)
+Required Skills and Experience
+CCIE Certification: Written and practical
+Within each of the Cisco Certifications, the following specializations are needed and listed in order of importance: Routing and Switching, Service Provider, Data Center and Wireless
+Clearance Required: Must be able to obtain and maintain a Public Trust clearance.
+Preferred Skills and Experience:
+Company Overview:
+GovCIO is a team of transformers--people who are passionate about transforming government IT. Every day, we make a positive impact by delivering innovative IT services and solutions that improve how government agencies operate and serve our citizens.
+But we can't do it alone. We need great people to help us do great things - for our customers, our culture, and our ability to attract other great people. We are changing the face of government IT and building a workforce that fuels this mission. Are you ready to be a transformer?
+We are an Equal Opportunity Employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, disability, or status as a protected veteran. EOE, including disability/vets.
+Posted Pay Range
+The posted pay range, if referenced, reflects the range expected for this position at the commencement of employment, however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, education, experience, and internal equity. The total compensation package for this position may also include other compensation elements, to be discussed during the hiring process. If hired, employee will be in an “at-will position” and the GovCIO reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, GovCIO or individual department/team performance, and market factors.
+Posted Salary Range: USD $108,310.00 - USD $149,027.00 /Yr.
         

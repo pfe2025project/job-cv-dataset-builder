@@ -3,5 +3,87 @@ Title: Mobile App and Server Engineer
         Location: Davie, Broward County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5128612718?se=1jaMFJUb8BG33MLCz7WCew&utm_medium=api&utm_source=3abb84b6&v=141555AD7A1F91EB050FD1648EFC36ED731C6802
+        ACR Electronics, Inc. is the leading development center for emergency beacons that are designed with one purpose: to save lives. Through our combined technology expertise in the marine, aviation, outdoor, and military markets, we design and manufacture cutting-edge rescue beacons and survival gear for boaters, pilots, hunters, hikers, climbers, cyclists, and combat troops, not to mention many of the leading boat builders and aircraft manufacturers in the industry.
+Since 1956, ACR's wide range of survival products has been the choice of NASA, the U.S. Military, the U.S. Coast Guard, and everyday explorers and adventurers across the globe. With everything from emergency locator transmitters and rescue beacons to the special flashlights used on Apollo 13 after their onboard explosion, ACR builds products that are made to perform during expeditions of all sizes.
+ACR is an Equal Opportunity/Vet/Disability Employer
+Job Summary of the Mobile App and Server Engineer
+This role supports the Bivy Product development team with all application and server development and support. Working with the Principal Engineer and the engineering team, this position will play an integral role in maintaining current quality standards of existing platforms, while also developing new functions and features within the Satellite and Wireless Communications business unit.
+Duties/Responsibilities
+of the Mobile App and Server Engineer
+Help build and maintain a system-critical cloud server system built on Google's Compute Engine Technology
+Help maintain and improve Android/iOS mobile apps including:
+GUI development
+Map-based navigation using GPS location data
+Bluetooth communication
+Server communication using http/REST
+Build and improve web-based tools used to interact with servers, apps, and databases
+Back-end server development
+Financial processing/payment management systems
+Database management
+Third-party system integrations
+Monitoring and deployment systems
+Quality control of software
+Code reviews, test software, and monitoring
+Documentation of code, systems, and process
+Note: This description is an outline of the major recurring responsibilities of the job. It is not intended to be all-inclusive of the work to be performed. Other related job objectives, special assignments and less significant responsibilities typically performed by the incumbent are not included.
+Required skills/abilities
+of the Mobile App and Server Engineer
+Exceptional project management and organizational skills
+Strategic thinking and problem-solving abilities
+Knowledge, Education, and Experience
+of the Mobile App and Server Engineer
+3-5 years of experience required
+Required knowledge and experience:
+Java
+Server Architecture
+REST Servlets
+Google Compute Engine
+Google Datastore
+Comfortable working with low-level memory system and binary data formats
+Databases
+Managing VM's
+Load balancing
+Certificates and Security
+Mobile App development for iOS and/or Android platforms
+Preferred knowledge and experience:
+Zephry RTOS development
+Firmware development
+Unix environment
+HTML
+JavaScript
+Java Server Development using Jetty
+Excellent multi-threaded and asynchronous programming skills
+TCP/IP Socket programming
+Comfortable working with Binary Data and low-level data protocols
+Objective-C iOS development
+Java/Kotlin Android development
+Bluetooth development
+HTML
+Angular Universal and Node.js
+C/C++
+SMS messaging systems
+Billing and merchant account systems
+GPS location/tracking and maps
+API/SDK and plug-in development
+ACR offers the following benefits:
+We offer medical, dental, and vision, which ACR pays a portion of.
+ACR pays for Life insurance up to two times base annual earnings, accidental death and dismemberment insurance, as well as short- and long-term disability for our employees.
+401K which provides an employer match of 50% of your salary up to 6%, with no vesting period!
+10 paid Holidays
+7 PTO days (prorated based on start date)
+2 weeks of paid vacation (prorated based on start date)
+Tuition reimbursement program
+Employee discount program for electronics, travel, and more.
+ACR's Core Values:
+Growth
+Customer Focus
+Teamwork
+Trust
+Communication
+Accountability
+Family
+Safety
+Compensation details:
+00 Yearly Salary
+PIdd16b2d59e72-1640
         

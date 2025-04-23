@@ -3,5 +3,212 @@ Title: Network Monitoring Engineer - Security Clearance Required
         Location: Savage, Anne Arundel County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5116658216?se=nCoUkZUb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=383B4B75BE6D49C5637C7FA2268A1B5516B59951
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Network Monitoring Engineer
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Friday, February 28, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Annapolis Junction
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ MD
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+Maximus is seeking a Network Monitoring Engineer to provide expertise to a federal client in support of their mission critical systems in defense of our Homeland.
+As a Network Monitoring Engineer, you will be responsible for maintaining our organization's network infrastructure. Your role will involve troubleshooting complex issues and ensuring the performance, availability, and security of our network systems.
+This position is an onsite role, 5 days a week and requires a secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS165, T3, Band 6
+Job-Specific Essential Duties and Responsibilities:
+- Configure and maintain network devices such as routers, switches, firewalls, load balancers, and VPN concentrators.
+- Monitor network performance, identify bottlenecks, and implement optimization strategies to ensure optimal throughput and reliability.
+- Troubleshoot and resolve network issues using firewall logs, switch packet capture tools; engaging with cross-functional teams to leverage support and collaboration when necessary
+- Conduct network capacity planning and bandwidth management to accommodate future growth and changing business needs.
+- Collaborate with other teams to integrate network infrastructure with cloud services, storage systems, and other IT components.
+- Maintain documentation related to network configurations, diagrams, standard operating procedures, and troubleshooting guides.
+- Managing, monitoring, maintaining, and securing networks and tenant network segments that integrate the transport of networks and data.
+Job-Specific Minimum Requirements:
+- Seven (7)+ years of experience in a Network Monitoring role or in a related field
+- Active Secret clearance.
+- Due to federal requirements, all candidates must be US Citizens without Dual Citizenship to another country.
+- This is an on-site position at a government facility.
+- Requires presence on-site five days per week in Annapolis Junction, MD.
+- Candidates must reside within a commutable distance.
+- Participation in a rotational on-call schedule for emergency page-outs is required.
+- Four (4) or more years of experience in the following:
+
+- Cisco ASA
+- Cisco FirePOWER
+- Cisco Catalyst
+- Cisco Nexus
+- Avaya PoE Switches
+- F5 LTM and GTM load balancers
+- KEMP load balancers
+- Juniper SRX firewall
+- Extreme Network IPS
+- ION SAL Modem SA5610
+- Raritan Secure Console Server
+- Avocent KVM Switch
+- RedSeal Appliance SYS‐1027R‐WRF4+
+- SafeNet 7000
+- Avaya Media Gateway G450
+- IBM DataPower XML Firewall
+- SolarWinds - NPM, SAM, IPAM, Netflow- IBM Netcool
+#techjobs #clearance #APPCASTDTO
+Minimum Requirements
+ 
+ 
+ 
+ TCS165, T3, Band 6
+ 
+ 
+ 
+ 
+ 
+ #MT430
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 100,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 125,000.00
         

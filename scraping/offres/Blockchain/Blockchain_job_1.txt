@@ -3,5 +3,30 @@ Title: Blockchain Engineer
         Location: Miami, Miami-Dade County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5132108536?se=FoeiGJUb8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=026BCBA31232430953362D4663087D3F4AD386BA
+        Job DescriptionJob Description
+At
+ITRADE STE
+M, we help create jobs and support the future of industries like space, technology, energy, and manufacturing. We do this by creating programs that teach skills and support sustainable growth. Join us on our mission to Redefine STEM!
+Job Overview:
+Join our client's team as a
+Blockchain Engineer
+and be part of an innovative company shaping the future. If you're a blockchain enthusiast eager to shape the future of decentralized technology, this is your opportunity. In this role, you'll develop cutting-edge smart contracts while honing your skills as a smart contract investigator, ensuring robust security and innovation. This position offers the perfect blend of technical challenges and career growth in a dynamic, forward-thinking environment. Take the next step in your blockchain journey and make an impact where it matters most.
+Responsibilities:
+Train and transition into a smart contract investigator role, building expertise in identifying and analyzing vulnerabilities and security breaches in smart contracts.
+Design, develop, and deploy secure, high-quality smart contracts on Ethereum and other blockchain platforms.
+Conduct detailed analyses of smart contract functionality to ensure they operate as intended.
+Identify and address vulnerabilities or security risks in smart contracts prior to deployment.
+Collaborate with the cybersecurity team to improve and refine tools and methodologies for smart contract analysis.
+Stay informed on the latest advancements, trends, and best practices in blockchain technology and smart contract security.
+Requirements:
+A Bachelor's degree in Computer Science, Engineering, or a related technical field.
+At least 1 year of experience as a Smart Contract Engineer, with a strong portfolio of smart contract-related projects.
+Deep understanding of blockchain technology, Ethereum, and other relevant platforms.
+Strong analytical and critical thinking skills, particularly in assessing smart contract functionality and security.
+Familiarity with common smart contract vulnerabilities and best security practices.
+Ability to work effectively both independently and within a collaborative, diverse team environment.
+Preferred Qualifications:
+Experience with additional blockchain development languages, such as Vyper.
+Prior experience in cybersecurity or as a smart contract auditor.
+A genuine interest in advancing into a smart contract investigator role.
         

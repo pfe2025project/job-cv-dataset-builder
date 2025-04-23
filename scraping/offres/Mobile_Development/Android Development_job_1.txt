@@ -3,5 +3,7 @@ Title: Mobile Android Developer
         Location: San Diego, San Diego County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5122717701?se=OstKF5Ub8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=4BA2AE5A4A9E2A835BBA906F9290BEC1C09E1810
+        * Genesis10 is seeking an Android Software Engineer for a remote 11-month hybrid contract position with a leading client in San Diego, CA. This role pays $ 55-65 /hour W2. *
+* Job Description: *
+In this position, you will be designing and developing Android applications for our core CGM devices used all over the world, to help improve the lives of people with diabetes. You will be joining a well-established team & company, on an upward growth trajectory.
         

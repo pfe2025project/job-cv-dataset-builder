@@ -3,5 +3,206 @@ Title: Red Hat Enterprise Linux (RHEL) Administrator
         Location: Savage, Anne Arundel County
         
         Description:
-        check url => https://www.adzuna.com/land/ad/5141715210?se=JNgvO5Ub8BGcu5osNyZXLA&utm_medium=api&utm_source=3abb84b6&v=66E536374E96C95319059BDDFB968D353ABE075D
+        General information
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Job Posting Title
+ 
+ 
+ 
+ Red Hat Enterprise Linux (RHEL) Administrator
+ 
+ 
+ 
+ 
+ Date
+ 
+ 
+ 
+ Friday, April 4, 2025
+ 
+ 
+ 
+ 
+ City
+ 
+ 
+ 
+ Annapolis Junction
+ 
+ 
+ 
+ 
+ State
+ 
+ 
+ 
+ MD
+ 
+ 
+ 
+ 
+ Country
+ 
+ 
+ 
+ United States
+ 
+ 
+ 
+ 
+ Working time
+ 
+ 
+ 
+ Full-time
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description & Requirements
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximus is seeking an accomplished Red Hat Enterprise Linux Administrator to provide expertise in managing and optimizing assets for our federal client's critical operations. As a Red Hat Enterprise Linux Admin, you will be responsible for managing and maintaining the RHEL infrastructure. Your role will involve overseeing system administration, configuration, troubleshooting, and ensuring the stability, security, and performance of the RHEL environment.
+This position is on-site, five days a week, and requires an active secret clearance.
+Maximus TCS (Technology and Consulting Services) Internal Job Profile Code: TCS219, T3, Band 6
+Job-Specific Essential Duties and Responsibilities:
+Manage and support RHEL-based server infrastructure, encompassing installation, configuration, and patch management
+Perform system administration tasks for RHEL 7.x/8.x, including setup, configuration, and ongoing maintenance
+Monitor and analyze system performance to identify and resolve bottlenecks, implementing strategies to enhance efficiency and reliability
+Execute system backup and recovery operations to ensure data protection and high availability
+Assess and recommend hardware and software solutions to address business needs and improve the RHEL server environment
+Develop and maintain comprehensive documentation for system configurations, processes, and troubleshooting procedures
+Conduct vulnerability assessments using tools like Tenable, HP WebInspect, and similar platforms
+Investigate security incidents, assess risks, and design mitigation strategies, implementing proactive and reactive measures to enhance security
+Job-Specific Minimum Requirements:
+Active Secret clearance.
+Due to federal requirements, all candidates must be US Citizens without Dual Citizenship to another country.
+7+ years of experience working as a system admin on Linux or Red Hat systems is required; related experience is acceptable.
+This is an on-site position at a government facility.
+Requires presence on-site five days per week in Annapolis Junction, MD.
+Candidates must reside within a commutable distance.
+Participation in a rotational on-call schedule for emergency page-outs is required.
+#APPCASTDTO #techjobs #clearance 
+
+
+ 
+ 
+ 
+ 
+ Minimum Requirements
+ 
+ 
+ 
+ TCS219, T3, Band 6
+ 
+ 
+ 
+ 
+ EEO Statement
+ 
+ 
+ 
+ Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics.
+ 
+ 
+ 
+ 
+ Pay Transparency
+ 
+ 
+ 
+ Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 80,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maximum Salary
+ 
+ 
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 120,000.00
         
