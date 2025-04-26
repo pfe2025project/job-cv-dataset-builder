@@ -169,3 +169,13 @@ offer_path,cv_path,score
 ../scraping/offres\Web_Development\GraphQL_job_1.txt,../scraping/cvs\Blockchain\Blockchain_cv_20.txt,0.23
 ../scraping/offres\Mobile_Development\Android Development_job_1.txt,../scraping/cvs\machine_learning\cv_ml_10.txt,0.42
 ../scraping/offres\Web_Development\PostgreSQL_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_27.txt,0.42
+../scraping/offres\Software_Development\React_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_270.txt,0.25
+../scraping/offres\Cybersecurity\Ransomware_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_1.txt,0.42
+../scraping/offres\Software_Development\Rust_job_1.txt,../scraping/cvs\others\others_cv_366.txt,0.12
+../scraping/offres\Data_Engineering\Data Engineering_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_53.txt,0.42
+../scraping/offres\Database_Administration\MySQL_job_1.txt,../scraping/cvs\others\others_cv_254.txt,0.12
+../scraping/offres\DevOps\CI CD_job_1.txt,../scraping/cvs\others\others_cv_9.txt,0.15
+../scraping/offres\Mobile_Development\App Development_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_114.txt,0.12
+../scraping/offres\Database_Administration\Database Administration_job_1.txt,../scraping/cvs\Database_Administration\Database_Administration_cv_22.txt,0.62
+../scraping/offres\Web_Development\PostgreSQL_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_138.txt,0.42
+../scraping/offres\Software_Development\Kotlin_job_1.txt,../scraping/cvs\others\others_cv_200.txt,0.15
