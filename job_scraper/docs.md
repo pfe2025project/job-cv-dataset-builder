@@ -5,7 +5,7 @@ L'objectif est de collecter automatiquement des offres d'emploi en ligne, de les
 
 ---
 
-### 1. Utilisation de l'API Adzuna
+### 🔎 Utilisation de l'API Adzuna
 
 Pour collecter les offres d'emploi, nous avons utilisé l'**API Adzuna**, qui fournit un accès à de nombreuses annonces disponibles en ligne.  
 Nous avons structuré et organisé les offres en fonction de plusieurs **domaines d'activité** afin de faciliter leur exploitation (ex : *Data Science*, *Développement*, etc.).
