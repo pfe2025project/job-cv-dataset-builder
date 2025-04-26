@@ -37,4 +37,4 @@ Le script de filtrage et de sauvegarde est disponible dans le notebook :
 ## 📦 Résultat
 
 Les CVs filtrés sont sauvegardés dans le répertoire suivant :
-[`scraping/cvs/`](scraping/offres/)
+[`scraping/cvs/`](../scraping/offres/)
