@@ -1,21 +1,18 @@
 {
-    "data_science": ["machine_learning", "data_analysis", "deep_learning", "ai"],
-    "machine_learning": ["data_science", "ai", "deep_learning", "data_analysis"],
-    "data_analysis": ["data_science", "business_analysis", "machine_learning"],
-    "ai": ["machine_learning", "deep_learning", "data_science", "robotics"],
-    "deep_learning": ["machine_learning", "ai", "computer_vision"],
-    "computer_vision": ["deep_learning", "image_processing", "ai"],
-    "web_development": ["frontend", "backend", "fullstack", "devops"],
-    "frontend": ["web_development", "ui_ux", "javascript"],
-    "backend": ["web_development", "devops", "database"],
-    "fullstack": ["frontend", "backend", "web_development"],
-    "devops": ["backend", "cloud", "fullstack"],
-    "cloud": ["devops", "networking", "system_admin"],
-    "cybersecurity": ["networking", "system_admin", "cloud"],
-    "networking": ["system_admin", "cloud", "cybersecurity"],
-    "system_admin": ["networking", "cloud", "cybersecurity"],
-    "marketing": ["communication", "social_media", "digital_marketing"],
-    "digital_marketing": ["marketing", "content_creation", "seo"],
-    "communication": ["marketing", "public_relations", "journalism"]
-  }
-  
+  "Data_Science": ["AI_and_ML", "Data_Engineering"],
+  "Cybersecurity": ["Networking", "Technical_Support", "Cloud_Computing"],
+  "Software_Development": ["Web_Development", "Mobile_Development", "Game_Development"],
+  "Cloud_Computing": ["DevOps", "Data_Engineering", "Cybersecurity"],
+  "AI_and_ML": ["Data_Science", "Data_Engineering"],
+  "Web_Development": ["Software_Development", "Mobile_Development"],
+  "Mobile_Development": ["Web_Development", "Software_Development"],
+  "Blockchain": [],
+  "DevOps": ["Cloud_Computing", "Software_Development"],
+  "IoT": ["Networking", "Mobile_Development"],
+  "Game_Development": ["Software_Development"],
+  "Data_Engineering": ["Data_Science", "AI_and_ML", "Cloud_Computing"],
+  "Networking": ["Cybersecurity", "Technical_Support", "IoT"],
+  "Database_Administration": [],
+  "Technical_Support": ["Cybersecurity", "Networking"],
+  "others":[]
+}

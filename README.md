@@ -25,8 +25,12 @@ Le dataset final labellisé sera sauvegardé dans le dossier **data/**, prêt po
 ---
 ## Génération de CV
 
+Guide ==> [cv_scraper/docs.md](./cv_scraper/docs.md)
+
 ---
 ## Génération d'Offres
+
+Guide ==> [job_scraper/docs.md](./job_scraper/docs.md)
 
 ---
 ## Annotation
