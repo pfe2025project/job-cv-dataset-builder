@@ -73,4 +73,4 @@ Le dataset final labellisé est sauvegardé dans **[data/labeled_data.csv](./dat
 
 ---
 
-> Projet réalisé dans le cadre de notre **Project de Fin D'Etude**.
+> Projet réalisé dans le cadre de notre **Projet de Fin d'Études**.
