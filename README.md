@@ -9,7 +9,7 @@
 Ce dépôt a pour but de :
 - Collecter des **offres d’emploi** via scraping ou datasets publics
 - Extraire et convertir des **CVs** (formats PDF / Word → texte brut)
-- Annoter automatiquement les paires offre/CV avec des **labels (0 ou 1)** en utilisant des **LLM** (GPT, Gemini…)
+- Annoter automatiquement les paires offre/CV avec des **labels (entre 0 et 1)** en utilisant des **LLM** (GPT, Gemini…)
 - Nettoyer, prétraiter et structurer les données pour l'entraînement d’un modèle de **matching NLP**
 
 ---
@@ -53,29 +53,5 @@ Ce fichier est directement prêt pour un usage en **fine-tuning**, **entraîneme
 
 📄 Guide ➔ [annotation/docs.md](./annotation/docs.md)
 
----
-
-
-Le dataset final labellisé est sauvegardé dans **[data/labeled_data.csv](./data/labeled_data.csv)**, prêt pour l'entraînement d'un modèle NLP.
-
-
-
 
 ---
-
-
----
-## 👨‍💻 Auteurs
-
-- **Mohamed OUABBI**  
-  [LinkedIn](https://www.linkedin.com/in/mahamed-ouabbi/) • [Site Web](https://mouabbi.github.io/ouabbi/)
-
-- **MAHID MOHAMED AMINE**  
-  [LinkedIn](https://www.linkedin.com/in/son-linkedin/)
-
-- **TAOUFIK EL ACHAOUCH**  
-  [LinkedIn](https://www.linkedin.com//)
-
----
-
-> Projet réalisé dans le cadre de notre **Project de Fin D'Etude**.
