@@ -132,6 +132,6 @@ Réponds uniquement par le nombre.
 ## 📦 Résultat
 
 les scores obtenus sont sauvegardés dans le fichier suivant :
-[`annotated_data.csv`](annotated_data.csv)
+[`data/labled_data.csv`](../data/labled_data.csv)
 
 ---

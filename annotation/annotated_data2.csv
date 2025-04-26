@@ -49,3 +49,123 @@ offer_path,cv_path,score
 ../scraping/offres\Networking\Routing_job_1.txt,../scraping/cvs\others\others_cv_220.txt,0.23
 ../scraping/offres\Cybersecurity\Cybersecurity_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_12.txt,0.42
 ../scraping/offres\Web_Development\JavaScript_job_1.txt,../scraping/cvs\others\others_cv_93.txt,0.05
+../scraping/offres\Cybersecurity\Penetration Testing_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_61.txt,0.42
+../scraping/offres\Technical_Support\Windows Server_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_93.txt,0.12
+../scraping/offres\Data_Science\Matplotlib_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_5.txt,0.42
+../scraping/offres\Blockchain\DeFi_job_1.txt,../scraping/cvs\Blockchain\Blockchain_cv_20.txt,0.42
+../scraping/offres\Database_Administration\MongoDB_job_1.txt,../scraping/cvs\Database_Administration\Database_Administration_cv_25.txt,0.42
+../scraping/offres\Data_Engineering\Data Warehousing_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_76.txt,0.62
+../scraping/offres\Database_Administration\SQL_job_1.txt,../scraping/cvs\others\others_cv_105.txt,0.12
+../scraping/offres\AI_and_ML\Reinforcement Learning_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_191.txt,0.12
+../scraping/offres\Database_Administration\Data Backup_job_1.txt,../scraping/cvs\Database_Administration\Database_Administration_cv_31.txt,0.42
+../scraping/offres\Cloud_Computing\Docker_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_4.txt,0.12
+../scraping/offres\Cybersecurity\Malware_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_25.txt,0.12
+../scraping/offres\DevOps\Infrastructure as Code_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_68.txt,0.42
+../scraping/offres\Cybersecurity\Firewall_job_1.txt,../scraping/cvs\others\others_cv_183.txt,0.02
+../scraping/offres\Software_Development\Symfony_job_1.txt,../scraping/cvs\others\others_cv_117.txt,0.15
+../scraping/offres\Database_Administration\Oracle_job_1.txt,../scraping/cvs\Database_Administration\Database_Administration_cv_22.txt,0.62
+../scraping/offres\Mobile_Development\Xcode_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_126.txt,0.12
+../scraping/offres\Software_Development\Django_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_158.txt,0.42
+../scraping/offres\Mobile_Development\Android Studio_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_99.txt,0.42
+../scraping/offres\Data_Science\NoSQL_job_1.txt,../scraping/cvs\others\others_cv_277.txt,0.42
+../scraping/offres\Game_Development\Mobile Game Development_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_57.txt,0.42
+../scraping/offres\Data_Engineering\Apache Spark_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_86.txt,0.21
+../scraping/offres\Cloud_Computing\Google Cloud_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_27.txt,0.12
+../scraping/offres\Database_Administration\Data Migration_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_22.txt,0.23
+../scraping/offres\IoT\Smart Devices_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_127.txt,0.12
+../scraping/offres\Data_Engineering\Big Data_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_8.txt,0.42
+../scraping/offres\Cybersecurity\Cybersecurity_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_22.txt,0.42
+../scraping/offres\Mobile_Development\Flutter_job_1.txt,../scraping/cvs\machine_learning\cv_ml_3.txt,0.42
+../scraping/offres\Mobile_Development\App Development_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_27.txt,0.23
+../scraping/offres\Web_Development\Angular_job_1.txt,../scraping/cvs\others\others_cv_111.txt,0.12
+../scraping/offres\Web_Development\Express.js_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_23.txt,0.42
+../scraping/offres\IoT\Arduino_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_3.txt,0.42
+../scraping/offres\Cybersecurity\Incident Response_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_74.txt,0.23
+../scraping/offres\Data_Science\Pandas_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_6.txt,0.42
+../scraping/offres\Software_Development\Kotlin_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_97.txt,0.42
+../scraping/offres\Data_Engineering\Apache Spark_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_24.txt,0.23
+../scraping/offres\Data_Science\Keras_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_121.txt,0.12
+../scraping/offres\Web_Development\Vue.js_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_25.txt,0.15
+../scraping/offres\Mobile_Development\Android Studio_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_23.txt,0.42
+../scraping/offres\Networking\TCP_IP_job_1.txt,../scraping/cvs\others\others_cv_269.txt,0.42
+../scraping/offres\Web_Development\CSS_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_32.txt,0.05
+../scraping/offres\Networking\Network Performance_job_1.txt,../scraping/cvs\Blockchain\Blockchain_cv_8.txt,0.23
+../scraping/offres\Web_Development\Node.js_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_22.txt,0.25
+../scraping/offres\AI_and_ML\TensorFlow_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_2.txt,0.12
+../scraping/offres\Networking\Network Security_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_161.txt,0.42
+../scraping/offres\Software_Development\Rust_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_4.txt,0.12
+../scraping/offres\Blockchain\Solidity_job_1.txt,../scraping/cvs\Blockchain\Blockchain_cv_19.txt,0.02
+../scraping/offres\Mobile_Development\Android_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_79.txt,0.25
+../scraping/offres\AI_and_ML\Reinforcement Learning_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_64.txt,0.24
+../scraping/offres\DevOps\Terraform_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_89.txt,0.4
+../scraping/offres\Data_Science\SQL_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_124.txt,0.15
+../scraping/offres\Web_Development\Vue.js_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_6.txt,0.42
+../scraping/offres\Cybersecurity\SIEM_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_85.txt,0.21
+../scraping/offres\Mobile_Development\Xcode_job_1.txt,../scraping/cvs\others\others_cv_190.txt,0.12
+../scraping/offres\DevOps\Docker_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_52.txt,0.15
+../scraping/offres\Data_Science\Seaborn_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_102.txt,0.42
+../scraping/offres\Web_Development\Laravel_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_18.txt,0.42
+../scraping/offres\Mobile_Development\App Development_job_1.txt,../scraping/cvs\others\others_cv_150.txt,0.2
+../scraping/offres\Blockchain\Blockchain Developer_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_80.txt,0.2
+../scraping/offres\IoT\Edge Computing_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_146.txt,0.15
+../scraping/offres\IoT\Wireless Networks_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_86.txt,0.12
+../scraping/offres\Web_Development\JQuery_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_32.txt,0.23
+../scraping/offres\Data_Engineering\Apache Spark_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_13.txt,0.42
+../scraping/offres\AI_and_ML\Neural Networks_job_1.txt,../scraping/cvs\others\others_cv_109.txt,0.23
+../scraping/offres\Data_Engineering\Data Warehousing_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_46.txt,0.15
+../scraping/offres\Cloud_Computing\Cloud DevOps_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_58.txt,0.42
+../scraping/offres\IoT\Embedded Systems_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_6.txt,0.12
+../scraping/offres\Database_Administration\NoSQL_job_1.txt,../scraping/cvs\others\others_cv_304.txt,0.23
+../scraping/offres\Data_Science\Matplotlib_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_23.txt,0.42
+../scraping/offres\Web_Development\Flask_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_10.txt,0.15
+../scraping/offres\IoT\IoT Platforms_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_63.txt,0.23
+../scraping/offres\Cloud_Computing\CI CD_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_25.txt,0.42
+../scraping/offres\IoT\Smart Devices_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_23.txt,0.23
+../scraping/offres\Networking\Juniper_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_6.txt,0.2
+../scraping/offres\Game_Development\3D Modeling_job_1.txt,../scraping/cvs\others\others_cv_183.txt,0.12
+../scraping/offres\Data_Science\Data Analyst_job_1.txt,../scraping/cvs\others\others_cv_313.txt,0.25
+../scraping/offres\Software_Development\JavaScript_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_84.txt,0.23
+../scraping/offres\Cloud_Computing\Docker_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_30.txt,0.12
+../scraping/offres\Software_Development\Node.js_job_1.txt,../scraping/cvs\others\others_cv_296.txt,0.12
+../scraping/offres\Software_Development\Python Software Development_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_13.txt,0.12
+../scraping/offres\Networking\Network Troubleshooting_job_1.txt,../scraping/cvs\others\others_cv_38.txt,0.2
+../scraping/offres\Software_Development\CI CD_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_20.txt,0.42
+../scraping/offres\Game_Development\Mobile Game Development_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_42.txt,0.42
+../scraping/offres\AI_and_ML\PyTorch_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_52.txt,0.12
+../scraping/offres\Mobile_Development\iOS_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_61.txt,0.42
+../scraping/offres\AI_and_ML\AI Engineer_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_68.txt,0.42
+../scraping/offres\Cloud_Computing\Docker_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_62.txt,0.42
+../scraping/offres\Data_Science\TensorFlow_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_50.txt,0.15
+../scraping/offres\Data_Science\Numpy_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_48.txt,0.42
+../scraping/offres\IoT\Wireless Networks_job_1.txt,../scraping/cvs\others\others_cv_200.txt,0.2
+../scraping/offres\Data_Science\Spark_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_30.txt,0.02
+../scraping/offres\Cloud_Computing\CI CD_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_39.txt,0.42
+../scraping/offres\Web_Development\Serverless_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_43.txt,0.42
+../scraping/offres\DevOps\Linux_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_11.txt,0.12
+../scraping/offres\Blockchain\NFTs_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_301.txt,0.15
+../scraping/offres\Technical_Support\Linux Server_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_188.txt,0.25
+../scraping/offres\Technical_Support\Active Directory_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_4.txt,0.12
+../scraping/offres\IoT\Automation_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_10.txt,0.12
+../scraping/offres\AI_and_ML\Neural Networks_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_14.txt,0.42
+../scraping/offres\Cybersecurity\Cybersecurity_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_26.txt,0.42
+../scraping/offres\Database_Administration\Database Security_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_285.txt,0.23
+../scraping/offres\Technical_Support\Troubleshooting_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_12.txt,0.12
+../scraping/offres\Technical_Support\Technical Support_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_36.txt,0.12
+../scraping/offres\Game_Development\Game AI_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_41.txt,0.23
+../scraping/offres\Mobile_Development\Android_job_1.txt,../scraping/cvs\others\others_cv_163.txt,0.12
+../scraping/offres\Cybersecurity\Security Operations Center_job_1.txt,../scraping/cvs\Cybersecurity\Cybersecurity_cv_18.txt,0.42
+../scraping/offres\Networking\Juniper_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_62.txt,0.12
+../scraping/offres\Data_Engineering\Hadoop_job_1.txt,../scraping/cvs\others\others_cv_289.txt,0.23
+../scraping/offres\AI_and_ML\Supervised Learning_job_1.txt,../scraping/cvs\AI_and_ML\AI_and_ML_cv_18.txt,0.12
+../scraping/offres\Data_Engineering\ETL_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_36.txt,0.62
+../scraping/offres\Web_Development\Laravel_job_1.txt,../scraping/cvs\Web_Development\Web_Development_cv_30.txt,0.42
+../scraping/offres\Cybersecurity\Malware_job_1.txt,../scraping/cvs\Data_Science\Data_Science_cv_17.txt,0.23
+../scraping/offres\Database_Administration\NoSQL_job_1.txt,../scraping/cvs\Database_Administration\Database_Administration_cv_26.txt,0.62
+../scraping/offres\AI_and_ML\Artificial Intelligence_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_63.txt,0.42
+../scraping/offres\Data_Science\Seaborn_job_1.txt,../scraping/cvs\others\others_cv_293.txt,0.25
+../scraping/offres\Game_Development\Game Programming_job_1.txt,../scraping/cvs\Data_Engineering\Data_Engineering_cv_31.txt,0.2
+../scraping/offres\Networking\Network Security_job_1.txt,../scraping/cvs\Cloud_Computing\Cloud_Computing_cv_19.txt,0.12
+../scraping/offres\Data_Engineering\Kafka_job_1.txt,../scraping/cvs\Software_Development\Software_Development_cv_26.txt,0.12
+../scraping/offres\Web_Development\GraphQL_job_1.txt,../scraping/cvs\Blockchain\Blockchain_cv_20.txt,0.23
+../scraping/offres\Mobile_Development\Android Development_job_1.txt,../scraping/cvs\machine_learning\cv_ml_10.txt,0.42
+../scraping/offres\Web_Development\PostgreSQL_job_1.txt,../scraping/cvs\DevOps\DevOps_cv_27.txt,0.42

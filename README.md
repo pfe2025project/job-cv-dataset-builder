@@ -1,6 +1,6 @@
 # 🧰 job-cv-dataset-builder
 
-> 📦 repo de collecte, annotation et préparation de données pour le matching entre CVs et offres d'emploi.
+> 📦 Repo de collecte, annotation et préparation de données pour le matching entre CVs et offres d'emploi.
 
 ---
 
@@ -16,26 +16,66 @@ Ce dépôt a pour but de :
 
 ## 📂 Structure des données
 
-Les **CVs** et les **offres d’emploi** collectés sont stockés dans les dossiers **scraping/cvs/** et **scraping/offers/**, organisés par domaine (ex. frontend/, backend/, data_science/, etc.).
+Les **CVs** et les **offres d’emploi** collectés sont stockés dans les dossiers **`scraping/cvs/`** et **`scraping/offers/`**, organisés par domaine (ex. frontend/, backend/, data_science/, etc.).
 
-L’annotation automatique (labellisation) est gérée par un script situé dans le dossier **annotation/**.
+L’annotation automatique (labellisation) est gérée par un script situé dans le dossier **`annotation/`**.
 
-Le dataset final labellisé sera sauvegardé dans le dossier **data/**, prêt pour l'entraînement du modèle.
-
----
-## Génération de CV
-
-Guide ==> [cv_scraper/docs.md](./cv_scraper/docs.md)
+Le dataset final labellisé est sauvegardé dans **`data/labled_data.csv`**, prêt pour l'entraînement d'un modèle NLP.
 
 ---
-## Génération d'Offres
 
-Guide ==> [job_scraper/docs.md](./job_scraper/docs.md)
+## 🛠️ Préparation du dataset
+
+Le script lit les chemins des offres et des CVs, extrait le texte brut, associe le score de similarité et enregistre tout dans **`data/labled_data.csv`** sous la forme :
+
+| offer_text | cv_text | score |
+|:----------:|:-------:|:-----:|
+
+Ce fichier est directement prêt pour un usage en **fine-tuning**, **entraînement supervisé** ou **évaluation de matching modèle**.
 
 ---
-## Annotation
 
-Guide ==> [annotation/docs.md](./annotation/docs.md)
+## 🚀 Guides
+
+### Génération de CVs
+
+📄 Guide ➔ [cv_scraper/docs.md](./cv_scraper/docs.md)
+
+---
+
+### Génération d'Offres
+
+📄 Guide ➔ [job_scraper/docs.md](./job_scraper/docs.md)
+
+---
+
+### Annotation
+
+📄 Guide ➔ [annotation/docs.md](./annotation/docs.md)
+
+---
+
+
+Le dataset final labellisé est sauvegardé dans **[data/labeled_data.csv](./data/labeled_data.csv)**, prêt pour l'entraînement d'un modèle NLP.
+
+
 
 
 ---
+
+
+---
+## 👨‍💻 Auteurs
+
+- **Mohamed OUABBI**  
+  [LinkedIn](https://www.linkedin.com/in/mahamed-ouabbi/) • [Site Web](https://mouabbi.github.io/ouabbi/)
+
+- **MAHID MOHAMED AMINE**  
+  [LinkedIn](https://www.linkedin.com/in/son-linkedin/)
+
+- **TAOUFIK EL ACHAOUCH**  
+  [LinkedIn](https://www.linkedin.com//)
+
+---
+
+> Projet réalisé dans le cadre de notre **Project de Fin D'Etude**.
