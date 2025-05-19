@@ -7,7 +7,7 @@ import re
 from dotenv import load_dotenv
 load_dotenv()
 
-api_key = os.getenv("GROQ_API_KEY2")
+api_key = os.getenv("GROQ_API_KEY3")
 
 # def generate_prompt(offer_text, cv_text):
 #     return f"""
@@ -36,13 +36,14 @@ Tu es un expert en recrutement. Évalue la pertinence de ce CV pour cette offre 
 
 Voici comment évaluer :
 - Si le CV correspond parfaitement au poste → score proche de 1.0.
-- Si le CV est du même domaine mais pas parfaitement adapté → score entre 0.5 et 0.8.
-- Si le CV est partiellement relié mais loin des compétences demandées → score entre 0.3 et 0.5.
+- Si le CV est du même domaine mais pas parfaitement adapté → score entre 0.6 et 0.8.
+- Si le CV est partiellement relié mais loin des compétences demandées → score entre 0.3 et 0.6.
 - Si le CV n’a presque aucun lien → score < 0.3.
 
 Donne uniquement un score de similarité entre 0 et 1 (sous forme de nombre flottant).
 ⚠️ Ne donne rien d'autre que ce nombre. Pas d'explication, pas de justification. Juste le score.
 """
+
 
 def get_groq_score(offer_text, cv_text):
     prompt = generate_prompt(offer_text, cv_text)

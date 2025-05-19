@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 
 
 def scrape_full_description(url):
-    # url = "https://www.adzuna.com/details/5144008860?i=mLWh6ckf8BGjOeM9geOW7w&se=6FJORpEb8BG0P-x9F3cHCQ&utm_medium=api&utm_source=3abb84b6&v=1A726510400C0C09BC3626CCDB41EDEC7C24B027"
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
@@ -27,7 +26,6 @@ def scrape_full_description(url):
             return "❌ Could not find the full job description."
     except Exception as e:
         return f"❌ Error: {e}"
-
 
 
 

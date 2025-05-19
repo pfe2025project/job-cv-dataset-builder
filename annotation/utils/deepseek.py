@@ -9,17 +9,17 @@ api_key = os.getenv("OPENROUTER_API_KEY2")
 
 def generate_prompt(offer_text, cv_text):
     return f"""
-Tu es un expert en recrutement. Évalue la pertinence de ce CV pour cette offre d’emploi.
+    Tu es un expert en recrutement. Évalue la pertinence de ce CV pour cette offre d’emploi.
 
-### Offre :
-{offer_text}
+    ### Offre :
+    {offer_text}
 
-### CV :
-{cv_text}
+    ### CV :
+    {cv_text}
 
-Donne uniquement un score de similarité entre 0 et 1 (sous forme de nombre flottant). 
-⚠️ Ne donne rien d'autre que ce nombre. Pas d'explication, pas de justification. Juste le score.
-"""
+    Donne uniquement un score de similarité entre 0 et 1 (sous forme de nombre flottant). 
+    ⚠️ Ne donne rien d'autre que ce nombre. Pas d'explication, pas de justification. Juste le score.
+    """
 
 
 
